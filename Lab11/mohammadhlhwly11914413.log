@@ -1,0 +1,1178 @@
+Script started on 2020-12-17 04:55:13-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/Desktop[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/Desktop[00m$ [K]0;mohammad@mohammad-H61M-D2H-USB3: ~/Desktop[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/Desktop[00m$ [K]0;mohammad@mohammad-H61M-D2H-USB3: ~/Desktop[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/Desktop[00m$ script -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[Kat mohammadhlhwly11914413.logd Desktop[K./delete myfirst wrong di [13Ptouch myfirstchmod +x delete[7Pmkdir dils[Kvi delete./listarguments a hello 7 x[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pchmod +x listarguments[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[Clistarguments a hello 7 x[3Pchmod +x listargumentslistarguments a hello 7 x[9Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -a
+Linux mohammad-H61M-D2H-USB3 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/Desktop[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/Desktop[00m$ uname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[Kat mohammadhlhwly11914413.logd Desktop[K./delete myfirst wrong di [13Ptouch myfirstchmod +x delete[7Pmkdir dils[Kvi delete./listarguments a hello 7 x[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pchmod +x listarguments[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[Clistarguments a hello 7 x[3Pchmod +x listargumentslistarguments a hello 7 x[9Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger
+/home/mohammad
+mohammad
+
+Command 'finger' not found, but can be installed with:
+
+sudo apt install finger
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~[00m$ cd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -acd; pwd; whoami; fingersudo apt install anydesk
+[sudo] password for mohammad: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+anydesk is already the newest version (6.0.1).
+You might want to run 'apt --fix-broken install' to correct these.
+The following packages have unmet dependencies:
+ libreoffice-core : Depends: libreoffice-common (> 1:6.4.6) but 1:6.4.4-0ubuntu0.20.04.1 is to be installed
+[1;31mE: [0mUnmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution).[0m
+]0;mohammad@mohammad-H61M-D2H-USB3: ~[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~[00m$ sudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[3Ptail  -2  /etc/passwd
+nvidia-persistenced:x:126:133:NVIDIA Persistence Daemon,,,:/nonexistent:/sbin/nologin
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+]0;mohammad@mohammad-H61M-D2H-USB3: ~[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~[00m$ tail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly 
+mohammad khaled mohammad hlhwly
+]0;mohammad@mohammad-H61M-D2H-USB3: ~[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~[00m$ echo mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdecho mohammad khaled mohammad hlhwly  1191413[K
+1191413
+]0;mohammad@mohammad-H61M-D2H-USB3: ~[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~[00m$ echo  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -acd; pwd; whoami; fingersudo apt install anydesk[3Ptail  -2  /etc/passwdecho mohammad khaled mohammad hlhwly  1191413[K[Kecho  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@script -a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cuname  -a[Kcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[3Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[Kat mohammadhlhwly11914413.logd Desktop[K./delete myfirst wrong di [13Ptouch myfirstchmod +x delete[7Pmkdir dils[Kvi delete./listarguments a hello 7 x[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pchmod +x listarguments[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[Clistarguments a hello 7 x[3Pchmod +x listargumentslistarguments a hello 7 x[9Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[K./delete myfirstls[Kchmod +x delete./listarguments a hello 7 x[11Pvi listargumentslistarguments a hello 7 x[3Pchmod +x listarguments[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pdelete[2Pdelete chmod +x delete[6Pvi[C[C[C[C[C[C[C[1Pcd lab11echo  1191413[5Pcd lab11
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[Kat mohammadhlhwly11914413.logd Desktop[K./delete myfirst wrong di [13Ptouch myfirstchmod +x delete[7Pmkdir dils[Kvi delete./listarguments a hello 7 x[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pchmod +x listarguments[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[Clistarguments a hello 7 x[3Pchmod +x listargumentslistarguments a hello 7 x[9Pvi listarguments
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;38r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[38;1H"listarguments" 5 lines, 67 characters[1;1Hwhile [ $# -ne 0 ]
+    do[3;9Hecho [$1][4;9Hshift
+    done
+[94m~                                                                                                                                             [7;1H~                                                                                                                                             [8;1H~                                                                                                                                             [9;1H~                                                                                                                                             [10;1H~                                                                                                                                             [11;1H~                                                                                                                                             [12;1H~                                                                                                                                             [13;1H~                                                                                                                                             [14;1H~                                                                                                                                             [15;1H~                                                                                                                                             [16;1H~                                                                                                                                             [17;1H~                                                                                                                                             [18;1H~                                                                                                                                             [19;1H~                                                                                                                                             [20;1H~                                                                                                                                             [21;1H~                                                                                                                                             [22;1H~                                                                                                                                             [23;1H~                                                                                                                                             [24;1H~                                                                                                                                             [25;1H~                                                                                                                                             [26;1H~                                                                                                                                             [27;1H~                                                                                                                                             [28;1H~                                                                                                                                             [29;1H~                                                                                                                                             [30;1H~                                                                                                                                             [31;1H~                                                                                                                                             [32;1H~                                                                                                                                             [33;1H~                                                                                                                                             [34;1H~                                                                                                                                             [35;1H~                                                                                                                                             [36;1H~                                                                                                                                             [37;1H~                                                                                                                                             [1;1H[?25h[?25l[m[38;1H[K[38;1H:[?2004h[?25hwq[?25l[?2004l"listarguments" 5 lines, 67 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[Kat mohammadhlhwly11914413.logd Desktop[K./delete myfirst wrong di [13Ptouch myfirstchmod +x delete[7Pmkdir dils[Kvi delete./listarguments a hello 7 x[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pchmod +x listargumentslistarguments a hello 7 x[2@./[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[a]
+[hello]
+[7]
+[x]
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[Ktouch myfirst./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.logcd Desktop[Kat mohammadhlhwly11914413.logd Desktop[K./delete myfirst wrong di [13Ptouch myfirstchmod +x delete[7Pmkdir dils[Kvi delete./listarguments a hello 7 x[18Pvi delete
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;38r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[38;1H"delete" 20 lines, 354 characters[1;1Hif [ $# -eq 0 ]
+then[3;6Hecho usago : yoy must pass at leat one file or directory
+else
+while [ $# -ne 0 ]
+do
+   if [ -f $1 ][8;7Hthen[9;12Hrm $1[10;12Hecho file [$1][11;7Helif [ -d $1 ][12;7Hthen[13;13Hrm -r $1[14;13Hecho directory [$1] deleted[15;7Helse[16;13Hecho no file or directory name [$1][17;7Hfi[19;4Hdone
+fi
+[94m~                                                                                                                                             [22;1H~                                                                                                                                             [23;1H~                                                                                                                                             [24;1H~                                                                                                                                             [25;1H~                                                                                                                                             [26;1H~                                                                                                                                             [27;1H~                                                                                                                                             [28;1H~                                                                                                                                             [29;1H~                                                                                                                                             [30;1H~                                                                                                                                             [31;1H~                                                                                                                                             [32;1H~                                                                                                                                             [33;1H~                                                                                                                                             [34;1H~                                                                                                                                             [35;1H~                                                                                                                                             [36;1H~                                                                                                                                             [37;1H~                                                                                                                                             [1;1H[?25h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[m 
+  
+[?2004l[>4;m[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25ls[?25h[?25lh[?25h[?25li[?25h[?25lf[?25h[?25lt[?25h[?2004h[>4;2m[?25l[38;1H[K[38;1H:[?2004h[?25hwq[?25l[?2004l"delete" 20 lines, 365 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi delete./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[K./delete myfirst wrong di mysecandls[K
+[0m[01;32mdelete[0m  [01;34mdi[0m  [01;32mlistarguments[0m  mysecand
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch myfirst
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch myfirstls[K
+[0m[01;32mdelete[0m  [01;34mdi[0m  [01;32mlistarguments[0m  myfirst  mysecand
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ lstouch myfirstls[Kvi delete./listarguments a hello 7 x[11Pvi listarguments[8Pcd lab11echo  1191413mohammad khaled mohammad hlhwly [16Ptail  -2  /etc/passwdsudo apt install anydesk[1Pcd; pwd; whoami; finger[14Puname  -ascript -a mohammadhlhwly11914413.log[6Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd Desktop[K./delete myfirst wrong di mysecandls[K./delete myfirst wrong di mysecand
+file [myfirst]
+no file or directory name [wrong]
+directory [di] deleted
+file [mysecand]
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./delete myfirst wrong di mysecandls[K
+[0m[01;32mdelete[0m  [01;32mlistarguments[0m
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi [K[K[Ktouch findahmad
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ [K]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ [K]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat findahmad
+echo Enter name 
+read name
+while [ "$name" != "ahmad" ] 
+do 
+   echo $name : wrong name .Try again.
+   echo Enter name 
+   read name
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./ [Kfindahmad
+bash: ./findahmad: Permission denied
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./findahmad[1Pfindahmad[1Pfindahmad
+findahmad: command not found
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ checkusenames
+checkusenames: command not found
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ checkusenames.checkusenames/checkusenames
+bash: ./checkusenames: No such file or directory
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./checkusenames[2Pcheckusenames[4Pfindahmad./findahmad[2Pfindahmadcheckusenames./checkusenames[2Pcheckusenames[4Pfindahmadcfindahmadhfindahmadmfindahmadofindahmaddfindahmadefindahmad findahmadxfindahmad+findahmad findahmad
+
+Command 'chmode' not found, did you mean:
+
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmode x+ findahmad[1P[Cx findahmad
+
+Command 'chmode' not found, did you mean:
+
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmode +x findahmad[1P findahmad[1P findahmad[1Pfindahmad[1P findahmad[C findahmad+- findahmadx findahmad[1P findahmad[1P findahmadx findahmad
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x findahmad[1@e[C[C[C[C[C[C[C[C[C[C[C[C[Cx+[C[C[C[C[C[C[C[C[C[C[4P./checkusenames[2Pcheckusenames[4Pfindahmad./findahmad
+Enter name
+mohammad
+mohammad : wrong name .Try again.
+Enter name
+ahmad
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./findahmadchmod +x findahmad[1@e[C[C[C[C[C[C[C[C[C[C[C[C[Cx+[C[C[C[C[C[C[C[C[C[C[4P./checkusenames[C[1Pcheckusenames[1Pcheckusenamestcheckusenamesocheckusenamesucheckusenames[Ccheckusenameshcheckusenames checkusenames
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat checkusenames
+echo Enter use name to chec or word
+read name
+while [ "$name" != "enou" ] 
+do  
+    output = $( prj_passwd | grep "^$name:" | cut -d : -f5 | sed "s/ / /g")
+    if [ -z "soutput" ]
+    then 
+         echo $1 =no such usename 
+         
+    else 
+         echo $1 = $output 
+        
+    fi
+fi
+echo Enter use name to chec or word
+read name
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x checkusenames
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x checkusenames[1Pcheckusenames[1Pcheckusenames[1Pcheckusenames[1Pcheckusenames[1Pcheckusenames[1Pcheckusenames[1Pcheckusenames[1Pcheckusenames[1Pheckusenames.checkusenames/checkusenames[C[C[C[C[C[C[C[C[C[C[C[C s[1Ps[C u1150409[K[K[K[K[K[K[K[K
+Enter use name to chec or word
+u1150409
+./checkusenames: line 14: syntax error near unexpected token `fi'
+./checkusenames: line 14: `fi'
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./checkusenames [K./checkusenames chmod +x checkusenames[5Pat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5@hmod +x[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x checkusenames[6P./checkusenames 
+Enter use name to chec or word
+u1150409
+./checkusenames: line 14: syntax error near unexpected token `fi'
+./checkusenames: line 14: `fi'
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./checkusenames chmod +x checkusenames
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x checkusenames[6P./checkusenames chmod +x checkusenames[6P./checkusenames 
+Enter use name to chec or word
+u1150409
+./checkusenames: line 5: output: command not found
+=
+Enter use name to chec or word
+4465
+./checkusenames: line 5: output: command not found
+=
+Enter use name to chec or word
+enou
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi name
+
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;23r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[23;1H"name" [New File][2;1H[94m~                                                                              [3;1H~                                                                              [4;1H~                                                                              [5;1H~                                                                              [6;1H~                                                                              [7;1H~                                                                              [8;1H~                                                                              [9;1H~                                                                              [10;1H~                                                                              [11;1H~                                                                              [12;1H~                                                                              [13;1H~                                                                              [14;1H~                                                                              [15;1H~                                                                              [16;1H~                                                                              [17;1H~                                                                              [18;1H~                                                                              [19;1H~                                                                              [20;1H~                                                                              [21;1H~                                                                              [22;1H~                                                                              [1;1H[?25h[?2004l[>4;m[?25l[mf[?25h[?25lr[?25h[?25lo[?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25lo[?25h[?25lr[?25h[?25l [?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?25li[?25h[?25ln[?25h[?25l [?25h[?25la[?25h[?25lh[?25h[?25lm[?25h[?25la[?25h[?25ld[?25h[?25l [?25h[?25lm[?25h[?25lo[?25h[?25lh[?25h[?25la[?25h[?25lm[?25h[?25lm[?25h[?25la[?25h[?25ld[?25h[?25l [?25h[?25ld[?25h[?25lc[?25h[?25lv[?25h[?25ln[?25h[?25ld[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25ld[?25h[?25lo[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l$[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25ld[?25h[?25lo[?25h[?25ln[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;22r[4;1H[L[1;23r[23;1H[K[4;1H[?25h[?2004h[>4;2m[?25l[23;1H:[?2004h[?25hwq[?25l[?2004l"name" [New File] 5 lines, 60 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmos +x name 
+
+Command 'chmos' not found, did you mean:
+
+  command 'chmls' from deb fp-utils-3.0.4 (3.0.4+dfsg-23)
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+  command 'chaos' from deb emboss (6.6.0+dfsg-7ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmos +x name [1P[1@d
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ name.name/name
+ahmad
+mohammad
+dcvnd
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat name
+for name in ahmad mohammad dcvnd 
+do 
+     echo $name
+
+done
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi ss
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;23r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[23;1H"ss" [New File][2;1H[94m~                                                                              [3;1H~                                                                              [4;1H~                                                                              [5;1H~                                                                              [6;1H~                                                                              [7;1H~                                                                              [8;1H~                                                                              [9;1H~                                                                              [10;1H~                                                                              [11;1H~                                                                              [12;1H~                                                                              [13;1H~                                                                              [14;1H~                                                                              [15;1H~                                                                              [16;1H~                                                                              [17;1H~                                                                              [18;1H~                                                                              [19;1H~                                                                              [20;1H~                                                                              [21;1H~                                                                              [22;1H~                                                                              [1;1H[?25h[?2004l[>4;m[?25l[mf[?25h[?25lo[?25h[?25lr[?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l$[?25h[?25l*[?25h[?2004h[>4;2m[?25l[23;1H[K[23;1H:[?2004h[?25hwq[?25l[?2004l"ss" [New File] 1 line, 8 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi ss[Kvi sscat name[2P./namechmod +x name [K[K[K[K[Ksss[K
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./ss
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./ss ahmad mohammad fvfvf
+ahmad mohammad fvfvf
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ th[Kouch deleate[K[K[Kte2 my[K[K, myfirstt[K[Kt, mysecand
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ls
+,              [0m[01;32mdelete[0m   [01;32mfindahmad[0m      myfirst,  [01;32mname[0m        [01;32mss[0m
+[01;32mcheckusenames[0m  delete2  [01;32mlistarguments[0m  mysecand  prj_passwd
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ mh[Kkdir di 
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat delete2
+if [ $# -eq 0 ]
+then
+     echo usago : yoy must pass at leat one file or directory
+     rm
+else
+    for 1 in $*
+   do 
+      if [ -f $1 ]
+      then
+           rm $1
+           echo file [$1]
+      elif [ -d $1 ]
+      then
+            rm -r $1
+            echo directory [$1] deleted
+      else
+            echo no file or directory name [$1]
+      fi
+      shift
+   done
+fi
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat delete2[Kchomd +x delete2
+
+Command 'chomd' not found, did you mean:
+
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chomd +x delete2[5Pat[C[C[C[C[C[C[C[C[2Pmkdir di ls[Ktouch delete2 , myfirst, mysecand[8P./ss ahmad mohammad fvfvf[Kchmod +x ss[6Pvi[C[C[C[6@chmod +x[C[C[C[7P./ss ahmad mohammad fvfvftouch delete2 , myfirst, mysecandls[Kmkdir di cat delete2[5@homd +x[C[C[C[C[C[C[C[C[1P[1P[1P[1@m[1@o[1@d
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x delete2[1Pdelete2[1Pdelete2[1Pdelete2[1Pdelete2[1Pelete2[1Pdelete2[1Pdelete2[1Pdelete2[1Pdelete2chomd +x delete2[5Pat[C[C[C[C[C[C[C[C[2Pmkdir di ls[Ktouch delete2 , myfirst, mysecand[8P./ss ahmad mohammad fvfvf[Kchmod +x ss[6Pvi[C[C[Ccat name[2P./namechmod +x name s[C[C[C[C[C[C[C[C[C[7Pvi name./checkusenames chmod +x checkusenames[6P./checkusenames chmod +x checkusenames[6P./checkusenames chmod +x checkusenames[6P./checkusenames chmod +x checkusenames[5Pat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2@touch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P./findahmadchmod +x findahmad[1@e[C[C[C[C[C[C[C[C[C[C[C[C[Cx+[C[C[C[C[C[C[C[C[C[C[4P./checkusenameschmode x+ findahmad[4P./checkusenames[2Pcheckusenames[4Pfindahmad./findahmadcat findahmad[2@touch[C[C[C[C[C[C[C[C[C[Cls[K./delete myfirst wrong di mysecand[1@2
+./delete2: line 21: `1': not a valid identifier
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./delete2 myfirst wrong di mysecanddelete2[K./delete2 myfirst wrong di mysecand
+./delete2: line 20: `1': not a valid identifier
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./delete2 myfirst wrong di mysecanddelete2[Kchomd +x delete2
+
+Command 'chomd' not found, did you mean:
+
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chomd +x delete2./delete2 myfirst wrong di mysecanddelete2[Kchomd +x delete2[9Pdelete2./delete2 myfirst wrong di mysecanddelete2[Kchomd +x delete2[1P[1P[1P[1@m[1@o[1@d
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x delete2om[C[C[C[C[C[C[C[C[C[C[C[C./delete2 myfirst wrong di mysecand
+./delete2: line 20: `1': not a valid identifier
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./delete2 myfirst wrong di mysecand[19Pchmod +x delete2om[C[C[C[C[C[C[C[C[C[C[C[C./delete2 myfirst wrong di mysecand[19Pchomd +x delete2mo[C[C[C[C[C[C[C[C[C[C[C[C./delete2 myfirst wrong di mysecand[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[1P[1P[1@c[1@a[1@y[1P[1@t[1@ 
+if [ $# -eq 0 ]
+then
+     echo usago : yoy must pass at leat one file or directory
+     
+else
+    for 1 in $*
+   do 
+      if [ -f $1 ]
+      then
+           rm $1
+           echo file [$1]
+      elif [ -d $1 ]
+      then
+            rm -r $1
+            echo directory [$1] deleted
+      else
+            echo no file or directory name [$1]
+      fi
+   done
+fi
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat delete2 ./delete2 myfirst wrong di mysecand[19Pchmod +x delete2
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x delete2[4Pat delete2 ./delete2 myfirst wrong di mysecand
+no file or directory name [myfirst]
+no file or directory name [wrong]
+directory [di] deleted
+file [mysecand]
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ LS[K[Kls
+,              [0m[01;32mdelete[0m   [01;32mfindahmad[0m      myfirst,  prj_passwd
+[01;32mcheckusenames[0m  [01;32mdelete2[0m  [01;32mlistarguments[0m  [01;32mname[0m      [01;32mss[0m
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch list
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat list
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat list
+for list in $( cat prj_passwd)
+do 
+     echo $list
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x list
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./list
+root:x:0:0:Admin:/:/bin/bash
+comp311ta:x:501:100:Comp311TA_Account:/home/comp311ta:/bin/bash
+u1142478:x:502:66:Sondos_Awashra:/home/students/comp311/u1142478:/bin/bash
+u1150129:x:503:66:Mohammad_Kahala:/home/students/comp311/u1150129:/bin/bash
+u1150279:x:504:66:Tareq_Qahoush:/home/students/comp311/u1150279:/bin/bash
+u1150312:x:505:66:Ahmad_Thabet:/home/students/comp311/u1150312:/bin/bash
+u1150357:x:506:66:Mohammad_Alqayem:/home/students/comp311/u1150357:/bin/bash
+u1150409:x:507:66:Ahmad_Jamal:/home/students/comp311/u1150409:/bin/bash
+u1150523:x:508:66:Tarik_Suid:/home/students/comp311/u1150523:/bin/bash
+u1152270:x:509:66:Atheer_Mohammad:/home/students/comp311/u1152270:/bin/bash
+u1152484:x:510:66:Mohammad_Asad:/home/students/comp311/u1152484:/bin/bash
+u1152679:x:511:66:Haneen_Ashkar:/home/students/comp311/u1152679:/bin/bash
+u1153026:x:512:66:Noor_Abuhijleh:/home/students/comp311/u1153026:/bin/bash
+u1161333:x:576:66:Roa'A_Injass:/home/students/comp311/u1161333:/bin/bash
+u1161564:x:577:66:Abdallah_Zyoud:/home/students/comp322/u1161564:/bin/bash
+u1162505:x:579:66:Mohammed_Issa:/home/students/comp311/u1162505:/bin/bash
+u1163149:x:580:66:Ibraheem_Issa:/home/students/comp311/u1163149:/bin/bash
+u1111308:x:581:66:Saeed_Sabah:/home/students/comp311/u1111308:/bin/bash
+u1160305:x:513:66:Rebhiya_Sbeih:/home/students/comp311/u1160305:/bin/bash
+u1160440:x:514:66:Marah_Hamad:/home/students/comp311/u1160440:/bin/bash
+u1160455:x:515:66:Ahmad_Basheer:/home/students/comp311/u1160455:/bin/bash
+u1160481:x:516:66:Suhaib_AbuGhannam:/home/students/comp311/u1160481:/bin/bash
+u1161357:x:517:66:Bara_Ibrahim:/home/students/comp311/u1161357:/bin/bash
+u1161405:x:518:66:Rawan_Alimi:/home/students/comp311/u1161405:/bin/ksh
+u1162147:x:519:66:Nada_Zalloum:/home/students/comp311/u1162147:/bin/bash
+u1162422:x:520:66:Reem_Shamasnah:/home/students/comp311/u1162422:/bin/bash
+u1130212:x:521:66:Ibrahim_Njoum:/home/students/comp311/u1130212:/bin/bash
+u1131589:x:522:66:Yara_Hussien:/home/students/comp311/u1131589:/bin/ksh
+u1162074:x:535:66:Sabry_Alawy:/home/students/comp311/u1162074:/bin/bash
+u1162213:x:536:66:Noor_Hmeidan:/home/students/comp311/u1162213:/bin/bash
+u1162230:x:537:66:Jehad_AlMutan:/home/students/comp311/u1162230:/bin/bash
+u1162309:x:538:66:Hammam_Hamad:/home/students/comp311/u1162309:/bin/bash
+u1162314:x:539:66:Samer_Almasloot:/home/students/comp311/u1162314:/bin/bash
+u1163095:x:540:66:AbdelRahim_Ahmad:/home/students/comp311/u1163095:/bin/bash
+u1153160:x:541:66:Muayed_Mafarjeh:/home/students/comp311/u1153160:/bin/ksh
+u1143191:x:542:66:Alaa_Zubaidi:/home/students/comp311/u1143191:/bin/bash
+u1160766:x:543:66:Ahmad_Ghannam:/home/students/comp311/u1160766:/bin/bash
+u1152185:x:544:66:Mahmoud_AbdelKader:/home/students/comp311/u1152185:/bin/bash
+u1162651:x:545:66:Aya_Khateeb:/home/students/comp311/u1162651:/bin/bash
+u1151283:x:546:66:Mustafa_Salah:/home/students/comp311/u1151283:/bin/ksh
+u1141480:x:547:66:Ahmad_Qasem:/home/students/comp311/u1141480:/bin/bash
+u1141648:x:548:66:Mohammad_Mohammad:/home/students/comp311/u1141648:/bin/bash
+u1141879:x:549:66:Rawan_Khalaf:/home/students/comp311/u1141879:/bin/bash
+u1142011:x:550:66:Mohammad_Fitiani:/home/students/comp311/u1142011:/bin/bash
+u1142608:x:551:66:Haitham_Idrees:/home/students/comp311/u1142608:/bin/bash
+u1142651:x:552:66:Dalal_Fukheda:/home/students/comp322/u1142651:/bin/bash
+u1152329:x:553:66:Ibrahim_Rifaie:/home/students/comp311/u1152329:/bin/bash
+u1152477:x:554:66:Rami_Salman:/home/students/comp311/u1152477:/bin/ksh
+u1153279:x:557:66:Yazeed_Nofal:/home/students/comp311/u1153279:/bin/bash
+u1160063:x:558:66:Ayah_Sa'Fin:/home/students/comp311/u1160063:/bin/bash
+u1160343:x:559:66:Mousa_Mtera:/home/students/comp322/u1160343:/bin/bash
+u1160394:x:560:66:Laith_Al-Budeiri:/home/students/comp311/u1160394:/bin/bash
+u1161196:x:561:66:Jeries_Nasrawi:/home/students/comp311/u1161196:/bin/bash
+u1161721:x:562:66:Mohammad_Dar-Ahmad:/home/students/comp311/u1161721:/bin/bash
+u1162344:x:563:66:Tawfiq_Abdulraziq:/home/students/comp311/u1162344:/bin/bash
+u1162949:x:564:66:Basil_Al-Sa`Ed:/home/students/comp311/u1162949:/bin/sh
+u12345:x:565:66:Hafez_AlBarghouthi:/home/students/comp311/u12345:/bin/bash
+u1140360:x:566:66:Rawan_Safi:/home/students/comp311/u1140360:/bin/bash
+u1141936:x:567:66:Areej_Rimawi:/home/students/comp311/u1141936:/bin/sh
+u1142984:x:568:66:Ahlam_Ghazawneh:/home/students/comp311/u1142984:/bin/bash
+u1150845:x:569:66:Haneen_Taweel:/home/students/comp311/u1150845:/bin/bash
+u1151429:x:570:66:Amer_Aldaghamin:/home/students/comp311/u1151429:/bin/bash
+u1151432:x:571:66:Yanal_Abdeljawwad:/home/students/comp311/u1151432:/bin/bash
+u1160034:x:572:66:Taqwa_AbuAsbah:/home/students/comp311/u1160034:/bin/bash
+u1150383:x:523:66:Rami_Yahya:/home/students/comp311/u1150383:/bin/bash
+u1151913:x:524:66:Ahmad_Salah:/home/students/comp311/u1151913:/bin/bash
+u1153216:x:525:66:Isra_Hamed:/home/students/comp311/u1153216:/bin/bash
+u1150383:x:523:66:Rami_Yahya:/home/students/comp311/u1150383:/bin/sh
+u1151913:x:524:66:Ahmad_Salah:/home/students/comp311/u1151913:/bin/bash
+u1153216:x:525:66:Isra_Hamed:/home/students/comp322/u1153216:/bin/bash
+u1160076:x:526:66:Adnan_Assali:/home/students/comp322/u1160076:/bin/bash
+u1160155:x:527:66:Hani_Yaaqbeh:/home/students/comp311/u1160155:/bin/sh
+u1160170:x:528:66:Shadi_Mohammad:/home/students/comp311/u1160170:/bin/bash
+u1160643:x:529:66:Fatima_Ayyash:/home/students/comp311/u1160643:/bin/bash
+u1160658:x:530:66:Kamaleddin_Shaer:/home/students/comp311/u1160658:/bin/bash
+u1160707:x:531:66:Malak_Shoubi:/home/students/comp322/u1160707:/bin/bash
+u1161044:x:532:66:Fida_Zohour:/home/students/comp311/u1161044:/bin/bash
+u1161390:x:533:66:Noor_Kharoubi:/home/students/comp311/u1161390:/bin/bash
+u1161444:x:534:66:Salah_Suliman:/home/students/comp322/u1161444:/bin/bash
+u1152901:x:582:66:Darin_Jojas:/home/students/comp322/u1152901:/bin/bash
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch comp~[K311
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch comp311[7P./listchmod +x list[C[K[K[K[K[K comp [K311
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x comp311[3Ptouch[C[C[C[C[C[C[C[C[7P./list[C[K[K[K[K311[K[K[Kcomp311
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./comp311
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./comp311chmod +x comp311
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x comp311[7P./comp311
+Admin
+Comp311TA
+Account
+Sondos
+Awashra
+Mohammad
+Kahala
+Tareq
+Qahoush
+Ahmad
+Thabet
+Mohammad
+Alqayem
+Ahmad
+Jamal
+Tarik
+Suid
+Atheer
+Mohammad
+Mohammad
+Asad
+Haneen
+Ashkar
+Noor
+Abuhijleh
+Roa'A
+Injass
+Abdallah
+Zyoud
+Mohammed
+Issa
+Ibraheem
+Issa
+Saeed
+Sabah
+Rebhiya
+Sbeih
+Marah
+Hamad
+Ahmad
+Basheer
+Suhaib
+AbuGhannam
+Bara
+Ibrahim
+Rawan
+Alimi
+Nada
+Zalloum
+Reem
+Shamasnah
+Ibrahim
+Njoum
+Yara
+Hussien
+Sabry
+Alawy
+Noor
+Hmeidan
+Jehad
+AlMutan
+Hammam
+Hamad
+Samer
+Almasloot
+AbdelRahim
+Ahmad
+Muayed
+Mafarjeh
+Alaa
+Zubaidi
+Ahmad
+Ghannam
+Mahmoud
+AbdelKader
+Aya
+Khateeb
+Mustafa
+Salah
+Ahmad
+Qasem
+Mohammad
+Mohammad
+Rawan
+Khalaf
+Mohammad
+Fitiani
+Haitham
+Idrees
+Dalal
+Fukheda
+Ibrahim
+Rifaie
+Rami
+Salman
+Yazeed
+Nofal
+Ayah
+Sa'Fin
+Mousa
+Mtera
+Laith
+Al-Budeiri
+Jeries
+Nasrawi
+Mohammad
+Dar-Ahmad
+Tawfiq
+Abdulraziq
+Basil
+Al-Sa`Ed
+Hafez
+AlBarghouthi
+Rawan
+Safi
+Areej
+Rimawi
+Ahlam
+Ghazawneh
+Haneen
+Taweel
+Amer
+Aldaghamin
+Yanal
+Abdeljawwad
+Taqwa
+AbuAsbah
+Rami
+Yahya
+Ahmad
+Salah
+Isra
+Hamed
+Rami
+Yahya
+Ahmad
+Salah
+Isra
+Hamed
+Adnan
+Assali
+Hani
+Yaaqbeh
+Shadi
+Mohammad
+Fatima
+Ayyash
+Kamaleddin
+Shaer
+Malak
+Shoubi
+Fida
+Zohour
+Noor
+Kharoubi
+Salah
+Suliman
+Darin
+Jojas
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat comm[Kp311
+for list in $( cat prj_passwd | cut -d: -f5 | sed "s/_/ /") 
+do 
+     echo $list
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat comp311[2P./comp311
+Admin
+Comp311TA
+Account
+Sondos
+Awashra
+Mohammad
+Kahala
+Tareq
+Qahoush
+Ahmad
+Thabet
+Mohammad
+Alqayem
+Ahmad
+Jamal
+Tarik
+Suid
+Atheer
+Mohammad
+Mohammad
+Asad
+Haneen
+Ashkar
+Noor
+Abuhijleh
+Roa'A
+Injass
+Abdallah
+Zyoud
+Mohammed
+Issa
+Ibraheem
+Issa
+Saeed
+Sabah
+Rebhiya
+Sbeih
+Marah
+Hamad
+Ahmad
+Basheer
+Suhaib
+AbuGhannam
+Bara
+Ibrahim
+Rawan
+Alimi
+Nada
+Zalloum
+Reem
+Shamasnah
+Ibrahim
+Njoum
+Yara
+Hussien
+Sabry
+Alawy
+Noor
+Hmeidan
+Jehad
+AlMutan
+Hammam
+Hamad
+Samer
+Almasloot
+AbdelRahim
+Ahmad
+Muayed
+Mafarjeh
+Alaa
+Zubaidi
+Ahmad
+Ghannam
+Mahmoud
+AbdelKader
+Aya
+Khateeb
+Mustafa
+Salah
+Ahmad
+Qasem
+Mohammad
+Mohammad
+Rawan
+Khalaf
+Mohammad
+Fitiani
+Haitham
+Idrees
+Dalal
+Fukheda
+Ibrahim
+Rifaie
+Rami
+Salman
+Yazeed
+Nofal
+Ayah
+Sa'Fin
+Mousa
+Mtera
+Laith
+Al-Budeiri
+Jeries
+Nasrawi
+Mohammad
+Dar-Ahmad
+Tawfiq
+Abdulraziq
+Basil
+Al-Sa`Ed
+Hafez
+AlBarghouthi
+Rawan
+Safi
+Areej
+Rimawi
+Ahlam
+Ghazawneh
+Haneen
+Taweel
+Amer
+Aldaghamin
+Yanal
+Abdeljawwad
+Taqwa
+AbuAsbah
+Rami
+Yahya
+Ahmad
+Salah
+Isra
+Hamed
+Rami
+Yahya
+Ahmad
+Salah
+Isra
+Hamed
+Adnan
+Assali
+Hani
+Yaaqbeh
+Shadi
+Mohammad
+Fatima
+Ayyash
+Kamaleddin
+Shaer
+Malak
+Shoubi
+Fida
+Zohour
+Noor
+Kharoubi
+Salah
+Suliman
+Darin
+Jojas
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./comp311cat comp311[2P./comp311cat comp311[2P./comp311[K./comp311cat comp311[2P./comp311chmod +x comp311
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x comp311[Kchmod +x comp311[7P./comp311
+Admin
+Comp311TA
+Account
+Sondos
+Awashra
+Mohammad
+Kahala
+Tareq
+Qahoush
+Ahmad
+Thabet
+Mohammad
+Alqayem
+Ahmad
+Jamal
+Tarik
+Suid
+Atheer
+Mohammad
+Mohammad
+Asad
+Haneen
+Ashkar
+Noor
+Abuhijleh
+Roa'A
+Injass
+Abdallah
+Zyoud
+Mohammed
+Issa
+Ibraheem
+Issa
+Saeed
+Sabah
+Rebhiya
+Sbeih
+Marah
+Hamad
+Ahmad
+Basheer
+Suhaib
+AbuGhannam
+Bara
+Ibrahim
+Rawan
+Alimi
+Nada
+Zalloum
+Reem
+Shamasnah
+Ibrahim
+Njoum
+Yara
+Hussien
+Sabry
+Alawy
+Noor
+Hmeidan
+Jehad
+AlMutan
+Hammam
+Hamad
+Samer
+Almasloot
+AbdelRahim
+Ahmad
+Muayed
+Mafarjeh
+Alaa
+Zubaidi
+Ahmad
+Ghannam
+Mahmoud
+AbdelKader
+Aya
+Khateeb
+Mustafa
+Salah
+Ahmad
+Qasem
+Mohammad
+Mohammad
+Rawan
+Khalaf
+Mohammad
+Fitiani
+Haitham
+Idrees
+Dalal
+Fukheda
+Ibrahim
+Rifaie
+Rami
+Salman
+Yazeed
+Nofal
+Ayah
+Sa'Fin
+Mousa
+Mtera
+Laith
+Al-Budeiri
+Jeries
+Nasrawi
+Mohammad
+Dar-Ahmad
+Tawfiq
+Abdulraziq
+Basil
+Al-Sa`Ed
+Hafez
+AlBarghouthi
+Rawan
+Safi
+Areej
+Rimawi
+Ahlam
+Ghazawneh
+Haneen
+Taweel
+Amer
+Aldaghamin
+Yanal
+Abdeljawwad
+Taqwa
+AbuAsbah
+Rami
+Yahya
+Ahmad
+Salah
+Isra
+Hamed
+Rami
+Yahya
+Ahmad
+Salah
+Isra
+Hamed
+Adnan
+Assali
+Hani
+Yaaqbeh
+Shadi
+Mohammad
+Fatima
+Ayyash
+Kamaleddin
+Shaer
+Malak
+Shoubi
+Fida
+Zohour
+Noor
+Kharoubi
+Salah
+Suliman
+Darin
+Jojas
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./comp311chmod +x comp311[7P./comp311cat comp311
+for list in $( cat prj_passwd | cut -d: -f5 | sed "s/_/ /") 
+do 
+     echo $(echo "$list" | tr '_' ' ')
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x myfil[Krst
+chmod: cannot access 'myfirst': No such file or directory
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x myfirst[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+,              [0m[01;32mcomp311[0m  [01;32mdelete2[0m    [01;32mlist[0m           myfirst,  prj_passwd
+[01;32mcheckusenames[0m  [01;32mdelete[0m   [01;32mfindahmad[0m  [01;32mlistarguments[0m  [01;32mname[0m      [01;32mss[0m
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ lschmod +x myfirst[K[K[K[K[K[K[Kmyfirst
+chmod: cannot access 'myfirst': No such file or directory
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ct[K[Kvi myfirst
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;23r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[23;1H"myfirst" [New File][2;1H[94m~                                                                              [3;1H~                                                                              [4;1H~                                                                              [5;1H~                                                                              [6;1H~                                                                              [7;1H~                                                                              [8;1H~                                                                              [9;1H~                                                                              [10;1H~                                                                              [11;1H~                                                                              [12;1H~                                                                              [13;1H~                                                                              [14;1H~                                                                              [15;1H~                                                                              [16;1H~                                                                              [17;1H~                                                                              [18;1H~                                                                              [19;1H~                                                                              [20;1H~                                                                              [21;1H~                                                                              [22;1H~                                                                              [1;1H[?25h[?2004l[>4;m[?25l[mfor file in *
+do [2;4H[K[3;1H    echo $file[3;15H[K[4;1Hdone[4;5H[K[4;5H[?25h[?2004h[>4;2m[?25l[23;1H[K[23;1H:[?2004h[?25hwq[?25l[?2004l"myfirst" [New File] 4 lines, 38 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ vi myfirst[6@chmod +x[C[C[C[C[C[C[C[C
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x myfirst[1Pmyfirst[1Pmyfirst[1Pmyfirst[1Pmyfirst[1Pmyfirst[1Pmyfirst[1Pyfirst[1Pmyfirst[1Pmyfirst.myfirst/myfirst
+,
+checkusenames
+comp311
+delete
+delete2
+findahmad
+list
+listarguments
+myfirst
+myfirst,
+name
+prj_passwd
+ss
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch file [Kty
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ cat filety
+for file in *
+do 
+    if [ -f $file ]
+    then 
+          echo [ $file ] is a file 
+    elif if [ -d $file ]
+    then 
+        echo [ $file ] is a directory
+    else
+        echo [ $file ]  is unknow
+        fi
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ch[K[Kcat filety[1Pfilety[1Pfilety[1Pfilety[1Pfiletycfiletyhfiletymfiletyofiletydfilety filety+filetyxfilety filety
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x filety[1Pfilety[1Pfilety[1Pfilety[1Pfilety[1Pfilety[1Pfilety[1Pfilety[1Pfilety[1Pfilety filety[C[C[C[C[C[C/[K. filety/ filety[C[1Pfilety[C[C[C[C[C[C /etc
+./filety: line 12: syntax error near unexpected token `done'
+./filety: line 12: `done'
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etc
+./filety: line 7: syntax error near unexpected token `then'
+./filety: line 7: `    then '
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etc
+./filety: line 7: syntax error near unexpected token `then'
+./filety: line 7: `    then '
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etc
+./filety: line 7: syntax error near unexpected token `then'
+./filety: line 7: `    then '
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etcchmod +x filety
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x filety[2P./filety /etcchmod +x filety[2P./filety /etc
+./filety: line 7: syntax error near unexpected token `then'
+./filety: line 7: `    then '
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etc[1P/etc
+bash: ./filety/etc: Not a directory
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety/etc /etc
+./filety: line 7: syntax error near unexpected token `then'
+./filety: line 7: `    then '
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etc
+[/etc/acpi] is a directory
+[ /etc/adduser.conf ] is a file
+[/etc/alsa] is a directory
+[/etc/alternatives] is a directory
+[ /etc/anacrontab ] is a file
+[ /etc/apg.conf ] is a file
+[/etc/apm] is a directory
+[/etc/apparmor] is a directory
+[/etc/apparmor.d] is a directory
+[/etc/apport] is a directory
+[ /etc/appstream.conf ] is a file
+[/etc/apt] is a directory
+[/etc/avahi] is a directory
+[ /etc/bash.bashrc ] is a file
+[ /etc/bash_completion ] is a file
+[/etc/bash_completion.d] is a directory
+[ /etc/bindresvport.blacklist ] is a file
+[/etc/binfmt.d] is a directory
+[/etc/bluetooth] is a directory
+[ /etc/brlapi.key ] is a file
+[/etc/brltty] is a directory
+[ /etc/brltty.conf ] is a file
+[/etc/ca-certificates] is a directory
+[ /etc/ca-certificates.conf ] is a file
+[ /etc/ca-certificates.conf.dpkg-old ] is a file
+[/etc/calendar] is a directory
+[/etc/chatscripts] is a directory
+[/etc/console-setup] is a directory
+[/etc/cracklib] is a directory
+[/etc/cron.d] is a directory
+[/etc/cron.daily] is a directory
+[/etc/cron.hourly] is a directory
+[/etc/cron.monthly] is a directory
+[ /etc/crontab ] is a file
+[/etc/cron.weekly] is a directory
+[/etc/cups] is a directory
+[/etc/cupshelpers] is a directory
+[/etc/dbus-1] is a directory
+[/etc/dconf] is a directory
+[ /etc/debconf.conf ] is a file
+[ /etc/debian_version ] is a file
+[/etc/default] is a directory
+[ /etc/deluser.conf ] is a file
+[/etc/depmod.d] is a directory
+[/etc/dhcp] is a directory
+[/etc/dictionaries-common] is a directory
+[/etc/dpkg] is a directory
+[ /etc/e2scrub.conf ] is a file
+[/etc/emacs] is a directory
+[ /etc/environment ] is a file
+[/etc/environment.d] is a directory
+[ /etc/ethertypes ] is a file
+[/etc/firefox] is a directory
+[/etc/fonts] is a directory
+[ /etc/fprintd.conf ] is a file
+[ /etc/fstab ] is a file
+[ /etc/fuse.conf ] is a file
+[/etc/fwupd] is a directory
+[ /etc/gai.conf ] is a file
+[ /etc/gamemode.ini ] is a file
+[/etc/gdb] is a directory
+[/etc/gdm3] is a directory
+[/etc/geoclue] is a directory
+[/etc/ghostscript] is a directory
+[/etc/glvnd] is a directory
+[/etc/gnome] is a directory
+[/etc/groff] is a directory
+[ /etc/group ] is a file
+[ /etc/group- ] is a file
+[/etc/grub.d] is a directory
+[ /etc/gshadow ] is a file
+[ /etc/gshadow- ] is a file
+[/etc/gss] is a directory
+[/etc/gtk-2.0] is a directory
+[/etc/gtk-3.0] is a directory
+[ /etc/hdparm.conf ] is a file
+[ /etc/host.conf ] is a file
+[ /etc/hostid ] is a file
+[ /etc/hostname ] is a file
+[ /etc/hosts ] is a file
+[ /etc/hosts.allow ] is a file
+[ /etc/hosts.deny ] is a file
+[/etc/hp] is a directory
+[/etc/ifplugd] is a directory
+[/etc/init] is a directory
+[/etc/init.d] is a directory
+[/etc/initramfs-tools] is a directory
+[ /etc/inputrc ] is a file
+[/etc/insserv.conf.d] is a directory
+[/etc/iproute2] is a directory
+[ /etc/issue ] is a file
+[ /etc/issue.net ] is a file
+[/etc/kernel] is a directory
+[ /etc/kernel-img.conf ] is a file
+[ /etc/kerneloops.conf ] is a file
+[/etc/ldap] is a directory
+[ /etc/ld.so.cache ] is a file
+[ /etc/ld.so.conf ] is a file
+[/etc/ld.so.conf.d] is a directory
+[ /etc/legal ] is a file
+[ /etc/libao.conf ] is a file
+[ /etc/libaudit.conf ] is a file
+[/etc/libblockdev] is a directory
+[/etc/libnl-3] is a directory
+[/etc/libpaper.d] is a directory
+[/etc/libreoffice] is a directory
+[ /etc/locale.alias ] is a file
+[ /etc/locale.gen ] is a file
+[ /etc/localtime ] is a file
+[/etc/logcheck] is a directory
+[ /etc/login.defs ] is a file
+[ /etc/logrotate.conf ] is a file
+[/etc/logrotate.d] is a directory
+[ /etc/lsb-release ] is a file
+[ /etc/ltrace.conf ] is a file
+[ /etc/machine-id ] is a file
+[ /etc/magic ] is a file
+[ /etc/magic.mime ] is a file
+[ /etc/mailcap ] is a file
+[ /etc/mailcap.order ] is a file
+[ /etc/manpath.config ] is a file
+[ /etc/mime.types ] is a file
+[ /etc/mke2fs.conf ] is a file
+[/etc/modprobe.d] is a directory
+[ /etc/modules ] is a file
+[/etc/modules-load.d] is a directory
+[ /etc/mtab ] is a file
+[ /etc/mtools.conf ] is a file
+[/etc/mysql] is a directory
+[ /etc/nanorc ] is a file
+[/etc/netplan] is a directory
+[/etc/network] is a directory
+[/etc/networkd-dispatcher] is a directory
+[/etc/NetworkManager] is a directory
+[ /etc/networks ] is a file
+[/etc/newt] is a directory
+[ /etc/nsswitch.conf ] is a file
+[/etc/OpenCL] is a directory
+[/etc/openvpn] is a directory
+[/etc/opt] is a directory
+[ /etc/os-release ] is a file
+[/etc/PackageKit] is a directory
+[ /etc/pam.conf ] is a file
+[/etc/pam.d] is a directory
+[ /etc/papersize ] is a file
+[ /etc/passwd ] is a file
+[ /etc/passwd- ] is a file
+[/etc/pcmcia] is a directory
+[/etc/perl] is a directory
+[/etc/pki] is a directory
+[/etc/pm] is a directory
+[ /etc/pnm2ppa.conf ] is a file
+[/etc/polkit-1] is a directory
+[ /etc/popularity-contest.conf ] is a file
+[/etc/ppp] is a directory
+[ /etc/prime-discrete ] is a file
+[ /etc/profile ] is a file
+[/etc/profile.d] is a directory
+[ /etc/protocols ] is a file
+[/etc/pulse] is a directory
+[/etc/python3] is a directory
+[/etc/python3.8] is a directory
+[/etc/rc0.d] is a directory
+[/etc/rc1.d] is a directory
+[/etc/rc2.d] is a directory
+[/etc/rc3.d] is a directory
+[/etc/rc4.d] is a directory
+[/etc/rc5.d] is a directory
+[/etc/rc6.d] is a directory
+[/etc/rcS.d] is a directory
+[ /etc/resolv.conf ] is a file
+[ /etc/rmt ] is a file
+[ /etc/rpc ] is a file
+[ /etc/rsyslog.conf ] is a file
+[/etc/rsyslog.d] is a directory
+[ /etc/rygel.conf ] is a file
+[/etc/sane.d] is a directory
+[/etc/security] is a directory
+[/etc/selinux] is a directory
+[ /etc/sensors3.conf ] is a file
+[/etc/sensors.d] is a directory
+[ /etc/services ] is a file
+[/etc/sgml] is a directory
+[ /etc/shadow ] is a file
+[ /etc/shadow- ] is a file
+[ /etc/shells ] is a file
+[/etc/skel] is a directory
+[/etc/snmp] is a directory
+[/etc/speech-dispatcher] is a directory
+[/etc/ssh] is a directory
+[/etc/ssl] is a directory
+[ /etc/subgid ] is a file
+[ /etc/subgid- ] is a file
+[ /etc/subuid ] is a file
+[ /etc/subuid- ] is a file
+[ /etc/sudoers ] is a file
+[/etc/sudoers.d] is a directory
+[ /etc/sysctl.conf ] is a file
+[/etc/sysctl.d] is a directory
+[/etc/systemd] is a directory
+[/etc/terminfo] is a directory
+[/etc/thermald] is a directory
+[/etc/thunderbird] is a directory
+[ /etc/timezone ] is a file
+[/etc/tmpfiles.d] is a directory
+[/etc/ubuntu-advantage] is a directory
+[ /etc/ucf.conf ] is a file
+[/etc/udev] is a directory
+[/etc/udisks2] is a directory
+[/etc/ufw] is a directory
+[/etc/update-manager] is a directory
+[/etc/update-motd.d] is a directory
+[/etc/update-notifier] is a directory
+[/etc/UPower] is a directory
+[ /etc/usb_modeswitch.conf ] is a file
+[/etc/usb_modeswitch.d] is a directory
+[ /etc/vdpau_wrapper.cfg ] is a file
+[/etc/vim] is a directory
+[ /etc/vtrgb ] is a file
+[/etc/vulkan] is a directory
+[ /etc/wgetrc ] is a file
+[ /etc/whoopsie ] is a file
+[/etc/wpa_supplicant] is a directory
+[/etc/X11] is a directory
+[ /etc/xattr.conf ] is a file
+[/etc/xdg] is a directory
+[/etc/xml] is a directory
+[ /etc/zsh_command_not_found ] is a file
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./filety /etc[1P/etc /etcchmod +x filety[2P./filety /etcchmod +x filety[5Pat[C[C[C[C[C[C[C[2@touch[C[C[C[C[C[C[C[2Pcat[C[C[C[C[C[C[C
+for file in $1/*
+do 
+    if [ -f $file ]
+    then 
+          echo [ $file ] is a file 
+    elif [ -d $file ]
+    then 
+        echo [$file] is a directory
+    else
+        echo [$file]  is unknow
+        fi
+done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch mywh
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ touch mywhcat filety./filety /etc[1P/etc /etcchmod +x filety[K[K[K[K[K[Kmy [Kch[K[Kwh
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ chmod +x mywh[1Pmywh[1Pmywh[1Pmywh[1Pmywh[1Pmywh[1Pmywh[1Pywh[1Pmywh[1Pmywh.mywh/mywh
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./mywh[C[1Pmywh[1Pmywh[C[C[C[C ls
+mywh: command not found
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ mywh ls[1@.[1@/
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./mywh ls
+/usr/bin
+/bin
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./mywh ls[K[Kcp 
+/usr/bin
+/bin
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./mywh cp [K[K[K
+]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ ./mywh [C[1P[1P[1@c[1@a[1@t[1@ 
+for searchDir in $( echo $PATH | sed "s/:/ /g")
+do 
+   if [ -f $searchDir/$1 ]
+   then  
+         echo $searchDir
+         fi 
+         done]0;mohammad@mohammad-H61M-D2H-USB3: ~/lab11[01;32mmohammad@mohammad-H61M-D2H-USB3[00m:[01;34m~/lab11[00m$ exit
+exit
+
+Script done on 2020-12-17 07:10:15-05:00 [COMMAND_EXIT_CODE="0"]

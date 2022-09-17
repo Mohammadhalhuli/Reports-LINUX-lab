@@ -1,0 +1,918 @@
+Script started on 2020-10-02 13:24:58+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /etc
+]0;codebind@codebind: /etc[01;32mcodebind@codebind[00m:[01;34m/etc[00m$ cd.. 
+cd..: command not found
+]0;codebind@codebind: /etc[01;32mcodebind@codebind[00m:[01;34m/etc[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwd
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwdcd ....  /etc[1P/etc[C[1Petc etc
+]0;codebind@codebind: /etc[01;32mcodebind@codebind[00m:[01;34m/etc[00m$ ls
+[0m[01;34macpi[0m                           host.conf            popularity-contest.conf
+adduser.conf                   hostid               [01;34mppp[0m
+[01;34malsa[0m                           hostname             profile
+[01;34malternatives[0m                   hosts                [01;34mprofile.d[0m
+anacrontab                     hosts.allow          protocols
+apg.conf                       hosts.deny           [01;34mpulse[0m
+[01;34mapm[0m                            [01;34mhp[0m                   [01;34mpython3[0m
+[01;34mapparmor[0m                       [01;34mifplugd[0m              [01;34mpython3.8[0m
+[01;34mapparmor.d[0m                     [01;34minit[0m                 [01;34mrc0.d[0m
+[01;34mapport[0m                         [01;34minit.d[0m               [01;34mrc1.d[0m
+appstream.conf                 [01;34minitramfs-tools[0m      [01;34mrc2.d[0m
+[01;34mapt[0m                            inputrc              [01;34mrc3.d[0m
+[01;34mavahi[0m                          [01;34minsserv.conf.d[0m       [01;34mrc4.d[0m
+bash.bashrc                    [01;34miproute2[0m             [01;34mrc5.d[0m
+bash_completion                issue                [01;34mrc6.d[0m
+[01;34mbash_completion.d[0m              issue.net            [01;34mrcS.d[0m
+bindresvport.blacklist         [01;34mkernel[0m               [01;36mresolv.conf[0m
+[01;34mbinfmt.d[0m                       kernel-img.conf      [01;36mrmt[0m
+[01;34mbluetooth[0m                      kerneloops.conf      rpc
+brlapi.key                     [01;34mldap[0m                 rsyslog.conf
+[01;34mbrltty[0m                         ld.so.cache          [01;34mrsyslog.d[0m
+brltty.conf                    ld.so.conf           rygel.conf
+[01;34mca-certificates[0m                [01;34mld.so.conf.d[0m         [01;34msane.d[0m
+ca-certificates.conf           legal                [01;34msecurity[0m
+ca-certificates.conf.dpkg-old  libao.conf           [01;34mselinux[0m
+[01;34mcalendar[0m                       libaudit.conf        sensors3.conf
+[01;34mchatscripts[0m                    [01;34mlibblockdev[0m          [01;34msensors.d[0m
+[01;34mconsole-setup[0m                  [01;34mlibnl-3[0m              services
+[01;34mcracklib[0m                       [01;34mlibpaper.d[0m           [01;34msgml[0m
+[01;34mcron.d[0m                         [01;34mlibreoffice[0m          shadow
+[01;34mcron.daily[0m                     locale.alias         shadow-
+[01;34mcron.hourly[0m                    locale.gen           shells
+[01;34mcron.monthly[0m                   [01;36mlocaltime[0m            [01;34mskel[0m
+crontab                        [01;34mlogcheck[0m             [01;34msnmp[0m
+[01;34mcron.weekly[0m                    login.defs           [01;34mspeech-dispatcher[0m
+[01;34mcups[0m                           logrotate.conf       [01;34mssh[0m
+[01;34mcupshelpers[0m                    [01;34mlogrotate.d[0m          [01;34mssl[0m
+[01;34mdbus-1[0m                         lsb-release          subgid
+[01;34mdconf[0m                          ltrace.conf          subgid-
+debconf.conf                   machine-id           subuid
+debian_version                 magic                subuid-
+[01;34mdefault[0m                        magic.mime           sudoers
+deluser.conf                   mailcap              [01;34msudoers.d[0m
+[01;34mdepmod.d[0m                       mailcap.order        sysctl.conf
+[01;34mdhcp[0m                           manpath.config       [01;34msysctl.d[0m
+[01;34mdictionaries-common[0m            mime.types           [01;34msystemd[0m
+[01;34mdpkg[0m                           mke2fs.conf          [01;34mterminfo[0m
+e2scrub.conf                   [01;34mmodprobe.d[0m           [01;34mthermald[0m
+[01;34memacs[0m                          modules              [01;34mthunderbird[0m
+environment                    [01;34mmodules-load.d[0m       timezone
+[01;34menvironment.d[0m                  [01;36mmtab[0m                 [01;34mtmpfiles.d[0m
+ethertypes                     mtools.conf          [01;34mubuntu-advantage[0m
+[01;34mfirefox[0m                        [01;34mmysql[0m                ucf.conf
+[01;34mfonts[0m                          nanorc               [01;34mudev[0m
+fprintd.conf                   [01;34mnetplan[0m              [01;34mudisks2[0m
+fstab                          [01;34mnetwork[0m              [01;34mufw[0m
+fuse.conf                      [01;34mnetworkd-dispatcher[0m  [01;34mupdate-manager[0m
+[01;34mfwupd[0m                          [01;34mNetworkManager[0m       [01;34mupdate-motd.d[0m
+gai.conf                       networks             [01;34mupdate-notifier[0m
+gamemode.ini                   [01;34mnewt[0m                 [01;34mUPower[0m
+[01;34mgdb[0m                            nsswitch.conf        usb_modeswitch.conf
+[01;34mgdm3[0m                           [01;34mopenvpn[0m              [01;34musb_modeswitch.d[0m
+[01;34mgeoclue[0m                        [01;34mopt[0m                  vconsole.conf
+[01;34mghostscript[0m                    [01;36mos-release[0m           vdpau_wrapper.cfg
+[01;34mglvnd[0m                          [01;34mPackageKit[0m           [01;34mvim[0m
+[01;34mgnome[0m                          pam.conf             [01;34mvmware-tools[0m
+[01;34mgroff[0m                          [01;34mpam.d[0m                [01;36mvtrgb[0m
+group                          papersize            [01;34mvulkan[0m
+group-                         passwd               wgetrc
+[01;34mgrub.d[0m                         passwd-              [01;34mwpa_supplicant[0m
+gshadow                        [01;34mpcmcia[0m               [01;34mX11[0m
+gshadow-                       [01;34mperl[0m                 xattr.conf
+[01;34mgss[0m                            [01;34mpki[0m                  [01;34mxdg[0m
+[01;34mgtk-2.0[0m                        [01;34mpm[0m                   [01;34mxml[0m
+[01;34mgtk-3.0[0m                        pnm2ppa.conf         zsh_command_not_found
+hdparm.conf                    [01;34mpolkit-1[0m
+]0;codebind@codebind: /etc[01;32mcodebind@codebind[00m:[01;34m/etc[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwd
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd var
+]0;codebind@codebind: /var[01;32mcodebind@codebind[00m:[01;34m/var[00m$ ls
+[0m[01;34mbackups[0m  [01;34mcache[0m  [30;42mcrash[0m  [01;34mlib[0m  [01;34mlocal[0m  [01;36mlock[0m  [01;34mlog[0m  [01;34mmail[0m  [30;42mmetrics[0m  [01;34mopt[0m  [01;36mrun[0m  [01;34msnap[0m  [01;34mspool[0m  [30;42mtmp[0m
+]0;codebind@codebind: /var[01;32mcodebind@codebind[00m:[01;34m/var[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ ped[K[Kwd
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd bool
+bash: cd: bool: No such file or directory
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd .. 
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwd
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd home
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ ls
+[0m[01;34mcodebind[0m
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev              989588       0    989588   0% /dev
+tmpfs             203552    1332    202220   1% /run
+/dev/sda5       63973020 9040424  51653236  15% /
+tmpfs            1017752       0   1017752   0% /dev/shm
+tmpfs               5120       4      5116   1% /run/lock
+tmpfs            1017752       0   1017752   0% /sys/fs/cgroup
+/dev/loop1         56704   56704         0 100% /snap/core18/1885
+/dev/loop0         56320   56320         0 100% /snap/core18/1880
+/dev/loop2        261760  261760         0 100% /snap/gnome-3-34-1804/36
+/dev/loop3        223232  223232         0 100% /snap/gnome-3-34-1804/60
+/dev/loop4         63616   63616         0 100% /snap/gtk-common-themes/1506
+/dev/loop5         51072   51072         0 100% /snap/snap-store/467
+/dev/loop6         30720   30720         0 100% /snap/snapd/8542
+/dev/loop7         31104   31104         0 100% /snap/snapd/9279
+/dev/sda1         523248       4    523244   1% /boot/efi
+tmpfs             203548      32    203516   1% /run/user/1000
+/dev/sr0           59552   59552         0 100% /media/codebind/VBox_GAs_6.1.14
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ fd[K[Kdf-h[K[K -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            967M     0  967M   0% /dev
+tmpfs           199M  1.4M  198M   1% /run
+/dev/sda5        62G  8.7G   50G  15% /
+tmpfs           994M     0  994M   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           994M     0  994M   0% /sys/fs/cgroup
+/dev/loop1       56M   56M     0 100% /snap/core18/1885
+/dev/loop0       55M   55M     0 100% /snap/core18/1880
+/dev/loop2      256M  256M     0 100% /snap/gnome-3-34-1804/36
+/dev/loop3      218M  218M     0 100% /snap/gnome-3-34-1804/60
+/dev/loop4       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5       50M   50M     0 100% /snap/snap-store/467
+/dev/loop6       30M   30M     0 100% /snap/snapd/8542
+/dev/loop7       31M   31M     0 100% /snap/snapd/9279
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           199M   32K  199M   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/codebind/VBox_GAs_6.1.14
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ *-[K[Kcreat
+
+Command 'creat' not found, did you mean:
+
+  command 'cheat' from snap cheat (v4.1.0.build.1)
+  command 'cream' from deb cream (0.43-3)
+
+See 'snap info <snapname>' for additional versions.
+
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwd
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ^C
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ /dev/[2Ppwd/dev/[2Ppwd[K[K[Kcd /dev/
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ ls
+[0m[40;33;01mautofs[0m           [40;33;01mkmsg[0m          [40;33;01mrfkill[0m    [40;33;01mtty17[0m  [40;33;01mtty40[0m  [40;33;01mtty7[0m       [40;33;01mttyS29[0m     [40;33;01mvcsa2[0m
+[01;34mblock[0m            [01;34mlightnvm[0m      [01;36mrtc[0m       [40;33;01mtty18[0m  [40;33;01mtty41[0m  [40;33;01mtty8[0m       [40;33;01mttyS3[0m      [40;33;01mvcsa3[0m
+[01;34mbsg[0m              [01;36mlog[0m           [40;33;01mrtc0[0m      [40;33;01mtty19[0m  [40;33;01mtty42[0m  [40;33;01mtty9[0m       [40;33;01mttyS30[0m     [40;33;01mvcsa4[0m
+[40;33;01mbtrfs-control[0m    [40;33;01mloop0[0m         [40;33;01msda[0m       [40;33;01mtty2[0m   [40;33;01mtty43[0m  [40;33;01mttyprintk[0m  [40;33;01mttyS31[0m     [40;33;01mvcsa5[0m
+[01;34mbus[0m              [40;33;01mloop1[0m         [40;33;01msda1[0m      [40;33;01mtty20[0m  [40;33;01mtty44[0m  [40;33;01mttyS0[0m      [40;33;01mttyS4[0m      [40;33;01mvcsa6[0m
+[01;36mcdrom[0m            [40;33;01mloop2[0m         [40;33;01msda2[0m      [40;33;01mtty21[0m  [40;33;01mtty45[0m  [40;33;01mttyS1[0m      [40;33;01mttyS5[0m      [40;33;01mvcsu[0m
+[01;34mchar[0m             [40;33;01mloop3[0m         [40;33;01msda5[0m      [40;33;01mtty22[0m  [40;33;01mtty46[0m  [40;33;01mttyS10[0m     [40;33;01mttyS6[0m      [40;33;01mvcsu1[0m
+[40;33;01mconsole[0m          [40;33;01mloop4[0m         [40;33;01msg0[0m       [40;33;01mtty23[0m  [40;33;01mtty47[0m  [40;33;01mttyS11[0m     [40;33;01mttyS7[0m      [40;33;01mvcsu2[0m
+[01;36mcore[0m             [40;33;01mloop5[0m         [40;33;01msg1[0m       [40;33;01mtty24[0m  [40;33;01mtty48[0m  [40;33;01mttyS12[0m     [40;33;01mttyS8[0m      [40;33;01mvcsu3[0m
+[40;33;01mcpu_dma_latency[0m  [40;33;01mloop6[0m         [30;42mshm[0m       [40;33;01mtty25[0m  [40;33;01mtty49[0m  [40;33;01mttyS13[0m     [40;33;01mttyS9[0m      [40;33;01mvcsu4[0m
+[40;33;01mcuse[0m             [40;33;01mloop7[0m         [40;33;01msnapshot[0m  [40;33;01mtty26[0m  [40;33;01mtty5[0m   [40;33;01mttyS14[0m     [40;33;01mudmabuf[0m    [40;33;01mvcsu5[0m
+[01;34mdisk[0m             [40;33;01mloop8[0m         [01;34msnd[0m       [40;33;01mtty27[0m  [40;33;01mtty50[0m  [40;33;01mttyS15[0m     [40;33;01muhid[0m       [40;33;01mvcsu6[0m
+[01;34mdri[0m              [40;33;01mloop-control[0m  [40;33;01msr0[0m       [40;33;01mtty28[0m  [40;33;01mtty51[0m  [40;33;01mttyS16[0m     [40;33;01muinput[0m     [01;34mvfio[0m
+[01;36mdvd[0m              [01;34mmapper[0m        [01;36mstderr[0m    [40;33;01mtty29[0m  [40;33;01mtty52[0m  [40;33;01mttyS17[0m     [40;33;01murandom[0m    [40;33;01mvga_arbiter[0m
+[40;33;01mecryptfs[0m         [40;33;01mmcelog[0m        [01;36mstdin[0m     [40;33;01mtty3[0m   [40;33;01mtty53[0m  [40;33;01mttyS18[0m     [40;33;01muserio[0m     [40;33;01mvhci[0m
+[40;33;01mfb0[0m              [40;33;01mmem[0m           [01;36mstdout[0m    [40;33;01mtty30[0m  [40;33;01mtty54[0m  [40;33;01mttyS19[0m     [40;33;01mvboxguest[0m  [40;33;01mvhost-net[0m
+[01;36mfd[0m               [30;42mmqueue[0m        [40;33;01mtty[0m       [40;33;01mtty31[0m  [40;33;01mtty55[0m  [40;33;01mttyS2[0m      [40;33;01mvboxuser[0m   [40;33;01mvhost-vsock[0m
+[40;33;01mfull[0m             [01;34mnet[0m           [40;33;01mtty0[0m      [40;33;01mtty32[0m  [40;33;01mtty56[0m  [40;33;01mttyS20[0m     [40;33;01mvcs[0m        [40;33;01mzero[0m
+[40;33;01mfuse[0m             [40;33;01mnull[0m          [40;33;01mtty1[0m      [40;33;01mtty33[0m  [40;33;01mtty57[0m  [40;33;01mttyS21[0m     [40;33;01mvcs1[0m       [40;33;01mzfs[0m
+[40;33;01mhidraw0[0m          [40;33;01mnvram[0m         [40;33;01mtty10[0m     [40;33;01mtty34[0m  [40;33;01mtty58[0m  [40;33;01mttyS22[0m     [40;33;01mvcs2[0m
+[40;33;01mhpet[0m             [40;33;01mport[0m          [40;33;01mtty11[0m     [40;33;01mtty35[0m  [40;33;01mtty59[0m  [40;33;01mttyS23[0m     [40;33;01mvcs3[0m
+[01;34mhugepages[0m        [40;33;01mppp[0m           [40;33;01mtty12[0m     [40;33;01mtty36[0m  [40;33;01mtty6[0m   [40;33;01mttyS24[0m     [40;33;01mvcs4[0m
+[40;33;01mhwrng[0m            [40;33;01mpsaux[0m         [40;33;01mtty13[0m     [40;33;01mtty37[0m  [40;33;01mtty60[0m  [40;33;01mttyS25[0m     [40;33;01mvcs5[0m
+[40;33;01mi2c-0[0m            [40;33;01mptmx[0m          [40;33;01mtty14[0m     [40;33;01mtty38[0m  [40;33;01mtty61[0m  [40;33;01mttyS26[0m     [40;33;01mvcs6[0m
+[01;36minitctl[0m          [01;34mpts[0m           [40;33;01mtty15[0m     [40;33;01mtty39[0m  [40;33;01mtty62[0m  [40;33;01mttyS27[0m     [40;33;01mvcsa[0m
+[01;34minput[0m            [40;33;01mrandom[0m        [40;33;01mtty16[0m     [40;33;01mtty4[0m   [40;33;01mtty63[0m  [40;33;01mttyS28[0m     [40;33;01mvcsa1[0m
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ cc[Kdd[K ^C
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ cd /
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$    rm[K[K[K[K[Krm lab3
+rm: cannot remove 'lab3': No such file or directory
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ clear
+[H[2J[3J]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ [K]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd..[K[K
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cl[Ke[Kleae
+
+Command 'cleae' not found, did you mean:
+
+  command 'clear' from deb ncurses-bin (6.2-0ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ rm lab3
+rm: cannot remove 'lab3': No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ clear
+[H[2J[3J]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ script lab03
+Script started, file is lab03
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ uname -a
+Linux codebind 5.4.0-47-generic #51-Ubuntu SMP Fri Sep 4 19:50:52 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            967M     0  967M   0% /dev
+tmpfs           199M  1.4M  198M   1% /run
+/dev/sda5        62G  8.7G   50G  15% /
+tmpfs           994M     0  994M   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           994M     0  994M   0% /sys/fs/cgroup
+/dev/loop1       56M   56M     0 100% /snap/core18/1885
+/dev/loop0       55M   55M     0 100% /snap/core18/1880
+/dev/loop2      256M  256M     0 100% /snap/gnome-3-34-1804/36
+/dev/loop3      218M  218M     0 100% /snap/gnome-3-34-1804/60
+/dev/loop4       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5       50M   50M     0 100% /snap/snap-store/467
+/dev/loop6       30M   30M     0 100% /snap/snapd/8542
+/dev/loop7       31M   31M     0 100% /snap/snapd/9279
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           199M   28K  199M   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/codebind/VBox_GAs_6.1.14
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ df -h |gr[K[Kb[K grep -v loop [K
+Filesystem      Size  Used Avail Use% Mounted on
+udev            967M     0  967M   0% /dev
+tmpfs           199M  1.4M  198M   1% /run
+/dev/sda5        62G  8.7G   50G  15% /
+tmpfs           994M     0  994M   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           994M     0  994M   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           199M   28K  199M   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/codebind/VBox_GAs_6.1.14
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ mkdir newdir
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cdnewdir 
+cdnewdir: command not found
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cdnewdir 
+cdnewdir: command not found
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cdnewdir [1@ 
+]0;codebind@codebind: ~/lab3/newdir[01;32mcodebind@codebind[00m:[01;34m~/lab3/newdir[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ rm dir newdir
+rm: cannot remove 'dir': No such file or directory
+rm: cannot remove 'newdir': Is a directory
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ rm dir newdir[K[K[K[K[K[K[K[K[K[K[K[K[Kdf -h[K[K[K[K[Kcd ..newdir ..[K[Kcd ..newdir [1P[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[1P[C[C[C[C[C[C[Cmkdir newdir[K[K[K[K[K[K[K[K[K[K[K[Krmdir newdir
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            967M     0  967M   0% /dev
+tmpfs           199M  1.4M  198M   1% /run
+/dev/sda5        62G  8.7G   50G  15% /
+tmpfs           994M     0  994M   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           994M     0  994M   0% /sys/fs/cgroup
+/dev/loop1       56M   56M     0 100% /snap/core18/1885
+/dev/loop0       55M   55M     0 100% /snap/core18/1880
+/dev/loop2      256M  256M     0 100% /snap/gnome-3-34-1804/36
+/dev/loop3      218M  218M     0 100% /snap/gnome-3-34-1804/60
+/dev/loop4       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5       50M   50M     0 100% /snap/snap-store/467
+/dev/loop6       30M   30M     0 100% /snap/snapd/8542
+/dev/loop7       31M   31M     0 100% /snap/snapd/9279
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           199M   28K  199M   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/codebind/VBox_GAs_6.1.14
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ mkdir -p newdir/file
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ emdie -rf newdir
+emdie: command not found
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ emdie -rf newdir[C[1@r[C[1P
+
+Command 'rmdie' not found, did you mean:
+
+  command 'rmdic' from deb canna-utils (3.7p3-14)
+  command 'rmdir' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ rmdie -rf newdir[1P[1@r
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ rmdir -rf newdire[C[C[C[C[C[C[C[C[C[C[Ce[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir -p newdir/file[4Pemdie -rf newdirr[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr[C[C[C[C[C[C[C[C[C[C[C[Krmdir -rf newdir
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ ped[K[Kwd
+/home/codebind/lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ mkdir my [Ktree
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd mytree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd mytree[3@mkdir[C[C[C[C[C[C[C[K[K[K[K[K[Kdir1
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ mkdir dir1[K2
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ mkdir dir2[K3
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd dir1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd dir1mkdir dir3[K4
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ mkdir dir4[K5
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd dir5[K6
+bash: cd: dir6: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd dir65[3@mkdir[C[C[C[C[C[K6
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ vi file.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;29r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[29;1H"file.txt" [New File][2;1H[94m~                                                                                                       [3;1H~                                                                                                       [4;1H~                                                                                                       [5;1H~                                                                                                       [6;1H~                                                                                                       [7;1H~                                                                                                       [8;1H~                                                                                                       [9;1H~                                                                                                       [10;1H~                                                                                                       [11;1H~                                                                                                       [12;1H~                                                                                                       [13;1H~                                                                                                       [14;1H~                                                                                                       [15;1H~                                                                                                       [16;1H~                                                                                                       [17;1H~                                                                                                       [18;1H~                                                                                                       [19;1H~                                                                                                       [20;1H~                                                                                                       [21;1H~                                                                                                       [22;1H~                                                                                                       [23;1H~                                                                                                       [24;1H~                                                                                                       [25;1H~                                                                                                       [26;1H~                                                                                                       [27;1H~                                                                                                       [28;1H~                                                                                                       [1;1H[?25h[?25l[m[29;1H[K[29;1H:[?2004h[?25hwq[?25l[?2004l"file.txt" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ls -R mytree
+ls: cannot access 'mytree': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ls -R mytree[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..ls -R mytree[1Pvi file.txtls -R mytree
+ls: cannot access 'mytree': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..ls -R mytree
+mytree:
+[0m[01;34mdir1[0m  [01;34mdir2[0m  [01;34mdir3[0m
+
+mytree/dir1:
+[01;34mdir4[0m  [01;34mdir5[0m
+
+mytree/dir1/dir4:
+
+mytree/dir1/dir5:
+[01;34mdir6[0m  file.txt
+
+mytree/dir1/dir5/dir6:
+
+mytree/dir2:
+
+mytree/dir3:
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd [K[K[Kpwd
+/home/codebind/lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ c[Kls
+lab03  [0m[01;34mmytree[0m  [01;34mnewdir[0m
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd [K[K[Kpwd 
+/home/codebind
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /home [K[K[K[K[K[K[K lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ pwd
+/home/codebind/lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd myte[Kree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cs [K[Kd dir1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cdd[K dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd dir[K[K[Kfile
+bash: cd: file: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ pwd
+/home/codebind/lab3/mytree/dir1/dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ vi file [K.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;29r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[29;1H"file.txt" 0 lines, 0 characters[2;1H[94m~                                                                                                       [3;1H~                                                                                                       [4;1H~                                                                                                       [5;1H~                                                                                                       [6;1H~                                                                                                       [7;1H~                                                                                                       [8;1H~                                                                                                       [9;1H~                                                                                                       [10;1H~                                                                                                       [11;1H~                                                                                                       [12;1H~                                                                                                       [13;1H~                                                                                                       [14;1H~                                                                                                       [15;1H~                                                                                                       [16;1H~                                                                                                       [17;1H~                                                                                                       [18;1H~                                                                                                       [19;1H~                                                                                                       [20;1H~                                                                                                       [21;1H~                                                                                                       [22;1H~                                                                                                       [23;1H~                                                                                                       [24;1H~                                                                                                       [25;1H~                                                                                                       [26;1H~                                                                                                       [27;1H~                                                                                                       [28;1H~                                                                                                       [1;1H[?25h[?25l[m[29;1H[K[29;1H:[?2004h[?25hwq[?25l[?2004l"file.txt" 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd vi file.txt[1@c[1@d[1@ 
+bash: cd: too many arguments
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd vi file.txt[3P[C[C[C[C[C[C[C[C[C[C[Cpwd[Kcd filedir51mytree[6Ppwdcd lab3[3Ppwd cd ..[3Plspwdls -R mytree[7Pcd ..ls -R mytreepwd[K[1Plscd ..[3Pls[K[Kpwd
+/home/codebind/lab3/mytree/dir1/dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ^C
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ /home/codebind/lab3/mytree/dir1/dir5
+bash: /home/codebind/lab3/mytree/dir1/dir5: Is a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd /home/codebind/lab3/mytree/dir1/dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ pwd
+/home/codebind/lab3/mytree/dir1/dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ pwdcd /home/codebind/lab3/mytree/dir1/dir5[3P/home/codebind/lab3/mytree/dir1/dir5pwd[Kcd vi file.txt[3P[C[C[C[C[C[C[C[C[C[C[Cpwd[Kcd file.txt
+bash: cd: file.txt: Not a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ pwd
+/home/codebind/lab3/mytree/dir1/dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd file
+bash: cd: file: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ v\[K[Kls
+[0m[01;34mdir6[0m  file.txt
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ls -Rcid[K[K[K[K[K[K[K[Kcd file [K.txt
+bash: cd: file.txt: Not a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd file.txt[C[C file.txti file.txtv file.txt[1P file.txt[1P file.txtv file.txti file.txti file.txt[1P file.txt
+bash: cd: too many arguments
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ pwd
+/home/codebind/lab3/mytree/dir1/dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ /home/codebind/lab3/mytree/dir1/dir5c/home/codebind/lab3/mytree/dir1/dir5d/home/codebind/lab3/mytree/dir1/dir5 /home/codebind/lab3/mytree/dir1/dir5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfi[K[K/file
+bash: cd: /home/codebind/lab3/mytree/dir1/dir5/file: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd /home/codebind/lab3/mytree/dir1/dir5/file[C file[C[C[C[C[C[C[1P[1Ppwd[Kcd /home/codebind/lab3/mytree/dir1/di/ file[Kcd /home/codebind/lab3/mytree/dir1/di/ file[C[1@r[1@5[C[1P file[C[C[C[C[C[C.txt
+bash: cd: too many arguments
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ls
+[0m[01;34mdir6[0m  file.txt
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ re[Km hostname
+rm: cannot remove 'hostname': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd /filr[Ke.tct[K[Kxt
+bash: cd: /file.txt: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd filr[Ke [K.tct=[K[K[Kxt/home/codebind/lab3/mytree/dir1/dir5/ file.txt[C[C[1Pfile.txt /home/codebind/lab3/mytree/dir1/dir5/file.txt
+bash: cd: /home/codebind/lab3/mytree/dir1/dir5/file.txt: Not a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd /home/codebind/lab3/mytree/dir1/dir5/file.txt/
+bash: cd: /home/codebind/lab3/mytree/dir1/dir5/file.txt/: Not a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd..[K[K ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ ccd[K[Kd 
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ cd ..[K../home/codebind/lab3/mytree/dir1/dir5/file.txt/[K[K[K[K[K[K[K[K[K
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ../home/codebind/lab3/mytree/dir1/dir5/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C..[K/home/codebind/lab3/mytree/dir1/dir5/[C[C[C[1P3/mytree/dir1/dir5/[1P3/mytree/dir1/dir5/[1P3/mytree/dir1/dir5/[C[1P/mytree/dir1/dir5/./mytree/dir1/dir5/./mytree/dir1/dir5/[C[C[C[C[C[C[C[C[C[C[C[1P1/dir5/[1P1/dir5/[1P1/dir5/[C[1P/dir5/./dir5/./dir5/
+bash: cd: /home/codebind/../mytree/../dir5/: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ../cc[K[K../.lab3
+bash: cd: ../../.lab3: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ../../.lab3/
+bash: cd: ../../.lab3/: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ pwd
+/home/codebind
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ pwd
+/home
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ cd..
+cd..: command not found
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ rm -rf ym[K[Kmyr[Ktree
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ ls
+[0m[01;34mcodebind[0m
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..[3Plsrm -rf mytree
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ ls
+[0m[01;36mbin[0m   [01;34mcdrom[0m  [01;34metc[0m   [01;36mlib[0m    [01;36mlib64[0m   [01;34mlost+found[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msnap[0m  swapfile  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34mdev[0m    [01;34mhome[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmedia[0m       [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msrv[0m   [01;34msys[0m       [01;34musr[0m
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ mkdir mytree
+mkdir: cannot create directory ‘mytree’: Permission denied
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ mkdir mytreels[Krm -rf mytree[K[K[K[K[K[Klab3
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ ls
+[0m[01;36mbin[0m   [01;34mcdrom[0m  [01;34metc[0m   [01;36mlib[0m    [01;36mlib64[0m   [01;34mlost+found[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msnap[0m  swapfile  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34mdev[0m    [01;34mhome[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmedia[0m       [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msrv[0m   [01;34msys[0m       [01;34musr[0m
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ lsrm -rf lab3mkdir mytree[K[K[K[K[K[Klab3
+mkdir: cannot create directory ‘lab3’: Permission denied
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd home
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ cd homemkdir lab3
+mkdir: cannot create directory ‘lab3’: Permission denied
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ mkdir lab3[3Pcd homemkdir lab3ls[Krm -rf lab3
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ rm -rf lab3[1Pmkdir[C[C[C[C[C
+mkdir: cannot create directory ‘lab3’: Permission denied
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ .mkdir lab3[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd d[KDesktop
+bash: cd: Desktop: No such file or directory
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd Desktop..[Kmkdir lab3[1@rm -rf[C[C[C[C[C
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwd
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd 
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..
+]0;codebind@codebind: /home[01;32mcodebind@codebind[00m:[01;34m/home[00m$ cd[Kd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd 
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..[K pwdcd ..rm -rf lab3[1Pcd Desktoprm -rf lab3
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ rm -rf lab3cd[K [Krm -rf lab3[Krm -rf lab3cd[K ..[K [K[K[Kls
+ahmed.txt  [0m[01;34mDesktop[0m    [01;34mDownloads[0m  file.vimrc  myfirst   [01;34mPictures[0m  s          testmacros.txt
+basil.txt  [01;34mDocuments[0m  file.exrc  [01;34mMusic[0m       myyfirst  [01;34mPublic[0m    [01;34mTemplates[0m  [01;34mVideos[0m
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3[K[K[K[K[4Plsmkdir [Kmkdir lab3/mytree
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3/mytree/dir1 lab3/mytree/dir1 [K[K2 lab3/mytree/dir1 
+mkdir: cannot create directory ‘lab3/mytree/dir1’: File exists
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3/mytree/dir1 lab3/mytree/dir2 lab3/mytree/dir1 [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K3
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3/mytree/dir3[K1/dir4 lab3/mytree/dir1/dir4 [K[K4[K5
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ mkdir lab3/mytree/dir1/dir4 lab3/mytree/dir1/dir5[C[C[C[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1P lab3/mytree/dir1/dir5[1Plab3/mytree/dir1/dir5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/dir6 lab3/mytree/dir1/dir5/dir6[K[K[K[Kvi file2[K1.txt
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ rm -rf vi
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ rm -rf vimkdir lab3/mytree/dir1/dir5/dir6 lab3/mytree/dir1/dir5/vi file1.txt[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@t[1@o[1@u[1@c[1@h[C[1@ [1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pfile1.txt[1Pfile1.txt[1Pfile1.txt
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ls -al
+total 324
+drwxr-xr-x 18 codebind codebind  4096 Oct  3 17:23 [0m[01;34m.[0m
+drwxr-xr-x  3 root     root      4096 Sep 18 15:49 [01;34m..[0m
+-rw-rw-r--  1 codebind codebind   100 Sep 24 10:25 ahmed.txt
+-rw-------  1 codebind codebind  7768 Sep 30 23:56 .bash_history
+-rw-r--r--  1 codebind codebind   220 Sep 18 15:49 .bash_logout
+-rw-r--r--  1 codebind codebind  3771 Sep 18 15:49 .bashrc
+-rw-rw-r--  1 codebind codebind   404 Sep 30 22:59 basil.txt
+drwx------ 13 codebind codebind  4096 Oct  3 16:11 [01;34m.cache[0m
+drwx------ 13 codebind codebind  4096 Sep 20 18:58 [01;34m.config[0m
+drwxr-xr-x  2 codebind codebind  4096 Oct  2 13:24 [01;34mDesktop[0m
+drwxr-xr-x  2 codebind codebind  4096 Sep 20 18:58 [01;34mDocuments[0m
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46 [01;34mDownloads[0m
+-rw-rw-r--  1 codebind codebind     9 Sep 30 23:50 .excs
+-rw-------  1 codebind codebind 12288 Sep 24 10:11 .ff.swp
+drwxrwxr-x  2 codebind codebind  4096 Oct  3 17:23 [01;34mfile1.txt[0m
+-rw-rw-r--  1 codebind codebind   119 Sep 30 23:46 file.exrc
+-rw-rw-r--  1 codebind codebind    25 Sep 30 23:53 file.vimrc
+-rw-------  1 codebind codebind 12288 Sep 24 08:51 .fod.txt.swn
+-rw-------  1 codebind codebind 12288 Sep 24 08:44 .fod.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:37 .fod.txt.swp
+-rw-------  1 codebind codebind 12288 Sep 24 09:50 .foo.txt.swn
+-rw-------  1 codebind codebind 12288 Sep 24 09:41 .foo.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:53 .foo.txt.swp
+drwx------  3 codebind codebind  4096 Sep 24 10:22 [01;34m.gnupg[0m
+drwxrwxr-x  3 codebind codebind  4096 Oct  3 17:19 [01;34mlab3[0m
+drwxr-xr-x  3 codebind codebind  4096 Sep 18 16:46 [01;34m.local[0m
+-rw-------  1 codebind codebind 12288 Sep 24 10:00 .mo.txt.swp
+drwx------  5 codebind codebind  4096 Sep 20 18:58 [01;34m.mozilla[0m
+-rw-------  1 codebind codebind 12288 Sep 24 10:04 .m.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 09:35 .m.txt.swp
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46 [01;34mMusic[0m
+-rw-rw-r--  1 codebind codebind   116 Sep 25 16:21 myfirst
+-rw-rw-r--  1 codebind codebind    52 Sep 30 22:34 myyfirst
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46 [01;34mPictures[0m
+-rw-r--r--  1 codebind codebind   807 Sep 18 15:49 .profile
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46 [01;34mPublic[0m
+-rw-------  1 codebind codebind 12288 Sep 24 09:44 .re.swp
+-rw-rw-r--  1 codebind codebind   410 Sep 25 19:11 s
+drwx------  2 codebind codebind  4096 Sep 24 10:22 [01;34m.ssh[0m
+-rw-------  1 codebind codebind 12288 Sep 25 14:30 .swn
+-rw-------  1 codebind codebind 12288 Sep 24 08:56 .swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:29 .swp
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46 [01;34mTemplates[0m
+-rw-rw-r--  1 codebind codebind   128 Sep 25 16:46 testmacros.txt
+-rw-r-----  1 codebind codebind     5 Oct  2 13:16 .vboxclient-clipboard.pid
+-rw-r-----  1 codebind codebind     5 Oct  2 13:16 .vboxclient-display-svga-x11.pid
+-rw-r-----  1 codebind codebind     5 Oct  2 13:16 .vboxclient-draganddrop.pid
+-rw-r-----  1 codebind codebind     5 Oct  2 13:16 .vboxclient-seamless.pid
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46 [01;34mVideos[0m
+-rw-------  1 codebind codebind 12288 Sep 24 10:12 .v.txt.swp
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ la[Ks -al filename
+ls: cannot access 'filename': No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ls -al filename[C[C filenamev filenamei filename
+ls: cannot access 'vi': No such file or directory
+ls: cannot access 'filename': No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ \e[Kdev
+
+Command 'dev' not found, did you mean:
+
+  command 'den' from snap den (1.2.0-0)
+  command 'dep' from deb go-dep (0.5.4-3)
+  command 'rev' from deb util-linux (2.34-0.1ubuntu9.1)
+  command 'delv' from deb bind9-dnsutils (1:9.16.1-0ubuntu2.3)
+  command 'dav' from deb dav-text (0.9.0-1)
+  command 'dex' from deb dex (0.8.0-2)
+  command 'mev' from deb gpm (1.20.7-5)
+  command 'ddv' from deb ncbi-tools-x11 (6.1.20170106+dfsg1-8)
+  command 'xev' from deb x11-utils (7.7+5)
+
+See 'snap info <snapname>' for additional versions.
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ \dev[1Pdev/devc/devd/dev /dev
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ ls -al
+total 4
+drwxr-xr-x  18 root     root        4060 Oct  3 14:16 [0m[01;34m.[0m
+drwxr-xr-x  20 root     root        4096 Sep 18 15:46 [01;34m..[0m
+crw-r--r--   1 root     root     10, 235 Oct  2 13:14 [40;33;01mautofs[0m
+drwxr-xr-x   2 root     root         320 Oct  2 13:14 [01;34mblock[0m
+drwxr-xr-x   2 root     root          80 Oct  2 13:14 [01;34mbsg[0m
+crw-------   1 root     root     10, 234 Oct  2 13:14 [40;33;01mbtrfs-control[0m
+drwxr-xr-x   3 root     root          60 Oct  2 13:14 [01;34mbus[0m
+lrwxrwxrwx   1 root     root           3 Oct  2 13:14 [01;36mcdrom[0m -> [40;33;01msr0[0m
+drwxr-xr-x   2 root     root        3640 Oct  3 14:16 [01;34mchar[0m
+crw--w----   1 root     tty       5,   1 Oct  2 13:14 [40;33;01mconsole[0m
+lrwxrwxrwx   1 root     root          11 Oct  2 13:14 [01;36mcore[0m -> /proc/kcore
+crw-------   1 root     root     10,  59 Oct  2 13:14 [40;33;01mcpu_dma_latency[0m
+crw-------   1 root     root     10, 203 Oct  2 13:14 [40;33;01mcuse[0m
+drwxr-xr-x   7 root     root         140 Oct  2 13:14 [01;34mdisk[0m
+drwxr-xr-x   3 root     root         100 Oct  2 13:14 [01;34mdri[0m
+lrwxrwxrwx   1 root     root           3 Oct  2 13:14 [01;36mdvd[0m -> [40;33;01msr0[0m
+crw-------   1 root     root     10,  62 Oct  2 13:14 [40;33;01mecryptfs[0m
+crw-rw----   1 root     video    29,   0 Oct  2 13:14 [40;33;01mfb0[0m
+lrwxrwxrwx   1 root     root          13 Oct  2 13:14 [01;36mfd[0m -> [01;34m/proc/self/fd[0m
+crw-rw-rw-   1 root     root      1,   7 Oct  2 13:14 [40;33;01mfull[0m
+crw-rw-rw-   1 root     root     10, 229 Oct  2 13:14 [40;33;01mfuse[0m
+crw-------   1 root     root    242,   0 Oct  3 14:16 [40;33;01mhidraw0[0m
+crw-------   1 root     root     10, 228 Oct  2 13:14 [40;33;01mhpet[0m
+drwxr-xr-x   2 root     root           0 Oct  2 13:14 [01;34mhugepages[0m
+crw-------   1 root     root     10, 183 Oct  2 13:14 [40;33;01mhwrng[0m
+crw-------   1 root     root     89,   0 Oct  2 13:14 [40;33;01mi2c-0[0m
+lrwxrwxrwx   1 root     root          12 Oct  2 13:14 [01;36minitctl[0m -> [40;33m/run/initctl[0m
+drwxr-xr-x   4 root     root         320 Oct  3 14:16 [01;34minput[0m
+crw-r--r--   1 root     root      1,  11 Oct  2 13:14 [40;33;01mkmsg[0m
+drwxr-xr-x   2 root     root          60 Oct  2 13:14 [01;34mlightnvm[0m
+lrwxrwxrwx   1 root     root          28 Oct  2 13:14 [01;36mlog[0m -> [01;35m/run/systemd/journal/dev-log[0m
+brw-rw----   1 root     disk      7,   0 Oct  2 13:14 [40;33;01mloop0[0m
+brw-rw----   1 root     disk      7,   1 Oct  2 13:14 [40;33;01mloop1[0m
+brw-rw----   1 root     disk      7,   2 Oct  2 13:14 [40;33;01mloop2[0m
+brw-rw----   1 root     disk      7,   3 Oct  2 13:14 [40;33;01mloop3[0m
+brw-rw----   1 root     disk      7,   4 Oct  2 13:14 [40;33;01mloop4[0m
+brw-rw----   1 root     disk      7,   5 Oct  2 13:14 [40;33;01mloop5[0m
+brw-rw----   1 root     disk      7,   6 Oct  2 13:14 [40;33;01mloop6[0m
+brw-rw----   1 root     disk      7,   7 Oct  2 13:14 [40;33;01mloop7[0m
+brw-rw----   1 root     disk      7,   8 Oct  2 13:14 [40;33;01mloop8[0m
+crw-rw----   1 root     disk     10, 237 Oct  2 13:14 [40;33;01mloop-control[0m
+drwxr-xr-x   2 root     root          60 Oct  2 13:14 [01;34mmapper[0m
+crw-------   1 root     root     10, 227 Oct  2 13:14 [40;33;01mmcelog[0m
+crw-r-----   1 root     kmem      1,   1 Oct  2 13:14 [40;33;01mmem[0m
+drwxrwxrwt   2 root     root          40 Oct  2 13:14 [30;42mmqueue[0m
+drwxr-xr-x   2 root     root          60 Oct  2 13:14 [01;34mnet[0m
+crw-rw-rw-   1 root     root      1,   3 Oct  2 13:14 [40;33;01mnull[0m
+crw-------   1 root     root     10, 144 Oct  2 13:14 [40;33;01mnvram[0m
+crw-r-----   1 root     kmem      1,   4 Oct  2 13:14 [40;33;01mport[0m
+crw-------   1 root     root    108,   0 Oct  2 13:14 [40;33;01mppp[0m
+crw-------   1 root     root     10,   1 Oct  2 13:14 [40;33;01mpsaux[0m
+crw-rw-rw-   1 root     tty       5,   2 Oct  3 17:40 [40;33;01mptmx[0m
+drwxr-xr-x   2 root     root           0 Oct  2 13:14 [01;34mpts[0m
+crw-rw-rw-   1 root     root      1,   8 Oct  2 13:14 [40;33;01mrandom[0m
+crw-rw-r--+  1 root     root     10, 242 Oct  2 13:14 [40;33;01mrfkill[0m
+lrwxrwxrwx   1 root     root           4 Oct  2 13:14 [01;36mrtc[0m -> [40;33;01mrtc0[0m
+crw-------   1 root     root    249,   0 Oct  2 13:14 [40;33;01mrtc0[0m
+brw-rw----   1 root     disk      8,   0 Oct  2 13:14 [40;33;01msda[0m
+brw-rw----   1 root     disk      8,   1 Oct  2 13:14 [40;33;01msda1[0m
+brw-rw----   1 root     disk      8,   2 Oct  2 13:14 [40;33;01msda2[0m
+brw-rw----   1 root     disk      8,   5 Oct  2 13:14 [40;33;01msda5[0m
+crw-rw----+  1 root     cdrom    21,   0 Oct  2 13:14 [40;33;01msg0[0m
+crw-rw----   1 root     disk     21,   1 Oct  2 13:14 [40;33;01msg1[0m
+drwxrwxrwt   2 root     root          40 Oct  2 13:14 [30;42mshm[0m
+crw-------   1 root     root     10, 231 Oct  2 13:14 [40;33;01msnapshot[0m
+drwxr-xr-x   3 root     root         180 Oct  2 13:14 [01;34msnd[0m
+brw-rw----+  1 root     cdrom    11,   0 Oct  2 13:14 [40;33;01msr0[0m
+lrwxrwxrwx   1 root     root          15 Oct  2 13:14 [01;36mstderr[0m -> [40;33;01m/proc/self/fd/2[0m
+lrwxrwxrwx   1 root     root          15 Oct  2 13:14 [01;36mstdin[0m -> [40;33;01m/proc/self/fd/0[0m
+lrwxrwxrwx   1 root     root          15 Oct  2 13:14 [01;36mstdout[0m -> [40;33;01m/proc/self/fd/1[0m
+crw-rw-rw-   1 root     tty       5,   0 Oct  2 13:14 [40;33;01mtty[0m
+crw--w----   1 root     tty       4,   0 Oct  2 13:14 [40;33;01mtty0[0m
+crw--w----   1 root     tty       4,   1 Oct  2 13:15 [40;33;01mtty1[0m
+crw--w----   1 root     tty       4,  10 Oct  2 13:14 [40;33;01mtty10[0m
+crw--w----   1 root     tty       4,  11 Oct  2 13:14 [40;33;01mtty11[0m
+crw--w----   1 root     tty       4,  12 Oct  2 13:14 [40;33;01mtty12[0m
+crw--w----   1 root     tty       4,  13 Oct  2 13:14 [40;33;01mtty13[0m
+crw--w----   1 root     tty       4,  14 Oct  2 13:14 [40;33;01mtty14[0m
+crw--w----   1 root     tty       4,  15 Oct  2 13:14 [40;33;01mtty15[0m
+crw--w----   1 root     tty       4,  16 Oct  2 13:14 [40;33;01mtty16[0m
+crw--w----   1 root     tty       4,  17 Oct  2 13:14 [40;33;01mtty17[0m
+crw--w----   1 root     tty       4,  18 Oct  2 13:14 [40;33;01mtty18[0m
+crw--w----   1 root     tty       4,  19 Oct  2 13:14 [40;33;01mtty19[0m
+crw--w----   1 codebind tty       4,   2 Oct  2 13:16 [40;33;01mtty2[0m
+crw--w----   1 root     tty       4,  20 Oct  2 13:14 [40;33;01mtty20[0m
+crw--w----   1 root     tty       4,  21 Oct  2 13:14 [40;33;01mtty21[0m
+crw--w----   1 root     tty       4,  22 Oct  2 13:14 [40;33;01mtty22[0m
+crw--w----   1 root     tty       4,  23 Oct  2 13:14 [40;33;01mtty23[0m
+crw--w----   1 root     tty       4,  24 Oct  2 13:14 [40;33;01mtty24[0m
+crw--w----   1 root     tty       4,  25 Oct  2 13:14 [40;33;01mtty25[0m
+crw--w----   1 root     tty       4,  26 Oct  2 13:14 [40;33;01mtty26[0m
+crw--w----   1 root     tty       4,  27 Oct  2 13:14 [40;33;01mtty27[0m
+crw--w----   1 root     tty       4,  28 Oct  2 13:14 [40;33;01mtty28[0m
+crw--w----   1 root     tty       4,  29 Oct  2 13:14 [40;33;01mtty29[0m
+crw--w----   1 root     tty       4,   3 Oct  2 13:14 [40;33;01mtty3[0m
+crw--w----   1 root     tty       4,  30 Oct  2 13:14 [40;33;01mtty30[0m
+crw--w----   1 root     tty       4,  31 Oct  2 13:14 [40;33;01mtty31[0m
+crw--w----   1 root     tty       4,  32 Oct  2 13:14 [40;33;01mtty32[0m
+crw--w----   1 root     tty       4,  33 Oct  2 13:14 [40;33;01mtty33[0m
+crw--w----   1 root     tty       4,  34 Oct  2 13:14 [40;33;01mtty34[0m
+crw--w----   1 root     tty       4,  35 Oct  2 13:14 [40;33;01mtty35[0m
+crw--w----   1 root     tty       4,  36 Oct  2 13:14 [40;33;01mtty36[0m
+crw--w----   1 root     tty       4,  37 Oct  2 13:14 [40;33;01mtty37[0m
+crw--w----   1 root     tty       4,  38 Oct  2 13:14 [40;33;01mtty38[0m
+crw--w----   1 root     tty       4,  39 Oct  2 13:14 [40;33;01mtty39[0m
+crw--w----   1 root     tty       4,   4 Oct  2 13:14 [40;33;01mtty4[0m
+crw--w----   1 root     tty       4,  40 Oct  2 13:14 [40;33;01mtty40[0m
+crw--w----   1 root     tty       4,  41 Oct  2 13:14 [40;33;01mtty41[0m
+crw--w----   1 root     tty       4,  42 Oct  2 13:14 [40;33;01mtty42[0m
+crw--w----   1 root     tty       4,  43 Oct  2 13:14 [40;33;01mtty43[0m
+crw--w----   1 root     tty       4,  44 Oct  2 13:14 [40;33;01mtty44[0m
+crw--w----   1 root     tty       4,  45 Oct  2 13:14 [40;33;01mtty45[0m
+crw--w----   1 root     tty       4,  46 Oct  2 13:14 [40;33;01mtty46[0m
+crw--w----   1 root     tty       4,  47 Oct  2 13:14 [40;33;01mtty47[0m
+crw--w----   1 root     tty       4,  48 Oct  2 13:14 [40;33;01mtty48[0m
+crw--w----   1 root     tty       4,  49 Oct  2 13:14 [40;33;01mtty49[0m
+crw--w----   1 root     tty       4,   5 Oct  2 13:14 [40;33;01mtty5[0m
+crw--w----   1 root     tty       4,  50 Oct  2 13:14 [40;33;01mtty50[0m
+crw--w----   1 root     tty       4,  51 Oct  2 13:14 [40;33;01mtty51[0m
+crw--w----   1 root     tty       4,  52 Oct  2 13:14 [40;33;01mtty52[0m
+crw--w----   1 root     tty       4,  53 Oct  2 13:14 [40;33;01mtty53[0m
+crw--w----   1 root     tty       4,  54 Oct  2 13:14 [40;33;01mtty54[0m
+crw--w----   1 root     tty       4,  55 Oct  2 13:14 [40;33;01mtty55[0m
+crw--w----   1 root     tty       4,  56 Oct  2 13:14 [40;33;01mtty56[0m
+crw--w----   1 root     tty       4,  57 Oct  2 13:14 [40;33;01mtty57[0m
+crw--w----   1 root     tty       4,  58 Oct  2 13:14 [40;33;01mtty58[0m
+crw--w----   1 root     tty       4,  59 Oct  2 13:14 [40;33;01mtty59[0m
+crw--w----   1 root     tty       4,   6 Oct  2 13:14 [40;33;01mtty6[0m
+crw--w----   1 root     tty       4,  60 Oct  2 13:14 [40;33;01mtty60[0m
+crw--w----   1 root     tty       4,  61 Oct  2 13:14 [40;33;01mtty61[0m
+crw--w----   1 root     tty       4,  62 Oct  2 13:14 [40;33;01mtty62[0m
+crw--w----   1 root     tty       4,  63 Oct  2 13:14 [40;33;01mtty63[0m
+crw--w----   1 root     tty       4,   7 Oct  2 13:14 [40;33;01mtty7[0m
+crw--w----   1 root     tty       4,   8 Oct  2 13:14 [40;33;01mtty8[0m
+crw--w----   1 root     tty       4,   9 Oct  2 13:14 [40;33;01mtty9[0m
+crw-------   1 root     root      5,   3 Oct  2 13:14 [40;33;01mttyprintk[0m
+crw-rw----   1 root     dialout   4,  64 Oct  2 13:14 [40;33;01mttyS0[0m
+crw-rw----   1 root     dialout   4,  65 Oct  2 13:14 [40;33;01mttyS1[0m
+crw-rw----   1 root     dialout   4,  74 Oct  2 13:14 [40;33;01mttyS10[0m
+crw-rw----   1 root     dialout   4,  75 Oct  2 13:14 [40;33;01mttyS11[0m
+crw-rw----   1 root     dialout   4,  76 Oct  2 13:14 [40;33;01mttyS12[0m
+crw-rw----   1 root     dialout   4,  77 Oct  2 13:14 [40;33;01mttyS13[0m
+crw-rw----   1 root     dialout   4,  78 Oct  2 13:14 [40;33;01mttyS14[0m
+crw-rw----   1 root     dialout   4,  79 Oct  2 13:14 [40;33;01mttyS15[0m
+crw-rw----   1 root     dialout   4,  80 Oct  2 13:14 [40;33;01mttyS16[0m
+crw-rw----   1 root     dialout   4,  81 Oct  2 13:14 [40;33;01mttyS17[0m
+crw-rw----   1 root     dialout   4,  82 Oct  2 13:14 [40;33;01mttyS18[0m
+crw-rw----   1 root     dialout   4,  83 Oct  2 13:14 [40;33;01mttyS19[0m
+crw-rw----   1 root     dialout   4,  66 Oct  2 13:14 [40;33;01mttyS2[0m
+crw-rw----   1 root     dialout   4,  84 Oct  2 13:14 [40;33;01mttyS20[0m
+crw-rw----   1 root     dialout   4,  85 Oct  2 13:14 [40;33;01mttyS21[0m
+crw-rw----   1 root     dialout   4,  86 Oct  2 13:14 [40;33;01mttyS22[0m
+crw-rw----   1 root     dialout   4,  87 Oct  2 13:14 [40;33;01mttyS23[0m
+crw-rw----   1 root     dialout   4,  88 Oct  2 13:14 [40;33;01mttyS24[0m
+crw-rw----   1 root     dialout   4,  89 Oct  2 13:14 [40;33;01mttyS25[0m
+crw-rw----   1 root     dialout   4,  90 Oct  2 13:14 [40;33;01mttyS26[0m
+crw-rw----   1 root     dialout   4,  91 Oct  2 13:14 [40;33;01mttyS27[0m
+crw-rw----   1 root     dialout   4,  92 Oct  2 13:14 [40;33;01mttyS28[0m
+crw-rw----   1 root     dialout   4,  93 Oct  2 13:14 [40;33;01mttyS29[0m
+crw-rw----   1 root     dialout   4,  67 Oct  2 13:14 [40;33;01mttyS3[0m
+crw-rw----   1 root     dialout   4,  94 Oct  2 13:14 [40;33;01mttyS30[0m
+crw-rw----   1 root     dialout   4,  95 Oct  2 13:14 [40;33;01mttyS31[0m
+crw-rw----   1 root     dialout   4,  68 Oct  2 13:14 [40;33;01mttyS4[0m
+crw-rw----   1 root     dialout   4,  69 Oct  2 13:14 [40;33;01mttyS5[0m
+crw-rw----   1 root     dialout   4,  70 Oct  2 13:14 [40;33;01mttyS6[0m
+crw-rw----   1 root     dialout   4,  71 Oct  2 13:14 [40;33;01mttyS7[0m
+crw-rw----   1 root     dialout   4,  72 Oct  2 13:14 [40;33;01mttyS8[0m
+crw-rw----   1 root     dialout   4,  73 Oct  2 13:14 [40;33;01mttyS9[0m
+crw-rw----   1 root     kvm      10,  60 Oct  2 13:14 [40;33;01mudmabuf[0m
+crw-------   1 root     root     10, 239 Oct  2 13:14 [40;33;01muhid[0m
+crw-------   1 root     root     10, 223 Oct  2 13:14 [40;33;01muinput[0m
+crw-rw-rw-   1 root     root      1,   9 Oct  2 13:14 [40;33;01murandom[0m
+crw-------   1 root     root     10, 240 Oct  2 13:14 [40;33;01muserio[0m
+crw-rw----   1 vboxadd  root     10,  58 Oct  2 13:14 [40;33;01mvboxguest[0m
+crw-rw-rw-   1 vboxadd  root     10,  57 Oct  2 13:14 [40;33;01mvboxuser[0m
+crw-rw----   1 root     tty       7,   0 Oct  2 13:14 [40;33;01mvcs[0m
+crw-rw----   1 root     tty       7,   1 Oct  2 13:14 [40;33;01mvcs1[0m
+crw-rw----   1 root     tty       7,   2 Oct  2 13:14 [40;33;01mvcs2[0m
+crw-rw----   1 root     tty       7,   3 Oct  2 13:14 [40;33;01mvcs3[0m
+crw-rw----   1 root     tty       7,   4 Oct  2 13:14 [40;33;01mvcs4[0m
+crw-rw----   1 root     tty       7,   5 Oct  2 13:14 [40;33;01mvcs5[0m
+crw-rw----   1 root     tty       7,   6 Oct  2 13:14 [40;33;01mvcs6[0m
+crw-rw----   1 root     tty       7, 128 Oct  2 13:14 [40;33;01mvcsa[0m
+crw-rw----   1 root     tty       7, 129 Oct  2 13:14 [40;33;01mvcsa1[0m
+crw-rw----   1 root     tty       7, 130 Oct  2 13:14 [40;33;01mvcsa2[0m
+crw-rw----   1 root     tty       7, 131 Oct  2 13:14 [40;33;01mvcsa3[0m
+crw-rw----   1 root     tty       7, 132 Oct  2 13:14 [40;33;01mvcsa4[0m
+crw-rw----   1 root     tty       7, 133 Oct  2 13:14 [40;33;01mvcsa5[0m
+crw-rw----   1 root     tty       7, 134 Oct  2 13:14 [40;33;01mvcsa6[0m
+crw-rw----   1 root     tty       7,  64 Oct  2 13:14 [40;33;01mvcsu[0m
+crw-rw----   1 root     tty       7,  65 Oct  2 13:14 [40;33;01mvcsu1[0m
+crw-rw----   1 root     tty       7,  66 Oct  2 13:14 [40;33;01mvcsu2[0m
+crw-rw----   1 root     tty       7,  67 Oct  2 13:14 [40;33;01mvcsu3[0m
+crw-rw----   1 root     tty       7,  68 Oct  2 13:14 [40;33;01mvcsu4[0m
+crw-rw----   1 root     tty       7,  69 Oct  2 13:14 [40;33;01mvcsu5[0m
+crw-rw----   1 root     tty       7,  70 Oct  2 13:14 [40;33;01mvcsu6[0m
+drwxr-xr-x   2 root     root          60 Oct  2 13:14 [01;34mvfio[0m
+crw-------   1 root     root     10,  63 Oct  2 13:14 [40;33;01mvga_arbiter[0m
+crw-------   1 root     root     10, 137 Oct  2 13:14 [40;33;01mvhci[0m
+crw-------   1 root     root     10, 238 Oct  2 13:14 [40;33;01mvhost-net[0m
+crw-------   1 root     root     10, 241 Oct  2 13:14 [40;33;01mvhost-vsock[0m
+crw-rw-rw-   1 root     root      1,   5 Oct  2 13:14 [40;33;01mzero[0m
+crw-------   1 root     root     10, 249 Oct  2 13:14 [40;33;01mzfs[0m
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ cd ttyS9
+bash: cd: ttyS9: Not a directory
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ cd ttyS9[C[C[C[C[1P ttyS9[1P ttyS9l ttyS9s ttyS9[C ttyS9[1PttyS9[C[C[C
+[0m[40;33;01mttyS9[0m
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ ls ttyS9[K8
+[0m[40;33;01mttyS8[0m
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ ls ttyS8[K7
+[0m[40;33;01mttyS7[0m
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ cd ..[K[K[K[K[Kpwd 
+/dev
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd..
+cd..: command not found
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ pwd 
+/
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd ..
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ clear
+[H[2J[3J]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd-[K -[K~
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ pwd
+/home/codebind
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ ls -ali
+total 12
+393460 drwxrwxr-x  3 codebind codebind 4096 Oct  3 17:19 [0m[01;34m.[0m
+393218 drwxr-xr-x 18 codebind codebind 4096 Oct  3 17:23 [01;34m..[0m
+393670 drwxrwxr-x  5 codebind codebind 4096 Oct  3 17:21 [01;34mmytree[0m
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ ln hardlink-[K[K[K[K[K[K[K[K[K[K[K[Kls -ali[Kcd dir1/dir5
+bash: cd: dir1/dir5: No such file or directory
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd dir1/dir5[K[K[K[K[K
+bash: cd: dir1: No such file or directory
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cs[Kd mrterr[K[K[K[K[K[Ktreemtreeytree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd dir1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ ln food[K[K[K[K[K filr[Ke1.txt hardlink-file1.txt
+ln: failed to access 'file1.txt': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ ln file1.txt hardlink-file1.txtcd dir1[K[K5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd dir5ln file1.txt hardlink-file1.txt
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ vi file1.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;29r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[29;1H"file1.txt" 0 lines, 0 characters[2;1H[94m~                                                                                                       [3;1H~                                                                                                       [4;1H~                                                                                                       [5;1H~                                                                                                       [6;1H~                                                                                                       [7;1H~                                                                                                       [8;1H~                                                                                                       [9;1H~                                                                                                       [10;1H~                                                                                                       [11;1H~                                                                                                       [12;1H~                                                                                                       [13;1H~                                                                                                       [14;1H~                                                                                                       [15;1H~                                                                                                       [16;1H~                                                                                                       [17;1H~                                                                                                       [18;1H~                                                                                                       [19;1H~                                                                                                       [20;1H~                                                                                                       [21;1H~                                                                                                       [22;1H~                                                                                                       [23;1H~                                                                                                       [24;1H~                                                                                                       [25;1H~                                                                                                       [26;1H~                                                                                                       [27;1H~                                                                                                       [28;1H~                                                                                                       [1;1H[?25h[?2004l[>4;m[?25l[ms[?25h[?25lb[?25h[?25lk[?25h[?25lv[?25h[?25lb[?25h[?25lb[?25h[?25lf[?25h[?25lv[?25h[?25lh[?25h[?25lf[?25h[?25lh[?25h[?25lv[?25h[?25lb[?25h[?25lf[?25h[?25lh[?25h[?25ls[?25h[?25lv[?25h[?25lb[?25h[?25lh[?25h[?25lb[?25h[?25lh[?25h[?25lh[?25h[?25lb[?25h[?25lk[?25h[?25lh[?25h[?25ls[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25ls[?25h[?25ld[?25h[?25lf[?25h[?25lv[?25h[?25lb[?25h[?25lk[?25h[?25ld[?25h[?25lf[?25h[?25lb[?25h[?25lv[?25h[?25lk[?25h[?25lj[?25h[?25lb[?25h[?25lv[?25h[?25lk[?25h[?2004h[>4;2m[?25l[29;1H[K[29;1H:[?2004h[?25hwq[?25l[?2004l"file1.txt" 2 lines, 43 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ [K]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ [K]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ [K]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ [K]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ vi hardlink-file1.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;28r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[28;1H"hardlink-file1.txt" 2 lines, 43 characters[1;1Hsbkvbbfvhfhvbfhsvbhbhhbkhs
+sdfvbkdfbvkjbvk
+[94m~                                                                                                      [4;1H~                                                                                                      [5;1H~                                                                                                      [6;1H~                                                                                                      [7;1H~                                                                                                      [8;1H~                                                                                                      [9;1H~                                                                                                      [10;1H~                                                                                                      [11;1H~                                                                                                      [12;1H~                                                                                                      [13;1H~                                                                                                      [14;1H~                                                                                                      [15;1H~                                                                                                      [16;1H~                                                                                                      [17;1H~                                                                                                      [18;1H~                                                                                                      [19;1H~                                                                                                      [20;1H~                                                                                                      [21;1H~                                                                                                      [22;1H~                                                                                                      [23;1H~                                                                                                      [24;1H~                                                                                                      [25;1H~                                                                                                      [26;1H~                                                                                                      [27;1H~                                                                                                      [1;1H[?25h[?25l[m[28;1H[K[28;1H:[?2004h[?25hqw[?25l[97m[41mE492: Not an editor command: qw[1;1H[?25h[?25l[m[28;1H[K[28;1H:[?2004h[?25hwq[?25l[?2004l"hardlink-file1.txt" 2 lines, 43 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln -s filr[Ke1.txt sym[Kmbolic-file.txt
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ls -ali
+total 20
+394036 drwxrwxr-x 3 codebind codebind 4096 Oct  3 23:13 [0m[01;34m.[0m
+393998 drwxrwxr-x 4 codebind codebind 4096 Oct  3 17:22 [01;34m..[0m
+393939 drwxrwxr-x 2 codebind codebind 4096 Oct  3 17:23 [01;34mdir6[0m
+394041 -rw-rw-r-- 2 codebind codebind   43 Oct  3 23:11 file1.txt
+394041 -rw-rw-r-- 2 codebind codebind   43 Oct  3 23:11 hardlink-file1.txt
+394051 lrwxrwxrwx 1 codebind codebind    9 Oct  3 23:13 [01;36msymbolic-file.txt[0m -> file1.txt
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln
+ln: missing file operand
+Try 'ln --help' for more information.
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln original file1.txt
+ln: failed to access 'original': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln original file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[Khi[Klink
+ln: failed to access 'original': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln mydir dir dirhil[K[Klink
+ln: target 'dirhlink' is not a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..ln mydir dir dirhlinkoriginal filehlinkmydir dir dirhlink
+ln: target 'dirhlink' is not a directory
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..ln mydir dir dirhlink
+ln: target 'dirhlink' is not a directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkoriginal filehlink1.txt[Ks -alin -s file1.txt symbolic-file.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pvi hardlink-file1.txt[9Pfile1.txtln file1.txt hardlink-file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd dir5[Kln file1.txt hardlink-file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd dir1[Kmytree[2Pdir1mytree
+bash: cd: mytree: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd mytreeln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkoriginal filehlink1.txt[Ks -alin -s file1.txt symbolic-file.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pvi hardlink-file1.txt[9Pfile1.txtln file1.txt hardlink-file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd dir5[Kln file1.txt hardlink-file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd dir1[Kmytree[2Pdir1/dir5[5Pls -alicd lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd lab3mytree[2Plab3[Kcd lab3mytreeln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkoriginal filehlink1.txt[Ks -alin -s file1.txt symbolic-file.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pvi hardlink-file1.txt[9Pfile1.txtln file1.txt hardlink-file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd dir5[Kln file1.txt hardlink-file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd dir1[Kmytree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd mytree[2Plab3mytreeln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkoriginal filehlink1.txt[Ks -alin -s file1.txt symbolic-file.txt[12Pvi hardlink-file1.txt[9Pfile1.txtln file1.txt hardlink-file1.txtcd dir5[Kln file1.txt hardlink-file1.txtcd dir1[Kmytree[2Pdir1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd dir1mytree[2Plab3mytreeln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkoriginal filehlink1.txt[Ks -alin -s file1.txt symbolic-file.txt[12Pvi hardlink-file1.txt[9Pfile1.txtln file1.txt hardlink-file1.txtcd dir5[Kln file1.txt hardlink-file1.txtcd dir5[K
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd dir51mytree[2Plab3mytreeln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlinkcd ..[Kln mydir dir dirhlink[K[K[K[K[K[K[K[Kfile11.txt[1P.txt
+ln: target 'file1.txt' is not a directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln mydir dir file1.txt[1P file1.txt[1P file1.txt[1P file1.txt[1Pfile1.txt
+ln: failed to access 'mydir': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln /etc [K/passwd
+ln: failed to create hard link './passwd' => '/etc/passwd': Operation not permitted
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln /etc/passwd passwdfile.txt
+ln: failed to create hard link 'passwdfile.txt' => '/etc/passwd': Operation not permitted
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..ln /etc/passwd passwdfile.txt[K passwdfile.txt[K
+ln: failed to create hard link './passwd' => '/etc/passwd': Operation not permitted
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln /etc/passwd[1P[1@~[1P[C[1P /etc/passwdl /etc/passwds /etc/passwd[C /etc/passwd- /etc/passwdl /etc/passwd
+-rw-r--r-- 1 root root 2792 Sep 18 17:00 /etc/passwd
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ [K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ l[Kcd ls -l /etc/passwd[3Pn[C[C[C[C[C[C[C[C[C[C[C[C[9Pcd ..ln /etc/passwd passwdfile.txt[Kmydir file1.txtdir file1.txtcd dir5[K1mytree[2Pdir1[K[K[K[Klab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd lab3[K[K[K[Kmytree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ dc div1
+dc: Could not open file div1
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ dc div1[C[C[1P div1[1P div1c div1d div1
+bash: cd: div1: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd div1dc[C[C[C[C[Ccd mytree[K[K[K[K[K[Kdiv1
+bash: cd: div1: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd div1[1P1r1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ ln mydir div[Kr5
+ln: failed to access 'mydir': No such file or directory
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/vs[Kar
+ln: invalid option -- '/'
+Try 'ln --help' for more information.
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/var[K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/var[K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/var[K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/var[K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/var[K]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ln -s/etc/passwd/varln[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Km[K mydir d[8Pcd ..ln mydir dir5[8Pcd ..ln mydir dir5[6Pcd dir1v1r1v1dc[C[C[C[C[Ccd mytree[2Plab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd lab3ln -s mydir d[8Pcd ..ln mydir dir5[6Pcd dir1v1dc[C[C[C[C[Ccd mytree[2Plab3ls -l /etc/passwd[3Pn[C[C[C[C[C[C[C[C[C[C[C[C[9Pcd ..ln /etc/passwd[3@s -l[C[C[C[C[C[C[C[C[C[C[C[C[10Pcd lab3mytree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd mytree[2Plab3ln -s mydir dir1
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ ln -s mydir dir1[K]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ ln -s mydir dir1[K]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ ln -s mydir dir1[7Pcd mytree[2Plab3ln -s/etc/passwd/varcd ..[Kln -s/etc/passwd/var[K[K[Kdir1
+ln: invalid option -- '/'
+Try 'ln --help' for more information.
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ ln -s/etc/passwd/dir1[K[K[K[Kpasswd[7P mydir dir1[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd vi[K[Kdir1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd dir1[K5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd dir51ln -s/etc/passwd/passwdfile1.txt
+ln: invalid option -- '/'
+Try 'ln --help' for more information.
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd ..[K[K[K[Kd lab3
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd mytree
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd mytree[K[K[K[K[K[Kdie3
+bash: cd: die3: No such file or directory
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ dir3
+
+Command 'dir3' not found, did you mean:
+
+  command 'dirt' from deb dput-ng (1.29)
+  command 'dirb' from deb dirb (2.22+dfsg-3)
+  command 'dir' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ dir1
+
+Command 'dir1' not found, did you mean:
+
+  command 'dir' from deb coreutils (8.30-3ubuntu2)
+  command 'dirb' from deb dirb (2.22+dfsg-3)
+  command 'dirt' from deb dput-ng (1.29)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd dir3
+]0;codebind@codebind: ~/lab3/mytree/dir3[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir3[00m$ ln -s file1.txt symbolic-file1link
+]0;codebind@codebind: ~/lab3/mytree/dir3[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir3[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd dir1
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd dir5
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ ln file[K[K[K[K-s fire[K[K[K[K[K dir3 symbolic-dir3link
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ a[Ksl [K[K[Kls -ali
+total 20
+394036 drwxrwxr-x 3 codebind codebind 4096 Oct  4 18:14 [0m[01;34m.[0m
+393998 drwxrwxr-x 4 codebind codebind 4096 Oct  4 17:54 [01;34m..[0m
+393939 drwxrwxr-x 2 codebind codebind 4096 Oct  3 17:23 [01;34mdir6[0m
+394041 -rw-rw-r-- 2 codebind codebind   43 Oct  3 23:11 file1.txt
+394041 -rw-rw-r-- 2 codebind codebind   43 Oct  3 23:11 hardlink-file1.txt
+394061 lrwxrwxrwx 1 codebind codebind    4 Oct  4 18:14 [40;31;01msymbolic-dir3link[0m -> [40;31;01mdir3[0m
+394051 lrwxrwxrwx 1 codebind codebind    9 Oct  3 23:13 [01;36msymbolic-file.txt[0m -> file1.txt
+]0;codebind@codebind: ~/lab3/mytree/dir1/dir5[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1/dir5[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree/dir1[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree/dir1[00m$ cd ..
+]0;codebind@codebind: ~/lab3/mytree[01;32mcodebind@codebind[00m:[01;34m~/lab3/mytree[00m$ cd ..
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ exit
+exit
+Script done, file is lab03
+]0;codebind@codebind: ~/lab3[01;32mcodebind@codebind[00m:[01;34m~/lab3[00m$ cd ..
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-10-04 18:21:45+03:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,830 @@
+Script started on 2020-10-09 14:04:55+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ pwdchmod g+xu+w[4Pls -lchmod u+w,g-rw,o+x[4Pls -l file.txt[3Pvi[C[C[C[C[C[C[C[C[C[4Pcd lab4/home/codebind/Decktop/lab4/[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Phmod u+w,g-rw,o+xd /home/codebind/Decktop/lab4/[KDecktop/lab4/[1P/[1P/[1P/[1P/c/o/m/p/3/1/1/
+bash: cd: /home/codebind/Decktop/comp311/: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /home/codebind/Decktop/comp311/[C[1Pktop/comp311/sktop/comp311/
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ cd lav[Kb040[K[1P lab04[1P lab04m lab04k lab04d lab04i lab04r lab04
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ cd lab04
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file [K.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file.txt" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file.txt" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0564 file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0564 file.txt[C[1P file.txt[1P file.txt[1P file.txt7 file.txt0 file.txt5 file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 0
+-rwx---r-x 1 codebind codebind 0 Oct  9 14:12 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod 0705 file.txt564[C[C[C[C[C[C[C[C[C
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 0
+-r-xrw-r-- 1 codebind codebind 0 Oct  9 14:12 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod 0564 file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txtu file.txt+ file.txtw file.txt, file.txtg file.txt- file.txtr file.txtw file.txt, file.txto file.txt+ file.txtx file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod u+w,g-rw,o+x file.txtls -l[K
+total 0
+-rwx---r-x 1 codebind codebind 0 Oct  9 14:12 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod u+w,g-rw,o+x file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txtu file.txt- file.txt[1P file.txt= file.txtr file.txtw file.txt, file.txtg file.txt+ file.txtw file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod u=rw,g+w file.txtls -l[K
+total 0
+-rw--w-r-x 1 codebind codebind 0 Oct  9 14:12 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod u=rw,g+w file.txtls -l[Kchmod u+w,g-rw,o+x file.txt[C[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt0 file.txt7 file.txt5 file.txt6 file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0756 file.txtls -l[K
+total 0
+-rwxr-xrw- 1 codebind codebind 0 Oct  9 14:12 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ mkdir dirlab4
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ mkdir dirlab4[8Pls -lchmod 0756 file.txt[K[K[K[K[K[K[K[Kdirlab4
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0756 dirlab4[5Pmkdir[C[C[C[C[C[C[C[C[8Pls -l
+total 4
+drwxr-xrw- 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+-rwxr-xrw- 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod 0756 dirlab4[5Pmkdir[C[C[C[C[C[C[C[C[8Pls -lchmod 0756 file.txt[1P[C[1P file.txt[1P file.txt4 file.txt6 file.txt1 file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0461 file.txtls -l[K
+total 4
+drwxr-xrw- 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+-r--rw---x 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod 0461 file.txtls -l[Kchmod 0461 file.txtls -l[Kchmod 0461 file.txtls -l[Kchmod 0461 file.txtls -l[Kchmod 0756 dirlab4[C[1P dirlab4[1P dirlab4[1P dirlab44 dirlab46 dirlab41 dirlab4
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0461 dirlab4ls -l[K
+total 4
+dr--rw---x 2 codebind codebind 4096 Oct  9 14:18 [0m[01;34mdirlab4[0m
+-r--rw---x 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod 0461 dirlab4ls -l[Kchmod 0461 file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt0 file.txt0 file.txt7 file.txt3 file.txtls -l[Kchmod 0073 file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0073 file.txtls -l[K
+total 4
+dr--rw---x 2 codebind codebind 4096 Oct  9 14:18 [0m[01;34mdirlab4[0m
+----rwx-wx 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod 0073 file.txtls -l[Kchmod 0461 dirlab4[1P dirlab4[1P dirlab4[1P dirlab40 dirlab47 dirlab43 dirlab4
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0073 dirlab4ls -l[K
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+----rwx-wx 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask
+0002
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 13[K23
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 123[Kls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+----rwx-wx 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ man 2umask
+No manual entry for 2umask
+(Alternatively, what manual page do you want from section 2umask?)
+For example, try 'man man'.
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ man 2umask umask
+No manual entry for umask in section 2
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ man 2 umask[1Pumask[5Pls -lumask 123[K[K[K000
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 000[Kchmod +rwx file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod +rwx file.txt[10Pumask 000[K[K[K02[K[K625
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ 111umask 625[4Pls -lchmod +rwx file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file.txt[10Pumask 625[4Pls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ >foo.txtt[K
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ >foo.txt[3Pls -lchmod +rwx file.txt[10Pumask 625
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 625[1P>foo.txt[3Pls -lchmod +rwx file.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file.txt[10Pumask 625[1P>foo.txt[3Pls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:12 [01;32mfile.txt[0m
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -lchmod +rwx file.txtls -l[K foo.txt
+----r---w- 1 codebind codebind 0 Oct  9 14:28 foo.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file.tc[Kxt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file.txt" 0 lines, 0 characters[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file.txt" 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file.txtls -l foo.txt[Kchmod +rwx file.txt[10Pumask 625[1P>foo.txt[3Pls -l>foo.txtumask 625
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 625vi file.txtls -l foo.txt[Kchmod +rwx file.txt[C[K[K[K[K[K[K[K[Kfile.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls -l file.txt
+-rwxrwxrwx 1 codebind codebind 0 Oct  9 14:31 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi filels -l file.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[10Pumask 625
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 625[2Pvi filels -l file.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[K[K[K[K
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file[6Pumask 625[2Pvi filels -l file.txt[K[K[K[K
+---xr-x-w- 1 codebind codebind 0 Oct  9 14:32 [0m[01;32mfile[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file1
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file1" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[15;1H[7mfile1                                                                           [m[16;1H[94m:[m[16;2H[K[23;1H[1m[7m[Command Line]                                                                  [16;2H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[97m[41mE11: Invalid in command-line window; <CR> executes, CTRL-C quits[16;2H[?25h[24;1H[?25l[m[15;1H[94m~                                                                               [16;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file1" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file1ls -l file[5@chmod +rwx[C[C[C[C[C[6Pumask 625[2Pvi fileumask 625[K[K[K034
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 034[1Pvi file1ls -l file[5@chmod +rwx[C[C[C[C[C1
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file1[7Pumask 034[1Pvi file1ls -l file1
+-rwxr---wx 1 codebind codebind 0 Oct  9 14:34 [0m[01;32mfile1[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ +-------[K[K[K[K[K[K[K[Kls -l file1[5@chmod +rwx[C[C[C[C[C[C[5Pls -l[C[C[C[C[C[C[5@chmod +rwx[C[C[C[C[C[C[7Pumask 034[1Pvi file1[C[K2
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file2" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file2" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file2ls -l file1[5@chmod +rwx[C[C[C[C[C[C[7Pumask 034[K[K[K315
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 315[1Pvi file2ls -l file1[5@chmod +rwx[C[C[C[C[C[C[K2
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file2[7Pumask 315[1Pvi file2ls -l file1[K2
+-rw-rw--w- 1 codebind codebind 0 Oct  9 14:41 file2
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file2.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file2.txt" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file2.txt" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 315
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file2.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file2.txt
+-r--rw--w- 1 codebind codebind 0 Oct  9 14:42 file2.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[11Pumask 3150315[C[C[1P5[1P5[1P5[C[K034
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 034ls -l file2.txt
+-r--rw--w- 1 codebind codebind 0 Oct  9 14:42 file2.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file2.txt[6Pumask 034ls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[11Pumask 315[K[K[K034
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 034ls -l file2.txt[6Pumask 034ls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx file2.txt[11Pumask 034ls -l file2.txt
+-rwxrw--wx 1 codebind codebind 0 Oct  9 14:42 [0m[01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cler
+
+Command 'cler' not found, did you mean:
+
+  command 'cver' from deb gplcver (2.12a-1.1build1)
+  command 'clear' from deb ncurses-bin (6.2-0ubuntu2)
+  command 'clex' from deb clex (4.6.patch8-1)
+  command 'cleo' from deb cleo (0.004-2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ clear
+[H[2J[3J]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file1.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file1.txt" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file1.txt" [New File] 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file1.txt[1P.txt2.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"file2.txt" 0 lines, 0 characters[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[15;1H[7mfile2.txt                                                                       [m[16;1H[94m:[m[16;2H[K[23;1H[1m[7m[Command Line]                                                                  [16;2H[?25h[24;1H[?25l[m[15;1H[94m~                                                                               [16;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[15;1H[7mfile2.txt                                                                       [m[16;1H[94m:[m[16;2H[K[23;1H[1m[7m[Command Line]                                                                  [16;2H[?25h[24;1H[?25l[m[15;1H[94m~                                                                               [16;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"file2.txt" 0 lines, 0 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ln  -[K[K-s file1.ttx[K^[[2~[K[K[K[K[Kxt symbolic [K-hi[Klink
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ln -s file1.txt symbolic-hlink[1P[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[Kslink
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 774 file1.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 774 file1.txt[Kls -l file1.txt
+-rwxrwxr-- 1 codebind codebind 0 Oct  9 22:27 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file1.txt[K[K[K[K[K[K[K[K[Khlink
+ls: cannot access 'hlink': No such file or directory
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwxrwxr-- 1 codebind codebind    0 Oct  9 22:27 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-rwxrw--wx 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l hlinkfile1.txt[4@chmod 774[C[C[C[C[C[C[C[C[C[C\[K[K[K[K[K[K[K[K[K[K[K[K[K[K70[K[K00[K701 hi[Klink
+chmod: cannot access 'hlink': No such file or directory
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0701 hlinkls -l[K hlinkfile1.txt[4@chmod 774[C[C[C[C[C[C[C[C[C[Cln -s file2.txt symbolic-slink1.txt symbolic-hlink[18Pvi file2.txt1.txt[7Pclear[1Prls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[11Pumask 034ls -l file2.txt[6Pumask 034ls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[11Pumask 315[K[K[K07[K[K701
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ umask 701chmod 0701 hlinkls -l[Kchmod 0701 hlinkls -l[K hlinkfile1.txt[4@chmod 774[C[C[C[C[C[C[C[C[C[Cln -s file2.txt symbolic-slink1.txt symbolic-hlink[18Pvi file2.txt1.txt[7Pclear[1Prls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[Khlink
+chmod: cannot access 'hlink': No such file or directory
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod +rwx hlink[K[K[K[K[Ksymbolic-hlink
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l symbolic-hlink
+lrwxrwxrwx 1 codebind codebind 9 Oct  9 22:29 [0m[01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l symbolic-hlink[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Phlink[7Pumask 701chmod 0701 hlink[K[K[K[K[Ksymbolic-hlink
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0701 symbolic-hlink[5Pls -l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+lrwxrwxrwx 1 codebind codebind 9 Oct  9 22:29 [0m[01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-rwxrw--wx 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l symbolic-hlink[5@chmod 0701[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K6[K0654 file2.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls file2.txt
+[0m[01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls file2.txt-file2.txt1file2.txt file2.txt
+[0m[01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -1 file2.txt[1P file2.txtl file2.txt
+-rw-r-xr-- 1 codebind codebind 0 Oct  9 22:27 [0m[01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-rw-r-xr-- 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file2.txt1[C[C[C[C[C[C[C[C[C[C[3Pfile2.txt[8@chmod 0654[C[C[C[C[C[C[C[C[C[C[Kls -l[K symbolic-hlink[5@chmod 0701[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P symbolic-hlink[1P symbolic-hlink[1P symbolic-hlink4 symbolic-hlink7 symbolic-hlink5 symbolic-hlink[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[Kslink
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chmod 0475 symbolic-slinkls -l[Kchmod 0475 symbolic-slinkls -l[K file2.txt1[C[C[C[C[C[C[C[C[C[C[3Pfile2.txtchmod 0654 file2.txls -l[K symbolic-hlink[K[K[K[K[Ksil[K[Klink
+lrwxrwxrwx 1 codebind codebind 9 Oct  9 22:29 [0m[01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 4
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ch[K[Kll
+total 12
+drwxrwxr-x 3 codebind codebind 4096 Oct  9 22:29 [0m[01;34m.[0m/
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 14:11 [01;34m..[0m/
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m/
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m*
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m*
+-rwx-----x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile1.txt[0m*
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m*
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m*
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m*
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m*
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chownd[K d__lap_4
+chown: missing operand after ‘d__lap_4’
+Try 'chown --help' for more information.
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown d__lap_4 dirlab04
+chown: invalid user: ‘d__lap_4’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown d__lap_4 dirlab04[K[K[K[K[K[K[K[Kfile2
+chown: invalid user: ‘d__lap_4’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown d__lap_4 file2[1P file2[1P file2[1P file2[1P file2[1P file2[1P file2[1P file2[1P file2l file2a file2b file24 file2
+chown: invalid user: ‘lab4’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown lab4 file2[1P file2[1P file2[1P file2[1P file2t file2r file2a file2o file2[1P file2i file2n file2e file2r file2
+chown: invalid user: ‘trainer’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown trainer file2[C[C[1P file2[1P file2[1P file2[1P file2[1P file2[1P file2[1P file2n file2e file2w file2u file2s file2e file2
+chown: invalid user: ‘newuse’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown newuse file2[K[K[K[K[Kfile.txt
+chown: invalid user: ‘newuse’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chown newuse file.txt[C[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txt[1P file.txtl file.txti file.txtn file.txtu file.txtx file.txti file.txtz file.txte file.txt
+chown: invalid user: ‘linuxize’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cd
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cdhown linuxize file.txt
+chown: invalid user: ‘linuxize’
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /Desktop/comp311/lab04
+bash: cd: /Desktop/comp311/lab04: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /Desktop/comp311/lab04[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Phown linuxize file.txtd /Desktop/comp311/lab04[2Phown linuxize file.txtd[Khown linuxize file.txt[2Pnewus[C[C[C[C[C[C[C[C[C[C2[K[1@trainer[C[C[C[C[C[C[3Plab4[C[C[C[C[C[C[4@d__lap_[C[C[C[C[C[C[Cdirlab04[Kll[Ks -l symbolic-slink[5@chmod 0475[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l[K file2.txt1[C[C[C[C[C[C[C[C[C[C[3Pfile2.txtchmod 0654 file2.txls -l[K symbolic-hlink[5@chmod 0701[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pls -l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Phlink[7Pumask 701chmod 0701 hlinkls -l[K hlinkfile1.txt[4@chmod 774[C[C[C[C[C[C[C[C[C[Cln -s file2.txt symbolic-slink1.txt symbolic-hlink[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pvi file2.txt1.txt[7Pclear[1Prls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[11Pumask 034ls -l file2.txt[6Pumask 034ls -l file2.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[C[11Pumask 315vi file2.txt[1Pls -l file2[5@chmod +rwx[C[C[C[C[C[C[7Pumask 315[1Pvi file2ls -l file1[5@chmod +rwx[C[C[C[C[C[C[7Pumask 034[1Pvi file1ls -l file[5@chmod +rwx[C[C[C[C[C[6Pumask 625[2Pvi filels -l file.txt[5@chmod +rwx[C[C[C[C[C[C[C[C[C[10Pumask 625vi file.txtls -l foo.txt[Kchmod +rwx file.txt[10Pumask 625[1P>foo.txt[3Pls -lchmod +rwx file.txt[10Pumask 625[4Pls -lchmod +rwx file.txt[10Pumask 000man 2 umask[1Pumask[5Pls -lumask 123[Kls -lchmod 0073 dirlab4ls -l[Kchmod 0073 file.txtls -l[Kchmod 0461 dirlab4ls -l[Kchmod 0461 file.txtls -l[Kchmod 0756 dirlab4[5Pmkdir[C[C[C[C[C[C[C[C[8Pls -lchmod 0756 file.txtls -l[Kchmod u=rw,g+w file.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l[Kchmod u+w,g-rw,o+x file.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l[Kchmod 0564 file.txtls -l[Kchmod 0705 file.txt564[C[C[C[C[C[C[C[C[C[8Pvi[C[C[C[C[C[C[C[C[C[3Pcd lab04[3@mkdir[C[C[C[C[C[Ccd /home/codebind/Desktop/comp311/cktop/comp311/[C[1Pktop/comp311/sktop/comp311/
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ cd [K[K[Kcd /home/codebind/Desktop/comp311/[9PDesktop/comp311/lab04[2Phown linuxize file.txt
+chown: invalid user: ‘linuxize’
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ chown linuxize file.txtd /home/codebind/Desktop/comp311/[11Phown linuxize file.txt[Kc lab04
+c: command not found
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ c lab04d lab04
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ chgrp ne[Knew filr[Ke1.txt
+chgrp: invalid group: ‘nnew’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls[K[Kll
+total 12
+drwxrwxr-x 3 codebind codebind 4096 Oct  9 22:29 [0m[01;34m.[0m/
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 14:11 [01;34m..[0m/
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m/
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m*
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m*
+-rwx-----x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile1.txt[0m*
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m*
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m*
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m*
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m*
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ llchgrp nnew file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+chgrp: invalid group: ‘nnew’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ sudo file1.txt
+[sudo] password for codebind: 
+21Sorry, try again.
+[sudo] password for codebind: 
+12Sorry, try again.
+[sudo] password for codebind: 
+12412433sudo: 3 incorrect password attempts
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ 12412433
+12412433: command not found
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ size file.txt
+
+Command 'size' not found, but can be installed with:
+
+sudo apt install binutils
+
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cd
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cdsize file.txt
+
+Command 'size' not found, but can be installed with:
+
+sudo apt install binutils
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ size file.txt[K[K[K[K[K[K[K[Kapl
+
+Command 'size' not found, but can be installed with:
+
+sudo apt install binutils
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /home/codebind/Desktop/comp311/
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ cd lab04
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ echo "1">[K > file1.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -;[Kj[Kl file.txt
+-rwxrwxrwx 1 codebind codebind 0 Oct  9 14:31 [0m[01;32mfile.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ hexdump -c file.[K1.txt
+0000000   1  \n                                                        
+0000002
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ du fie[Kle1.txt
+4	file1.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cd [K[K[Kvi dooo[K[K[K[Kfooo.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"fooo.txt" [New File][2;1H[94m~                                                                                      [3;1H~                                                                                      [4;1H~                                                                                      [5;1H~                                                                                      [6;1H~                                                                                      [7;1H~                                                                                      [8;1H~                                                                                      [9;1H~                                                                                      [10;1H~                                                                                      [11;1H~                                                                                      [12;1H~                                                                                      [13;1H~                                                                                      [14;1H~                                                                                      [15;1H~                                                                                      [16;1H~                                                                                      [17;1H~                                                                                      [18;1H~                                                                                      [19;1H~                                                                                      [20;1H~                                                                                      [21;1H~                                                                                      [22;1H~                                                                                      [23;1H~                                                                                      [1;1H[?25h[?25l[?25h[?25l[?25h[?2004l[>4;m[?25l[mj[?25h[?25ln[?25h[?25lb[?25h[?25ld[?25h[?25lj[?25h[?25lk[?25h[?25lf[?25h[?25lv[?25h[?25lb[?25h[?25lj[?25h[?25lk[?25h[?25ld[?25h[?25lf[?25h[?25lj[?25h[?25lk[?25h[?25ld[?25h[?25lf[?25h[?25lk[?25h[?25lj[?25h[?25lv[?25h[?25lb[?25h[?25l [?25h[?25ld[?25h[?25lf[?25h[?25lk[?25h[?25lj[?25h[?25lj[?25h[?25lf[?25h[?25ld[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"fooo.txt" [New File] 1 line, 30 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi fooo.txtdu file1.txt[8@hexdump -c[C[C[C[C[C[C[C[C[C[C[6Pls -l file.txtecho "1" > file1.txt[C[1P.txt[1P.txt[1P.txt[1P.txt[1P.txtf.txto.txto.txto.txt
+bash: fooo.txt: Permission denied
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ echo "1" > fooo.txt[8Pvi[C[C[C[C[C[C[C[C[Cdu file1.txt[8@hexdump -c[C[C[C[C[C[C[C[C[C[C[6Pls -l file.txt[1P.txt[1P.txt[1P.txto.txto.txto.txt
+----rw-rw- 1 codebind codebind 30 Oct  9 23:31 fooo.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l fooo.txt[5@echo "1" >[C[C[C[C[C[C[C[C[C[8Pvi[C[C[C[C[C[C[C[C[Cdu file1.txt[C[1P.txt[1P.txt[1P.txt[1P.txto.txto.txto.txt
+4	fooo.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ du fooo.txt[3@ls -l[C[C[C[C[C[C[C[C[C[3Pdu[C[C[C[C[C[C[C[C[C[3@ls -l[C[C[C[C[C[C[C[C[C[5@echo "1" >[C[C[C[C[C[C[C[C[C[8Pvi[C[C[C[C[C[C[C[C[Cdu file1.txt[8@hexdump -c[C[C[C[C[C[C[C[C[C[C[1P.txt[1P.txt[1P.txt[1P.txto.txto.txto.txt
+hexdump: fooo.txt: Permission denied
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ hexdump -c fooo.txt[8Pdu[C[C[C[C[C[C[C[C[C[3@ls -l[C[C[C[C[C[C[C[C[C[5@echo "1" >[C[C[C[C[C[C[C[C[C[8Pvi[C[C[C[C[C[C[C[C[C[1P fooo.txt[1P fooo.txtS fooo.txtI fooo.txt[1P fooo.txt[1P fooo.txts fooo.txti fooo.txtz fooo.txte fooo.txt[C fooo.txt
+
+Command 'size' not found, but can be installed with:
+
+sudo apt install binutils
+
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ll
+total 20
+drwxrwxr-x 3 codebind codebind 4096 Oct  9 23:31 [0m[01;34m.[0m/
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 14:11 [01;34m..[0m/
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m/
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m*
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m*
+-rwx-----x 1 codebind codebind    2 Oct  9 23:28 [01;32mfile1.txt[0m*
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m*
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m*
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m*
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m*
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ln foo.tct[K[Kxt fooo.txt
+ln: failed to create hard link 'fooo.txt': File exists
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ln foo.txt fooo.txtl[Ksize  fooo.txt[5@hexdump -c[C[C[C[C[C[C[C[C[C[8Pdu[C[C[C[C[C[C[C[C[C[3@ls -l[C[C[C[C[C[C[C[C[C[5@echo "1" >[C[C[C[C[C[C[C[C[C[8Pvi[C[C[C[C[C[C[C[C[Cdu file1.txt[8@hexdump -c[C[C[C[C[C[C[C[C[C[C[6Pls -l file.txtecho "1" > file1.txt[12Pcd lab04/home/codebind/Desktop/comp311/size apl[Kfile.txtcd[Ksize file.txt[5P12412433sudo file1.txt[6@chgrp nnew[C[C[C[C[C[C[C[C[C[C[C[1@c[1@u[1@d[1@o[1@ 
+
+Command 'cudo' not found, did you mean:
+
+  command 'ludo' from snap ludo (0.12.0)
+  command 'sudo' from deb sudo (1.8.31-1ubuntu1.1)
+  command 'sudo' from deb sudo-ldap (1.8.31-1ubuntu1.1)
+  command 'cdo' from deb cdo (1.9.9~rc1-1)
+  command 'cuyo' from deb cuyo (2.0.0brl1-3build2)
+  command 'udo' from deb udo (6.4.1-5)
+
+See 'snap info <snapname>' for additional versions.
+
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ sudo chown bob file1.txt
+[sudo] password for codebind: 
+Sorry, try again.
+[sudo] password for codebind: 
+Sorry, try again.
+[sudo] password for codebind: 
+
+
+
+sudo: 3 incorrect password attempts
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ 
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ 
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ 
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls file1.txct[K[Kt
+[0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls file1.txt[C[C file1.txt- file1.txtk file1.txt[1P file1.txtl file1.txt
+-rwx-----x 1 codebind codebind 2 Oct  9 23:28 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file1.txt[3Pfile1.txt[12@sudo chown bob[C[C[C[C[C[C[C[C[C[C[1P file1.txt[1P file1.txt[1P file1.txtf file1.txti file1.txtl file1.txte file1.txt
+[sudo] password for codebind: 
+chown: invalid user: ‘file’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ sudo chown file file1.txt[10Pls -l[C[C[C[C[C[C[C[C[C[C[3Pfile1.txt-l file1.txt
+-rwx-----x 1 codebind codebind 2 Oct  9 23:28 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l file1.txt[10@sudo chown file[C[C[C[C[C[C[C[C[C[C[C: file1.txts file1.txtu file1.txtd file1.txto file1.txt
+chown: invalid user: ‘file:sudo’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ll
+total 20
+drwxrwxr-x 3 codebind codebind 4096 Oct  9 23:31 [0m[01;34m.[0m/
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 14:11 [01;34m..[0m/
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m/
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m*
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m*
+-rwx-----x 1 codebind codebind    2 Oct  9 23:28 [01;32mfile1.txt[0m*
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m*
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m*
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m*
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m*
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l foo.txt
+----r---w- 1 codebind codebind 0 Oct  9 14:28 foo.txt
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ sudo chown bod foo.txt
+chown: invalid user: ‘bod’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ sudo chown bod foo.txt[1P[1P[1P[1P[1P[1@g[1@h[1P[1P[1@c[1@h[1@g[1@r[1@p
+chgrp: invalid group: ‘bod’
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ fdgdfh[K[K[K[K[K[Ksudo chgrp bod foo.txt[Ksudo chgrp bod foo.txt[Ksudo chgrp bod foo.txt[Ksudo chgrp bod foo.txt[Ksudo chgrp bod foo.txt[Ksudo chgrp bod foo.txt[Ksudo chgrp bod foo.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo chown bod foo.txt[Ksudo chown bod foo.txt[Ksudo chown bod foo.txt[Ksudo chown bod foo.txt[Ksudo chown bod foo.txt[Ksudo chown bod foo.txt[Ksudo chown bod foo.txt[Kls[K[Kclear
+[H[2J[3J]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 12
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    2 Oct  9 23:28 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi how
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"how" [New File][2;1H[94m~                                                                                      [3;1H~                                                                                      [4;1H~                                                                                      [5;1H~                                                                                      [6;1H~                                                                                      [7;1H~                                                                                      [8;1H~                                                                                      [9;1H~                                                                                      [10;1H~                                                                                      [11;1H~                                                                                      [12;1H~                                                                                      [13;1H~                                                                                      [14;1H~                                                                                      [15;1H~                                                                                      [16;1H~                                                                                      [17;1H~                                                                                      [18;1H~                                                                                      [19;1H~                                                                                      [20;1H~                                                                                      [21;1H~                                                                                      [22;1H~                                                                                      [23;1H~                                                                                      [1;1H[?25h[?2004l[>4;m[?25l[mh[?25h[?25lo[?25h[?25lw[?25h[?25l [?25h[?25la[?25h[?25lr[?25h[?25le[?25h[?25l [?25h[?25ly[?25h[?25lo[?25h[?25lu[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"how" [New File] 1 line, 12 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 16
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    2 Oct  9 23:28 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+----rw-rw- 1 codebind codebind   12 Oct 10 16:28 how
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ stat
+stat: missing operand
+Try 'stat --help' for more information.
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ stat fi[K[Khow
+  File: how
+  Size: 12        	Blocks: 8          IO Block: 4096   regular file
+Device: 805h/2053d	Inode: 400788      Links: 1
+Access: (0066/----rw-rw-)  Uid: ( 1000/codebind)   Gid: ( 1000/codebind)
+Access: 2020-10-10 16:28:34.530330715 +0300
+Modify: 2020-10-10 16:28:34.530330715 +0300
+Change: 2020-10-10 16:28:34.530330715 +0300
+ Birth: -
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cd /dev
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ ls -l
+total 0
+crw-r--r--  1 root     root     10, 235 Oct  9 13:58 [0m[40;33;01mautofs[0m
+drwxr-xr-x  2 root     root         320 Oct  9 13:59 [01;34mblock[0m
+drwxr-xr-x  2 root     root          80 Oct  9 13:58 [01;34mbsg[0m
+crw-------  1 root     root     10, 234 Oct  9 13:58 [40;33;01mbtrfs-control[0m
+drwxr-xr-x  3 root     root          60 Oct  9 13:58 [01;34mbus[0m
+lrwxrwxrwx  1 root     root           3 Oct  9 13:58 [01;36mcdrom[0m -> [40;33;01msr0[0m
+drwxr-xr-x  2 root     root        3640 Oct  9 23:35 [01;34mchar[0m
+crw--w----  1 root     tty       5,   1 Oct  9 13:58 [40;33;01mconsole[0m
+lrwxrwxrwx  1 root     root          11 Oct  9 13:58 [01;36mcore[0m -> /proc/kcore
+crw-------  1 root     root     10,  59 Oct  9 13:58 [40;33;01mcpu_dma_latency[0m
+crw-------  1 root     root     10, 203 Oct  9 13:58 [40;33;01mcuse[0m
+drwxr-xr-x  7 root     root         140 Oct  9 13:58 [01;34mdisk[0m
+drwxr-xr-x  3 root     root         100 Oct  9 13:58 [01;34mdri[0m
+lrwxrwxrwx  1 root     root           3 Oct  9 13:58 [01;36mdvd[0m -> [40;33;01msr0[0m
+crw-------  1 root     root     10,  62 Oct  9 13:58 [40;33;01mecryptfs[0m
+crw-rw----  1 root     video    29,   0 Oct  9 13:58 [40;33;01mfb0[0m
+lrwxrwxrwx  1 root     root          13 Oct  9 13:58 [01;36mfd[0m -> [01;34m/proc/self/fd[0m
+crw-rw-rw-  1 root     root      1,   7 Oct  9 13:58 [40;33;01mfull[0m
+crw-rw-rw-  1 root     root     10, 229 Oct  9 13:58 [40;33;01mfuse[0m
+crw-------  1 root     root    242,   0 Oct  9 23:35 [40;33;01mhidraw0[0m
+crw-------  1 root     root     10, 228 Oct  9 13:58 [40;33;01mhpet[0m
+drwxr-xr-x  2 root     root           0 Oct  9 13:58 [01;34mhugepages[0m
+crw-------  1 root     root     10, 183 Oct  9 13:58 [40;33;01mhwrng[0m
+crw-------  1 root     root     89,   0 Oct  9 13:58 [40;33;01mi2c-0[0m
+lrwxrwxrwx  1 root     root          12 Oct  9 13:58 [01;36minitctl[0m -> [40;33m/run/initctl[0m
+drwxr-xr-x  4 root     root         320 Oct  9 23:35 [01;34minput[0m
+crw-r--r--  1 root     root      1,  11 Oct  9 13:58 [40;33;01mkmsg[0m
+drwxr-xr-x  2 root     root          60 Oct  9 13:58 [01;34mlightnvm[0m
+lrwxrwxrwx  1 root     root          28 Oct  9 13:58 [01;36mlog[0m -> [01;35m/run/systemd/journal/dev-log[0m
+brw-rw----  1 root     disk      7,   0 Oct  9 13:58 [40;33;01mloop0[0m
+brw-rw----  1 root     disk      7,   1 Oct  9 13:58 [40;33;01mloop1[0m
+brw-rw----  1 root     disk      7,   2 Oct  9 13:58 [40;33;01mloop2[0m
+brw-rw----  1 root     disk      7,   3 Oct  9 13:58 [40;33;01mloop3[0m
+brw-rw----  1 root     disk      7,   4 Oct  9 13:58 [40;33;01mloop4[0m
+brw-rw----  1 root     disk      7,   5 Oct  9 13:58 [40;33;01mloop5[0m
+brw-rw----  1 root     disk      7,   6 Oct  9 13:58 [40;33;01mloop6[0m
+brw-rw----  1 root     disk      7,   7 Oct  9 13:58 [40;33;01mloop7[0m
+brw-rw----  1 root     disk      7,   8 Oct  9 13:59 [40;33;01mloop8[0m
+crw-rw----  1 root     disk     10, 237 Oct  9 13:58 [40;33;01mloop-control[0m
+drwxr-xr-x  2 root     root          60 Oct  9 13:58 [01;34mmapper[0m
+crw-------  1 root     root     10, 227 Oct  9 13:58 [40;33;01mmcelog[0m
+crw-r-----  1 root     kmem      1,   1 Oct  9 13:58 [40;33;01mmem[0m
+drwxrwxrwt  2 root     root          40 Oct  9 13:58 [30;42mmqueue[0m
+drwxr-xr-x  2 root     root          60 Oct  9 13:58 [01;34mnet[0m
+crw-rw-rw-  1 root     root      1,   3 Oct  9 13:58 [40;33;01mnull[0m
+crw-------  1 root     root     10, 144 Oct  9 13:58 [40;33;01mnvram[0m
+crw-r-----  1 root     kmem      1,   4 Oct  9 13:58 [40;33;01mport[0m
+crw-------  1 root     root    108,   0 Oct  9 13:58 [40;33;01mppp[0m
+crw-------  1 root     root     10,   1 Oct  9 13:58 [40;33;01mpsaux[0m
+crw-rw-rw-  1 root     tty       5,   2 Oct 10 16:37 [40;33;01mptmx[0m
+drwxr-xr-x  2 root     root           0 Oct  9 13:58 [01;34mpts[0m
+crw-rw-rw-  1 root     root      1,   8 Oct  9 13:58 [40;33;01mrandom[0m
+crw-rw-r--+ 1 root     root     10, 242 Oct  9 13:58 [40;33;01mrfkill[0m
+lrwxrwxrwx  1 root     root           4 Oct  9 13:58 [01;36mrtc[0m -> [40;33;01mrtc0[0m
+crw-------  1 root     root    249,   0 Oct  9 13:58 [40;33;01mrtc0[0m
+brw-rw----  1 root     disk      8,   0 Oct  9 13:58 [40;33;01msda[0m
+brw-rw----  1 root     disk      8,   1 Oct  9 13:58 [40;33;01msda1[0m
+brw-rw----  1 root     disk      8,   2 Oct  9 13:58 [40;33;01msda2[0m
+brw-rw----  1 root     disk      8,   5 Oct  9 13:58 [40;33;01msda5[0m
+crw-rw----+ 1 root     cdrom    21,   0 Oct  9 13:58 [40;33;01msg0[0m
+crw-rw----  1 root     disk     21,   1 Oct  9 13:58 [40;33;01msg1[0m
+drwxrwxrwt  2 root     root          40 Oct  9 13:58 [30;42mshm[0m
+crw-------  1 root     root     10, 231 Oct  9 13:58 [40;33;01msnapshot[0m
+drwxr-xr-x  3 root     root         180 Oct  9 13:58 [01;34msnd[0m
+brw-rw----+ 1 root     cdrom    11,   0 Oct  9 13:58 [40;33;01msr0[0m
+lrwxrwxrwx  1 root     root          15 Oct  9 13:58 [01;36mstderr[0m -> [40;33;01m/proc/self/fd/2[0m
+lrwxrwxrwx  1 root     root          15 Oct  9 13:58 [01;36mstdin[0m -> [40;33;01m/proc/self/fd/0[0m
+lrwxrwxrwx  1 root     root          15 Oct  9 13:58 [01;36mstdout[0m -> [40;33;01m/proc/self/fd/1[0m
+crw-rw-rw-  1 root     tty       5,   0 Oct 10 16:18 [40;33;01mtty[0m
+crw--w----  1 root     tty       4,   0 Oct  9 13:58 [40;33;01mtty0[0m
+crw--w----  1 root     tty       4,   1 Oct  9 13:59 [40;33;01mtty1[0m
+crw--w----  1 root     tty       4,  10 Oct  9 13:58 [40;33;01mtty10[0m
+crw--w----  1 root     tty       4,  11 Oct  9 13:58 [40;33;01mtty11[0m
+crw--w----  1 root     tty       4,  12 Oct  9 13:58 [40;33;01mtty12[0m
+crw--w----  1 root     tty       4,  13 Oct  9 13:58 [40;33;01mtty13[0m
+crw--w----  1 root     tty       4,  14 Oct  9 13:58 [40;33;01mtty14[0m
+crw--w----  1 root     tty       4,  15 Oct  9 13:58 [40;33;01mtty15[0m
+crw--w----  1 root     tty       4,  16 Oct  9 13:58 [40;33;01mtty16[0m
+crw--w----  1 root     tty       4,  17 Oct  9 13:58 [40;33;01mtty17[0m
+crw--w----  1 root     tty       4,  18 Oct  9 13:58 [40;33;01mtty18[0m
+crw--w----  1 root     tty       4,  19 Oct  9 13:58 [40;33;01mtty19[0m
+crw--w----  1 codebind tty       4,   2 Oct  9 14:01 [40;33;01mtty2[0m
+crw--w----  1 root     tty       4,  20 Oct  9 13:58 [40;33;01mtty20[0m
+crw--w----  1 root     tty       4,  21 Oct  9 13:58 [40;33;01mtty21[0m
+crw--w----  1 root     tty       4,  22 Oct  9 13:58 [40;33;01mtty22[0m
+crw--w----  1 root     tty       4,  23 Oct  9 13:58 [40;33;01mtty23[0m
+crw--w----  1 root     tty       4,  24 Oct  9 13:58 [40;33;01mtty24[0m
+crw--w----  1 root     tty       4,  25 Oct  9 13:58 [40;33;01mtty25[0m
+crw--w----  1 root     tty       4,  26 Oct  9 13:58 [40;33;01mtty26[0m
+crw--w----  1 root     tty       4,  27 Oct  9 13:58 [40;33;01mtty27[0m
+crw--w----  1 root     tty       4,  28 Oct  9 13:58 [40;33;01mtty28[0m
+crw--w----  1 root     tty       4,  29 Oct  9 13:58 [40;33;01mtty29[0m
+crw--w----  1 root     tty       4,   3 Oct  9 13:58 [40;33;01mtty3[0m
+crw--w----  1 root     tty       4,  30 Oct  9 13:58 [40;33;01mtty30[0m
+crw--w----  1 root     tty       4,  31 Oct  9 13:58 [40;33;01mtty31[0m
+crw--w----  1 root     tty       4,  32 Oct  9 13:58 [40;33;01mtty32[0m
+crw--w----  1 root     tty       4,  33 Oct  9 13:58 [40;33;01mtty33[0m
+crw--w----  1 root     tty       4,  34 Oct  9 13:58 [40;33;01mtty34[0m
+crw--w----  1 root     tty       4,  35 Oct  9 13:58 [40;33;01mtty35[0m
+crw--w----  1 root     tty       4,  36 Oct  9 13:58 [40;33;01mtty36[0m
+crw--w----  1 root     tty       4,  37 Oct  9 13:58 [40;33;01mtty37[0m
+crw--w----  1 root     tty       4,  38 Oct  9 13:58 [40;33;01mtty38[0m
+crw--w----  1 root     tty       4,  39 Oct  9 13:58 [40;33;01mtty39[0m
+crw--w----  1 root     tty       4,   4 Oct  9 13:58 [40;33;01mtty4[0m
+crw--w----  1 root     tty       4,  40 Oct  9 13:58 [40;33;01mtty40[0m
+crw--w----  1 root     tty       4,  41 Oct  9 13:58 [40;33;01mtty41[0m
+crw--w----  1 root     tty       4,  42 Oct  9 13:58 [40;33;01mtty42[0m
+crw--w----  1 root     tty       4,  43 Oct  9 13:58 [40;33;01mtty43[0m
+crw--w----  1 root     tty       4,  44 Oct  9 13:58 [40;33;01mtty44[0m
+crw--w----  1 root     tty       4,  45 Oct  9 13:58 [40;33;01mtty45[0m
+crw--w----  1 root     tty       4,  46 Oct  9 13:58 [40;33;01mtty46[0m
+crw--w----  1 root     tty       4,  47 Oct  9 13:58 [40;33;01mtty47[0m
+crw--w----  1 root     tty       4,  48 Oct  9 13:58 [40;33;01mtty48[0m
+crw--w----  1 root     tty       4,  49 Oct  9 13:58 [40;33;01mtty49[0m
+crw--w----  1 root     tty       4,   5 Oct  9 13:58 [40;33;01mtty5[0m
+crw--w----  1 root     tty       4,  50 Oct  9 13:58 [40;33;01mtty50[0m
+crw--w----  1 root     tty       4,  51 Oct  9 13:58 [40;33;01mtty51[0m
+crw--w----  1 root     tty       4,  52 Oct  9 13:58 [40;33;01mtty52[0m
+crw--w----  1 root     tty       4,  53 Oct  9 13:58 [40;33;01mtty53[0m
+crw--w----  1 root     tty       4,  54 Oct  9 13:58 [40;33;01mtty54[0m
+crw--w----  1 root     tty       4,  55 Oct  9 13:58 [40;33;01mtty55[0m
+crw--w----  1 root     tty       4,  56 Oct  9 13:58 [40;33;01mtty56[0m
+crw--w----  1 root     tty       4,  57 Oct  9 13:58 [40;33;01mtty57[0m
+crw--w----  1 root     tty       4,  58 Oct  9 13:58 [40;33;01mtty58[0m
+crw--w----  1 root     tty       4,  59 Oct  9 13:58 [40;33;01mtty59[0m
+crw--w----  1 root     tty       4,   6 Oct  9 13:58 [40;33;01mtty6[0m
+crw--w----  1 root     tty       4,  60 Oct  9 13:58 [40;33;01mtty60[0m
+crw--w----  1 root     tty       4,  61 Oct  9 13:58 [40;33;01mtty61[0m
+crw--w----  1 root     tty       4,  62 Oct  9 13:58 [40;33;01mtty62[0m
+crw--w----  1 root     tty       4,  63 Oct  9 13:58 [40;33;01mtty63[0m
+crw--w----  1 root     tty       4,   7 Oct  9 13:58 [40;33;01mtty7[0m
+crw--w----  1 root     tty       4,   8 Oct  9 13:58 [40;33;01mtty8[0m
+crw--w----  1 root     tty       4,   9 Oct  9 13:58 [40;33;01mtty9[0m
+crw-------  1 root     root      5,   3 Oct  9 13:58 [40;33;01mttyprintk[0m
+crw-rw----  1 root     dialout   4,  64 Oct  9 13:58 [40;33;01mttyS0[0m
+crw-rw----  1 root     dialout   4,  65 Oct  9 13:58 [40;33;01mttyS1[0m
+crw-rw----  1 root     dialout   4,  74 Oct  9 13:58 [40;33;01mttyS10[0m
+crw-rw----  1 root     dialout   4,  75 Oct  9 13:58 [40;33;01mttyS11[0m
+crw-rw----  1 root     dialout   4,  76 Oct  9 13:58 [40;33;01mttyS12[0m
+crw-rw----  1 root     dialout   4,  77 Oct  9 13:58 [40;33;01mttyS13[0m
+crw-rw----  1 root     dialout   4,  78 Oct  9 13:58 [40;33;01mttyS14[0m
+crw-rw----  1 root     dialout   4,  79 Oct  9 13:58 [40;33;01mttyS15[0m
+crw-rw----  1 root     dialout   4,  80 Oct  9 13:58 [40;33;01mttyS16[0m
+crw-rw----  1 root     dialout   4,  81 Oct  9 13:58 [40;33;01mttyS17[0m
+crw-rw----  1 root     dialout   4,  82 Oct  9 13:58 [40;33;01mttyS18[0m
+crw-rw----  1 root     dialout   4,  83 Oct  9 13:58 [40;33;01mttyS19[0m
+crw-rw----  1 root     dialout   4,  66 Oct  9 13:58 [40;33;01mttyS2[0m
+crw-rw----  1 root     dialout   4,  84 Oct  9 13:58 [40;33;01mttyS20[0m
+crw-rw----  1 root     dialout   4,  85 Oct  9 13:58 [40;33;01mttyS21[0m
+crw-rw----  1 root     dialout   4,  86 Oct  9 13:58 [40;33;01mttyS22[0m
+crw-rw----  1 root     dialout   4,  87 Oct  9 13:58 [40;33;01mttyS23[0m
+crw-rw----  1 root     dialout   4,  88 Oct  9 13:58 [40;33;01mttyS24[0m
+crw-rw----  1 root     dialout   4,  89 Oct  9 13:58 [40;33;01mttyS25[0m
+crw-rw----  1 root     dialout   4,  90 Oct  9 13:58 [40;33;01mttyS26[0m
+crw-rw----  1 root     dialout   4,  91 Oct  9 13:58 [40;33;01mttyS27[0m
+crw-rw----  1 root     dialout   4,  92 Oct  9 13:58 [40;33;01mttyS28[0m
+crw-rw----  1 root     dialout   4,  93 Oct  9 13:58 [40;33;01mttyS29[0m
+crw-rw----  1 root     dialout   4,  67 Oct  9 13:58 [40;33;01mttyS3[0m
+crw-rw----  1 root     dialout   4,  94 Oct  9 13:58 [40;33;01mttyS30[0m
+crw-rw----  1 root     dialout   4,  95 Oct  9 13:58 [40;33;01mttyS31[0m
+crw-rw----  1 root     dialout   4,  68 Oct  9 13:58 [40;33;01mttyS4[0m
+crw-rw----  1 root     dialout   4,  69 Oct  9 13:58 [40;33;01mttyS5[0m
+crw-rw----  1 root     dialout   4,  70 Oct  9 13:58 [40;33;01mttyS6[0m
+crw-rw----  1 root     dialout   4,  71 Oct  9 13:58 [40;33;01mttyS7[0m
+crw-rw----  1 root     dialout   4,  72 Oct  9 13:58 [40;33;01mttyS8[0m
+crw-rw----  1 root     dialout   4,  73 Oct  9 13:58 [40;33;01mttyS9[0m
+crw-rw----  1 root     kvm      10,  60 Oct  9 13:58 [40;33;01mudmabuf[0m
+crw-------  1 root     root     10, 239 Oct  9 13:58 [40;33;01muhid[0m
+crw-------  1 root     root     10, 223 Oct  9 13:58 [40;33;01muinput[0m
+crw-rw-rw-  1 root     root      1,   9 Oct  9 13:58 [40;33;01murandom[0m
+crw-------  1 root     root     10, 240 Oct  9 13:58 [40;33;01muserio[0m
+crw-rw----  1 vboxadd  root     10,  58 Oct  9 13:58 [40;33;01mvboxguest[0m
+crw-rw-rw-  1 vboxadd  root     10,  57 Oct  9 13:58 [40;33;01mvboxuser[0m
+crw-rw----  1 root     tty       7,   0 Oct  9 13:58 [40;33;01mvcs[0m
+crw-rw----  1 root     tty       7,   1 Oct  9 13:58 [40;33;01mvcs1[0m
+crw-rw----  1 root     tty       7,   2 Oct  9 13:58 [40;33;01mvcs2[0m
+crw-rw----  1 root     tty       7,   3 Oct  9 13:58 [40;33;01mvcs3[0m
+crw-rw----  1 root     tty       7,   4 Oct  9 13:58 [40;33;01mvcs4[0m
+crw-rw----  1 root     tty       7,   5 Oct  9 13:58 [40;33;01mvcs5[0m
+crw-rw----  1 root     tty       7,   6 Oct  9 13:58 [40;33;01mvcs6[0m
+crw-rw----  1 root     tty       7, 128 Oct  9 13:58 [40;33;01mvcsa[0m
+crw-rw----  1 root     tty       7, 129 Oct  9 13:58 [40;33;01mvcsa1[0m
+crw-rw----  1 root     tty       7, 130 Oct  9 13:58 [40;33;01mvcsa2[0m
+crw-rw----  1 root     tty       7, 131 Oct  9 13:58 [40;33;01mvcsa3[0m
+crw-rw----  1 root     tty       7, 132 Oct  9 13:58 [40;33;01mvcsa4[0m
+crw-rw----  1 root     tty       7, 133 Oct  9 13:58 [40;33;01mvcsa5[0m
+crw-rw----  1 root     tty       7, 134 Oct  9 13:58 [40;33;01mvcsa6[0m
+crw-rw----  1 root     tty       7,  64 Oct  9 13:58 [40;33;01mvcsu[0m
+crw-rw----  1 root     tty       7,  65 Oct  9 13:58 [40;33;01mvcsu1[0m
+crw-rw----  1 root     tty       7,  66 Oct  9 13:58 [40;33;01mvcsu2[0m
+crw-rw----  1 root     tty       7,  67 Oct  9 13:58 [40;33;01mvcsu3[0m
+crw-rw----  1 root     tty       7,  68 Oct  9 13:58 [40;33;01mvcsu4[0m
+crw-rw----  1 root     tty       7,  69 Oct  9 13:58 [40;33;01mvcsu5[0m
+crw-rw----  1 root     tty       7,  70 Oct  9 13:58 [40;33;01mvcsu6[0m
+drwxr-xr-x  2 root     root          60 Oct  9 13:58 [01;34mvfio[0m
+crw-------  1 root     root     10,  63 Oct  9 13:58 [40;33;01mvga_arbiter[0m
+crw-------  1 root     root     10, 137 Oct  9 13:58 [40;33;01mvhci[0m
+crw-------  1 root     root     10, 238 Oct  9 13:58 [40;33;01mvhost-net[0m
+crw-------  1 root     root     10, 241 Oct  9 13:58 [40;33;01mvhost-vsock[0m
+crw-rw-rw-  1 root     root      1,   5 Oct  9 13:58 [40;33;01mzero[0m
+crw-------  1 root     root     10, 249 Oct  9 13:58 [40;33;01mzfs[0m
+]0;codebind@codebind: /dev[01;32mcodebind@codebind[00m:[01;34m/dev[00m$ ls -l[Kls -l[Kcd /
+]0;codebind@codebind: /[01;32mcodebind@codebind[00m:[01;34m/[00m$ cd 
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /ls -lcd /devstat how[Kls -lvi how[1Pls -l
+total 100
+-rw-rw-r-- 1 codebind codebind   100 Sep 24 10:25  ahmed.txt
+-rw-rw-r-- 1 codebind codebind   404 Sep 30 22:59  basil.txt
+drwxr-xr-x 3 codebind codebind  4096 Oct  9 14:04  [0m[01;34mDesktop[0m
+drwxr-xr-x 2 codebind codebind  4096 Oct  4 18:26  [01;34mDocuments[0m
+drwxr-xr-x 2 codebind codebind  4096 Sep 18 16:46  [01;34mDownloads[0m
+drwxrwxr-x 2 codebind codebind  4096 Oct  3 17:23  [01;34mfile1.txt[0m
+-rw-rw-r-- 1 codebind codebind   119 Sep 30 23:46  file.exrc
+-rw-rw-r-- 1 codebind codebind    25 Sep 30 23:53  file.vimrc
+-rw-rw-r-- 1 codebind codebind   180 Oct  8 08:25  foo.txt
+drwxrwxr-x 3 codebind codebind  4096 Oct  3 17:19  [01;34mlab3[0m
+drwxrwxr-x 2 codebind codebind  4096 Oct  9 08:41  [01;34mlab4[0m
+drwxr-xr-x 2 codebind codebind  4096 Sep 18 16:46  [01;34mMusic[0m
+-rw-rw-r-- 1 codebind codebind   116 Sep 25 16:21  myfirst
+-rw-rw-r-- 1 codebind codebind    52 Sep 30 22:34  myyfirst
+drwxr-xr-x 2 codebind codebind  4096 Sep 18 16:46  [01;34mPictures[0m
+drwxr-xr-x 2 codebind codebind  4096 Sep 18 16:46  [01;34mPublic[0m
+-rw-rw-r-- 1 codebind codebind   410 Sep 25 19:11  s
+drwxr-xr-x 2 codebind codebind  4096 Sep 18 16:46  [01;34mTemplates[0m
+-rw-rw-r-- 1 codebind codebind   128 Sep 25 16:46  testmacros.txt
+-rw-rw-r-- 1 codebind codebind 18225 Oct  4 18:26 'Untitled 1.odt'
+drwxr-xr-x 2 codebind codebind  4096 Sep 18 16:46  [01;34mVideos[0m
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ slink
+
+Command 'slink' not found, did you mean:
+
+  command 's3link' from snap s3link (0.0.42)
+  command 'plink' from deb putty-tools (0.73-2)
+  command 'mlink' from deb fastlink (4.1P-fix100+dfsg-2)
+  command 'elink' from deb ncbi-entrez-direct (12.0.20190816+ds-1)
+  command 'jlink' from deb openjdk-11-jdk-headless (11.0.8+10-0ubuntu1~20.04)
+  command 'jlink' from deb openjdk-13-jdk-headless (13.0.3+3-1ubuntu2)
+  command 'jlink' from deb openjdk-14-jdk-headless (14.0.1+7-1ubuntu1)
+  command 'link' from deb coreutils (8.30-3ubuntu2)
+  command 'ilink' from deb fastlink (4.1P-fix100+dfsg-2)
+
+See 'snap info <snapname>' for additional versions.
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ slink[K[K[K[K[Kcd comm[Kp311
+bash: cd: comp311: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /hl[Komw[Ke/codebind/Decktop/comp311/
+bash: cd: /home/codebind/Decktop/comp311/: No such file or directory
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd /home/codebind/Decktop/comp311/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccomp311[K[5Pslinkls -l[2Pcd /ls -lcd /devstat how[Kls -lvi how[1Pls -lclearsudo chgrp bod foo.txtown[C[C[C[C[C[C[C[C[C[C[C[C[9Pls -l[C[C[C[C[C[C[C[Cl[Ksudo chown file:sudo file1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pls -l[C[C[C[C[C[C[C[C[C[C[10@sudo chown file[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pls -l[C[C[C[C[C[C[C[C[C[C[3Pfile1.txt[12@sudo chown bob[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@cudo chgrp nnew[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pln foo.txt fooo.txtl[Ksize  fooo.txt[5@hexdump -c[C[C[C[C[C[C[C[C[C[8Pdu[C[C[C[C[C[C[C[C[C[3@ls -l[C[C[C[C[C[C[C[C[C[5@echo "1" >[C[C[C[C[C[C[C[C[C[8Pvi[C[C[C[C[C[C[C[C[Cdu file1.txt[8@hexdump -c[C[C[C[C[C[C[C[C[C[C[6Pls -l file.txtecho "1" > file1.txt[12Pcd lab04/home/codebind/Desktop/comp311/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csize apl[Kcd /home/codebind/Desktop/comp311/
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ ls -l 
+total 8
+drwxrwxr-x 3 codebind codebind 4096 Oct 10 16:28 [0m[01;34mlab04[0m
+drwxrwxr-x 3 codebind codebind 4096 Oct  9 13:11 [01;34mlab4[0m
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ ls -l symbolic-slink
+ls: cannot access 'symbolic-slink': No such file or directory
+]0;codebind@codebind: ~/Desktop/comp311[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311[00m$ cd lab04
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cd lab04ls -l symbolic-slink
+lrwxrwxrwx 1 codebind codebind 9 Oct  9 22:29 [0m[01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file.txt1.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;25r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[25;1H"file1.txt" 1 line, 2 characters[1;1H1
+[94m~                                                                                          [3;1H~                                                                                          [4;1H~                                                                                          [5;1H~                                                                                          [6;1H~                                                                                          [7;1H~                                                                                          [8;1H~                                                                                          [9;1H~                                                                                          [10;1H~                                                                                          [11;1H~                                                                                          [12;1H~                                                                                          [13;1H~                                                                                          [14;1H~                                                                                          [15;1H~                                                                                          [16;1H~                                                                                          [17;1H~                                                                                          [18;1H~                                                                                          [19;1H~                                                                                          [20;1H~                                                                                          [21;1H~                                                                                          [22;1H~                                                                                          [23;1H~                                                                                          [24;1H~                                                                                          [1;1H[?25h[?25l[m[25;1H[K[25;1H:[?2004h[?25hwq.[?25l[25;4H[K[25;4H[?25h[?25l[?2004l"file1.txt" 1 line, 2 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file1.txt[Kln -s foo.txt symbolic-foo
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l
+total 16
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [0m[34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    2 Oct 10 16:50 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+----rw-rw- 1 codebind codebind   12 Oct 10 16:28 how
+lrwxrwxrwx 1 codebind codebind    7 Oct 10 16:53 [01;36msymbolic-foo[0m -> foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -l[Kls -l[Kls -l[Kls -l[Kls -l[Kls -l[Kls -ln -s foo.txt symbolic-foos -l[Kn -s foo.txt symbolic-foos -l[K[Kll
+total 24
+drwxrwxr-x 3 codebind codebind 4096 Oct 10 16:53 [0m[01;34m.[0m/
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 14:11 [01;34m..[0m/
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m/
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m*
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m*
+-rwx-----x 1 codebind codebind    2 Oct 10 16:50 [01;32mfile1.txt[0m*
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m*
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m*
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+----rw-rw- 1 codebind codebind   12 Oct 10 16:28 how
+lrwxrwxrwx 1 codebind codebind    7 Oct 10 16:53 [01;36msymbolic-foo[0m -> foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m*
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m*
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -al
+total 24
+drwxrwxr-x 3 codebind codebind 4096 Oct 10 16:53 [0m[01;34m.[0m
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 14:11 [01;34m..[0m
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    2 Oct 10 16:50 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+----rw-rw- 1 codebind codebind   12 Oct 10 16:28 how
+lrwxrwxrwx 1 codebind codebind    7 Oct 10 16:53 [01;36msymbolic-foo[0m -> foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -alu
+total 24
+drwxrwxr-x 3 codebind codebind 4096 Oct 10 16:53 [0m[01;34m.[0m
+drwxrwxr-x 4 codebind codebind 4096 Oct  9 22:31 [01;34m..[0m
+d---rwx-wx 2 codebind codebind 4096 Oct  9 14:18 [34;42mdirlab4[0m
+---xr-x-w- 1 codebind codebind    0 Oct  9 14:32 [01;32mfile[0m
+-rwxr---wx 1 codebind codebind    0 Oct  9 14:34 [01;32mfile1[0m
+-rwx-----x 1 codebind codebind    2 Oct  9 23:29 [01;32mfile1.txt[0m
+-rw-rw--w- 1 codebind codebind    0 Oct  9 14:41 file2
+-r--rwxr-x 1 codebind codebind    0 Oct  9 22:27 [01;32mfile2.txt[0m
+-rwxrwxrwx 1 codebind codebind    0 Oct  9 14:31 [01;32mfile.txt[0m
+----rw-rw- 1 codebind codebind   30 Oct  9 23:31 fooo.txt
+----r---w- 1 codebind codebind    0 Oct  9 14:28 foo.txt
+----rw-rw- 1 codebind codebind   12 Oct 10 16:28 how
+lrwxrwxrwx 1 codebind codebind    7 Oct 10 16:53 [01;36msymbolic-foo[0m -> foo.txt
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-hlink[0m -> [01;32mfile1.txt[0m
+lrwxrwxrwx 1 codebind codebind    9 Oct  9 22:29 [01;36msymbolic-slink[0m -> [01;32mfile2.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -alu[K file1.txt
+-rwx-----x 1 codebind codebind 2 Oct 10 16:50 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -al file1.txtu[K file1.txt
+-rwx-----x 1 codebind codebind 2 Oct  9 23:29 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi mo[K[K[K file1.txt
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;26r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[26;1H"file1.txt" 1 line, 2 characters[1;1H1
+[94m~                                                                                          [3;1H~                                                                                          [4;1H~                                                                                          [5;1H~                                                                                          [6;1H~                                                                                          [7;1H~                                                                                          [8;1H~                                                                                          [9;1H~                                                                                          [10;1H~                                                                                          [11;1H~                                                                                          [12;1H~                                                                                          [13;1H~                                                                                          [14;1H~                                                                                          [15;1H~                                                                                          [16;1H~                                                                                          [17;1H~                                                                                          [18;1H~                                                                                          [19;1H~                                                                                          [20;1H~                                                                                          [21;1H~                                                                                          [22;1H~                                                                                          [23;1H~                                                                                          [24;1H~                                                                                          [25;1H~                                                                                          [1;1H[?25h[?2004l[>4;m[?25l[mj1[?25h[?25ls1[?25h[?25lb1[?25h[?25ln1[?25h[?25ld1[?25h[?25lv1[?25h[?25ls1[?25h[?25lk1[?25h[?25lj1[?25h[?25lv1[?25h[?25lb1[?25h[?25lk1[?25h[?25lj1[?25h[?25ls1[?25h[?25ld1[?25h[?25lf1[?25h[?25lv1[?25h[?25lk1[?25h[?25lv1[?25h[?25lv1[?25h[?25ls1[?25h[?25l 1[?25h[?25ln1[?25h[?2004h[>4;2m[?25lndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njss[2;1Hbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njj[3;1Hsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs nn[4;1Hjsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs  [5;1Hnjsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvss[6;1H njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvv[7;1Hs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvv[8;1Hvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkk[9;1Hvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvv[10;1Hkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdff[11;1Hvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdd[12;1Hfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjss[13;1Hdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjj[14;1Hsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkk[15;1Hjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbb[16;1Hkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvv[17;1Hbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjj[18;1Hvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskk[19;1Hjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvss[20;1Hkjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvv[21;1Hskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndd[22;1Hvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbnn[23;1Hdvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbb[24;1Hndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njss[25;1Hbndvskjvbkjsdfvkvvs n1[25;23H[K[25;21H[?25h[27m[23m[29m[m[H[2J[?25l[1;1Hsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvss[2;1Hkjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njj[3;1Hsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkk[4;1Hvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkk[5;1Hjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvv[6;1Hskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs nn[7;1Hjsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvv[8;1Hkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbb[9;1Hkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndd[10;1Hvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs  [11;1Hnjsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdff[12;1Hvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvv[13;1Hbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbnn[14;1Hdvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvss[15;1H njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdd[16;1Hfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjj[17;1Hvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbb[18;1Hndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvv[19;1Hs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjss[20;1Hdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskk[21;1Hjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njss[22;1Hbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvv[23;1Hvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjj[24;1Hsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs njsbndvskjvbkjsdfvkvvs n1
+[94m~                                                                                                                                   [26;1H~                                                                                                                                   [27;1H~                                                                                                                                   [28;1H~                                                                                                                                   [29;1H~                                                                                                                                   [30;1H~                                                                                                                                   [31;1H~                                                                                                                                   [32;1H~                                                                                                                                   [33;1H~                                                                                                                                   [34;1H~                                                                                                                                   [35;1H~                                                                                                                                   [25;55H[?25h[?25l[36;1H[m:[?2004h":[25;55H[?25h[?25l[36;1H[K[36;1H:[?2004h[25;55H[?25h[?25l[36;1H[K[36;1H:[?2004hknjvjfrvj[97m[41mE488: Trailing characters[25;55H[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[m[1;1Hooooofp[1;8H[K[2;1H[94m~                                                                                                                                   [3;1H~                                                                                                                                   [4;1H~                                                                                                                                   [5;1H~                                                                                                                                   [6;1H~                                                                                                                                   [7;1H~                                                                                                                                   [8;1H~                                                                                                                                   [9;1H~                                                                                                                                   [10;1H~                                                                                                                                   [11;1H~                                                                                                                                   [12;1H~                                                                                                                                   [13;1H~                                                                                                                                   [14;1H~                                                                                                                                   [15;1H~                                                                                                                                   [16;1H~                                                                                                                                   [17;1H~                                                                                                                                   [18;1H~                                                                                                                                   [19;1H~                                                                                                                                   [20;1H~                                                                                                                                   [21;1H~                                                                                                                                   [22;1H~                                                                                                                                   [23;1H~                                                                                                                                   [24;1H~                                                                                                                                   [1;7H[?25h[?25l[m[36;1H[K[36;1H:[?2004h::wq[?2004l"file1.txt" 2 lines, 150545 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ vi file1.txt[5@ls -alu[C[C[C[C[C[C[C[C[C[C[1P file1.txtu file1.txt[1P file1.txt
+-rwx-----x 1 codebind codebind 150545 Oct 10 17:10 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -al file1.txt[4Pvi[C[C[C[C[C[C[C[C[C[C[5@ls -alu[C[C[C[C[C[C[C[C[C[C
+-rwx-----x 1 codebind codebind 150545 Oct 10 17:09 [0m[01;32mfile1.txt[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ [K]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ stst file1.ttxt[K[K[Kxt
+
+Command 'stst' not found, did you mean:
+
+  command 'atst' from deb scotch (6.0.9-1)
+  command 'gtst' from deb scotch (6.0.9-1)
+  command 'mtst' from deb scotch (6.0.9-1)
+  command 'stat' from deb coreutils (8.30-3ubuntu2)
+  command 'stest' from deb suckless-tools (44-1)
+  command 'tst' from deb pvm-examples (3.4.6-2build2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ stst[K[Kat file1.txt
+  File: file1.txt
+  Size: 150545    	Blocks: 296        IO Block: 4096   regular file
+Device: 805h/2053d	Inode: 400780      Links: 1
+Access: (0701/-rwx-----x)  Uid: ( 1000/codebind)   Gid: ( 1000/codebind)
+Access: 2020-10-10 17:09:02.130677937 +0300
+Modify: 2020-10-10 17:10:16.530748958 +0300
+Change: 2020-10-10 17:10:16.574748998 +0300
+ Birth: -
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ toch[K[Kuch .hidden
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls
+[0m[34;42mdirlab4[0m  [01;32mfile1[0m      file2      [01;32mfile.txt[0m  foo.txt  [01;36msymbolic-foo[0m    [01;36msymbolic-slink[0m
+[01;32mfile[0m     [01;32mfile1.txt[0m  [01;32mfile2.txt[0m  fooo.txt  how      [01;36msymbolic-hlink[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -a
+[0m[01;34m.[0m   [34;42mdirlab4[0m  [01;32mfile1[0m      file2      [01;32mfile.txt[0m  foo.txt  how           [01;36msymbolic-hlink[0m
+[01;34m..[0m  [01;32mfile[0m     [01;32mfile1.txt[0m  [01;32mfile2.txt[0m  fooo.txt  .hidden  [01;36msymbolic-foo[0m  [01;36msymbolic-slink[0m
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ ls -a[Kls -a[Kls -a[Kls -a[Kls -a[Kls -a[Kls -a[Kch
+ch: command not found
+]0;codebind@codebind: ~/Desktop/comp311/lab04[01;32mcodebind@codebind[00m:[01;34m~/Desktop/comp311/lab04[00m$ cd ~
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-10-10 17:21:58+03:00 [COMMAND_EXIT_CODE="0"]

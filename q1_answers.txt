@@ -1,0 +1,93 @@
+Task 1:
+Command: find / -type d > directories.txt 2> errors.txt
+
+Explanation: find command is used to search files and directories. In this case, we are finding directories(folders) hence, -type d in root directory( / ). The output of this command will be redirected to a file named directories.txt rather that STDOUT(your terminal). To segregate STDERR(errors) we use 2> and in this case we are redirecting it to a file named errors.txt.
+
+Task 2:
+
+command: sleep 5
+
+Explanation: The command sleep is to set a delay for specified amount of time. The above mentioned command runs for 5 seconds. In easy terms, we have just created a dummy job which will run for 5 seconds
+
+Task 3:
+
+command: sleep 5 &
+
+Explanation: The & operator is used to run the command(process) in background. it achieves this by creating a subshell.
+
+Task 4:
+
+Commands and Explanation:
+
+sleep 80      # Sets delay for 80 seconds
+
+Press ctrl+z       # SIGTSTP( Signal Tty SToP ) signal is sent to foreground job
+
+bg      # bg command is used to put foreground tasks in background
+
+jobs    # It is used to display processes that the current shell is managing
+
+ps    # It is used to display processes that the system is managing
+
+fg     # This brings out stopped backgroud project in foreground and starts its execution
+
+Task 5:
+
+Commands and explanation:
+
+sleep 30 &    # Run command in background
+
+kill %id    # here id denotes the job number
+
+sleep 30 &       # Run command in background
+
+kill PID       # Replace PID with the number wuth which process is running
+
+Task 6:
+
+Commands and explanation:
+
+sleep 40 &     # Run command in background
+kill -s SIGSTOP PID     # Send the SIGSTOP singnal to the process. Replace PID with the number with which process is running
+
+bg    # Brings the process in foreground and start it
+
+Task 7:
+
+Commands and explanation:
+
+sleep 60 & (Multiple times)     # Run command in background
+
+pkill sleep      # pkill is used to kill process using its name rather than sleep
+
+Task 8:
+
+Commands and explanation:
+
+myprj2var="good"       # Export the variable
+export myprj2var       # Export the variable
+echo $myprj2var       # Check the value of Variable
+
+
+Task 9:
+
+Commands and explanation:
+
+
+
+export PATH=/etc:$PATH:/etc        # Add /etc to the beginning and end of you current PATH environment variable.
+PATH=$PATH:/etc
+
+echo $PATH      # Check current value of PATH Environment variable
+
+Task 10:
+
+Command: nice
+
+Explanation: nice is used to schedule the priority of a process. It can have values between -20 (highest priority value) to 19 (lowest priority value).
+
+Example: nice -10 gedit
+
+Command: exec
+
+//Mohammad hlhwly-1191413

@@ -1,0 +1,669 @@
+Script started on 2020-11-27 19:16:51+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ echo 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ uname -a[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ uname -a[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Linux codebind 5.4.0-47-generic #51-Ubuntu SMP Fri Sep 4 19:50:52 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ uname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -acd;pwd;whoami;finger
+/home/codebind
+codebind
+^[[A
+Command 'finger' not found, but can be installed with:
+
+sudo apt install finger
+
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ uname -a[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd;pwd;whoami;fingersudo apt install finger
+[sudo] password for codebind: 
+[1;31mE: [0mdpkg was interrupted, you must manually run 'sudo dpkg --configure -a' to correct the problem. [0m
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ sudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1191413[K[4Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant datechmod +x checkcommant [5P./checkcommant cpdate[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe[1Pls checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[1P./checkcommantvi checkcommant[8Pecho $?[1Pcp x y[Kecho $?[K[1P$ls -alecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwd
+tail: option used in invalid context -- 2
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ tail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;fingersudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho Mohammad khalid Mohammad hlhwly
+Mohammad khalid Mohammad hlhwly
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ echo Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1191413[K
+1191413
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ echo 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant datechmod +x checkcommant [5P./checkcommant cpdate[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe[1Pls checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[1P./checkcommantvi checkcommant[8Pecho $?[1Pcp x y[Kecho $?[K[1P$ls -alecho 1191413[6Pls -al
+total 628
+drwxr-xr-x 27 codebind codebind  4096 Nov 27 19:16  [0m[01;34m.[0m
+drwxr-xr-x  3 root     root      4096 Sep 18 15:49  [01;34m..[0m
+-rw-rw-r--  1 codebind codebind   100 Sep 24 10:25  ahmed.txt
+-rw-------  1 codebind codebind 19273 Nov 27 06:53  .bash_history
+-rw-r--r--  1 codebind codebind   220 Sep 18 15:49  .bash_logout
+-rw-r--r--  1 codebind codebind  3771 Sep 18 15:49  .bashrc
+-rw-rw-r--  1 codebind codebind   404 Sep 30 22:59  basil.txt
+drwx------ 14 codebind codebind  4096 Oct 24 16:07  [01;34m.cache[0m
+drwxrwxr-x  2 codebind codebind  4096 Oct 24 16:11  [01;34mcat[0m
+-rwxrwxr-x  1 codebind codebind   109 Nov 27 06:55  [01;32mcheckcommant[0m
+-rw-r--r--  1 codebind codebind 12288 Nov 26 08:32  .checkcommant.swp
+drwx------ 14 codebind codebind  4096 Oct 24 16:07  [01;34m.config[0m
+-rw-rw-r--  1 codebind codebind     0 Oct 23 06:03  cpfile
+drwxr-xr-x  6 codebind codebind  4096 Nov 27 19:16  [01;34mDesktop[0m
+drwxrwxr-x  2 codebind codebind  4096 Oct 16 23:41  [01;34mdir[0m
+drwxr-xr-x  2 codebind codebind  4096 Oct  4 18:26  [01;34mDocuments[0m
+drwxr-xr-x  2 codebind codebind  4096 Nov 19 16:19  [01;34mDownloads[0m
+-rw-rw-r--  1 codebind codebind    63 Nov 27 06:55  err
+-rw-rw-r--  1 codebind codebind 49885 Oct 23 06:25  error
+-rw-rw-r--  1 codebind codebind     9 Sep 30 23:50  .excs
+-rw-------  1 codebind codebind 12288 Sep 24 10:11  .ff.swp
+drwxrwxr-x  2 codebind codebind  4096 Oct  3 17:23  [01;34mfile1.txt[0m
+-rw-rw-r--  1 codebind codebind   119 Sep 30 23:46  file.exrc
+-rw-rw-r--  1 codebind codebind    25 Sep 30 23:53  file.vimrc
+-rw-------  1 codebind codebind 12288 Sep 24 08:51  .fod.txt.swn
+-rw-------  1 codebind codebind 12288 Sep 24 08:44  .fod.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:37  .fod.txt.swp
+-rw-rw-r--  1 codebind codebind   180 Oct  8 08:25  foo.txt
+-rw-------  1 codebind codebind 12288 Sep 24 09:50  .foo.txt.swn
+-rw-------  1 codebind codebind 12288 Sep 24 09:41  .foo.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:53  .foo.txt.swp
+drwx------  3 codebind codebind  4096 Sep 24 10:22  [01;34m.gnupg[0m
+drwxrwxr-x  3 codebind codebind  4096 Oct  3 17:19  [01;34mlab3[0m
+drwxrwxr-x  2 codebind codebind  4096 Oct  9 08:41  [01;34mlab4[0m
+drwxrwxr-x  2 codebind codebind  4096 Nov  5 17:09  [01;34mlab8[0m
+drwxr-xr-x  3 codebind codebind  4096 Sep 18 16:46  [01;34m.local[0m
+-rw-rw-r--  1 codebind codebind  8104 Oct 23 05:56  messag
+-rw-rw-r--  1 codebind codebind  3927 Oct 23 05:51  message
+-rw-rw-r--  1 codebind codebind    60 Oct 23 05:57  messsag
+-rw-rw-r--  1 codebind codebind   211 Oct 24 16:31  mkdir
+drwxrwxr-x  2 codebind codebind  4096 Oct 24 16:29  [01;34mmm[0m
+-rw-------  1 codebind codebind 12288 Oct 24 16:09  .mm.swp
+-rw-rw-r--  1 codebind codebind     0 Oct 23 05:35  mo
+drwxrwxr-x  2 codebind codebind  4096 Oct 22 08:22  [01;34mmomo[0m
+-rw-rw-r--  1 codebind codebind    55 Oct 23 05:08  more
+-rw-------  1 codebind codebind 12288 Sep 24 10:00  .mo.txt.swp
+drwx------  5 codebind codebind  4096 Sep 20 18:58  [01;34m.mozilla[0m
+-rw-------  1 codebind codebind 12288 Oct 25 04:34  .m.swp
+-rw-------  1 codebind codebind 12288 Sep 24 10:04  .m.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 09:35  .m.txt.swp
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mMusic[0m
+-rw-rw-r--  1 codebind codebind   116 Sep 25 16:21  myfirst
+-rw-rw-r--  1 codebind codebind    52 Sep 30 22:34  myyfirst
+-rw-rw-r--  1 codebind codebind     0 Nov 27 06:55  out
+-rw-rw-r--  1 codebind codebind 51384 Oct 23 07:05  outfile.txt
+-rw-rw-r--  1 codebind codebind   779 Oct 23 06:25  output
+drwxr-xr-x  2 codebind codebind  4096 Nov 26 14:54  [01;34mPictures[0m
+-rw-r--r--  1 codebind codebind   835 Oct 16 23:46  .profile
+drwxrwxr-x  3 codebind codebind  4096 Oct 25 04:28  [01;34mprojec1_birzeit_1191413[0m
+-rw-rw-r--  1 codebind codebind 30720 Oct 25 04:59  [01;31mprojec1_birzeit_1191413.tar[0m
+drwxrwxr-x  3 codebind codebind  4096 Oct 16 22:21  [01;34mproject[0m
+drwxrwxr-x  3 codebind codebind  4096 Oct 24 16:33  [01;34mproject1[0m
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mPublic[0m
+-rw-------  1 codebind codebind 12288 Sep 24 09:44  .re.swp
+-rw-rw-r--  1 codebind codebind   410 Sep 25 19:11  s
+-rw-------  1 codebind codebind 14257 Oct 16 21:22  save_history
+-rw-r--r--  1 codebind codebind   807 Oct 16 23:38  save_profile
+drwx------  2 codebind codebind  4096 Sep 24 10:22  [01;34m.ssh[0m
+----r--r--  1 codebind codebind     0 Oct 10 16:18  .sudo_as_admin_successful
+-rw-------  1 codebind codebind 12288 Sep 25 14:30  .swn
+-rw-------  1 codebind codebind 12288 Sep 24 08:56  .swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:29  .swp
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mTemplates[0m
+-rw-rw-r--  1 codebind codebind   128 Sep 25 16:46  testmacros.txt
+-rw-rw-r--  1 codebind codebind 18225 Oct  4 18:26 'Untitled 1.odt'
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-clipboard.pid
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-display-svga-x11.pid
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-draganddrop.pid
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-seamless.pid
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mVideos[0m
+-rw-------  1 codebind codebind 12288 Sep 24 10:12  .v.txt.swp
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ls -alecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant datechmod +x checkcommant [5P./checkcommant cpdate[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe[1Pls checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[1P./checkcommantvi checkcommant[8Pecho $?[1Pcp x yecho $?
+0
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ echo $?[1Pls -alecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant datechmod +x checkcommant [5P./checkcommant cpdate[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe[1Pls checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[1P./checkcommantvi checkcommant[8Pecho $?[1Pcp x y[K
+cp: missing file operand
+Try 'cp --help' for more information.
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cpecho $?
+1
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ echo $?cp[Kecho $?[1Pls -alecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant datechmod +x checkcommant [5P./checkcommant cpdate[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe[1Pls checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[1P./checkcommantvi checkcommant[1P./checkcommantvi checkcommant
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H[97m[41mE325: ATTENTION[m
+Found a swap file by the name ".checkcommant.swp"
+[10Cowned by: codebind   dated: Thu Nov 26 08:32:15 2020
+[9Cfile name: ~codebind/checkcommant
+[10Cmodified: YES
+[9Cuser name: codebind   host name: codebind
+[8Cprocess ID: 13406
+While opening file "checkcommant"
+[13Cdated: Fri Nov 27 06:55:03 2020
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r checkcommant"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".checkcommant.swp"
+    to avoid this message.
+
+"checkcommant"[23;1H"checkcommant" 17 lines, 109 characters[24;1H[K[24;1H[32mPress ENTER or type command to continue[?25h[27m[23m[29m[m[H[2J[?25l[1;1Hif  $1 > out  2> err
+then[3;6Hecho Command [$1] succeeded
+else[5;6Hecho  Command [$1] failed
+fi[18;1H[94m~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[24;1H[m:[?2004h[?25hwq[?25l[?2004l"checkcommant" 17 lines, 109 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[8Pecho $?cp[Kecho $?[1Pls -alecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant datechmod +x checkcommant [5P./checkcommant cpdate[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe[1Pls checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[1P./checkcommantvi checkcommant[8Pecho $?[1Pcp x y[Kecho $?[K[1P$ls -alecho 1191413[6Pls -al[1Pecho$ $?cp[K x yecho $?vi checkcommant[1P./checkcommantvi checkcommant[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pls[C[C[C[C[C[C[C[C[C[C[C[C[Ccheckcommant daete[2@./[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pcpchmod +x checkcommant [3P./checkcommant datechmod +x checkcommant 
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ chmod +x checkcommant [7Pvi checkcommant[8Pecho $?cp[Kecho $?[1Pls -alecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Ptail -2/etc/passwdsudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -aecho 1191413Mohammad khalid Mohammad hlhwly[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt install finger[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd;pwd;whoami;finger[12Puname -ascript -a /home/codebind/Desktop/mohammad_hlhwly_1191413.log[A]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi checkcommant[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./checkcommant date
+Command [date] succeeded
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ./checkcommant date[K[K[K[Kmv
+Command [mv] failed
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ./checkcommant mv[K[K[K
+Command [] succeeded
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi delet
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"delet" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[mf[?25h[?25l[?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l$[?25h[?25l#[?25h[?25l [?25h[?25l-[?25h[?25le[?25h[?25lq[?25h[?25l [?25h[?25l1[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lm[?25h[?25l[?25h[?25l[?25h[?25lr[?25h[?25lm[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l [?25h[?25li[?25h[?25ls[?25h[?25l [?25h[?25ld[?25h[?25le[?25h[?25ll[?25h[?25le[?25h[?25lt[?25h[?25le[?25h[?25ld[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l0[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[7;1H[K[7;1H[?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lU[?25h[?25ls[?25h[?25la[?25h[?25lg[?25h[?25le[?25h[?25l [?25h[?25l:[?25h[?25l [?25h[?25ld[?25h[?25le[?25h[?25ll[?25h[?25le[?25h[?25lt[?25h[?25le[?25h[?25l [?25h[?25lf[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[8;1H[K[8;1H[?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[9;1H[K[9;1H[?25h[?25li[?25h[?25lf[?25h[?25l[?25h[?25l[?25h[?25lf[?25h[?25li[?25h[?2004h[>4;2m[?25l[?25h[?25l[24;1H[K[24;1H:[?2004h[?25hWQ[?25l[24;3H[K[24;3H[?25h[?25l[24;2H[K[24;2H[?25hwq[?25l[?2004l"delet" [New File] 9 lines, 110 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi delet./checkcommant mvdatechmod +x checkcommant [K[K[K[K[K[K[K[K[K[K[K[K[Kdelet
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ll
+total 628
+drwxr-xr-x 27 codebind codebind  4096 Nov 27 19:24  [0m[01;34m.[0m/
+drwxr-xr-x  3 root     root      4096 Sep 18 15:49  [01;34m..[0m/
+-rw-rw-r--  1 codebind codebind   100 Sep 24 10:25  ahmed.txt
+-rw-------  1 codebind codebind 19273 Nov 27 06:53  .bash_history
+-rw-r--r--  1 codebind codebind   220 Sep 18 15:49  .bash_logout
+-rw-r--r--  1 codebind codebind  3771 Sep 18 15:49  .bashrc
+-rw-rw-r--  1 codebind codebind   404 Sep 30 22:59  basil.txt
+drwx------ 14 codebind codebind  4096 Oct 24 16:07  [01;34m.cache[0m/
+drwxrwxr-x  2 codebind codebind  4096 Oct 24 16:11  [01;34mcat[0m/
+-rwxrwxr-x  1 codebind codebind   109 Nov 27 19:18  [01;32mcheckcommant[0m*
+-rw-r--r--  1 codebind codebind 12288 Nov 26 08:32  .checkcommant.swp
+drwx------ 14 codebind codebind  4096 Oct 24 16:07  [01;34m.config[0m/
+-rw-rw-r--  1 codebind codebind     0 Oct 23 06:03  cpfile
+-rwxrwxr-x  1 codebind codebind   110 Nov 27 19:24  [01;32mdelet[0m*
+drwxr-xr-x  6 codebind codebind  4096 Nov 27 19:16  [01;34mDesktop[0m/
+drwxrwxr-x  2 codebind codebind  4096 Oct 16 23:41  [01;34mdir[0m/
+drwxr-xr-x  2 codebind codebind  4096 Oct  4 18:26  [01;34mDocuments[0m/
+drwxr-xr-x  2 codebind codebind  4096 Nov 19 16:19  [01;34mDownloads[0m/
+-rw-rw-r--  1 codebind codebind     0 Nov 27 19:19  err
+-rw-rw-r--  1 codebind codebind 49885 Oct 23 06:25  error
+-rw-rw-r--  1 codebind codebind     9 Sep 30 23:50  .excs
+-rw-------  1 codebind codebind 12288 Sep 24 10:11  .ff.swp
+drwxrwxr-x  2 codebind codebind  4096 Oct  3 17:23  [01;34mfile1.txt[0m/
+-rw-rw-r--  1 codebind codebind   119 Sep 30 23:46  file.exrc
+-rw-rw-r--  1 codebind codebind    25 Sep 30 23:53  file.vimrc
+-rw-------  1 codebind codebind 12288 Sep 24 08:51  .fod.txt.swn
+-rw-------  1 codebind codebind 12288 Sep 24 08:44  .fod.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:37  .fod.txt.swp
+-rw-rw-r--  1 codebind codebind   180 Oct  8 08:25  foo.txt
+-rw-------  1 codebind codebind 12288 Sep 24 09:50  .foo.txt.swn
+-rw-------  1 codebind codebind 12288 Sep 24 09:41  .foo.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:53  .foo.txt.swp
+drwx------  3 codebind codebind  4096 Sep 24 10:22  [01;34m.gnupg[0m/
+drwxrwxr-x  3 codebind codebind  4096 Oct  3 17:19  [01;34mlab3[0m/
+drwxrwxr-x  2 codebind codebind  4096 Oct  9 08:41  [01;34mlab4[0m/
+drwxrwxr-x  2 codebind codebind  4096 Nov  5 17:09  [01;34mlab8[0m/
+drwxr-xr-x  3 codebind codebind  4096 Sep 18 16:46  [01;34m.local[0m/
+-rw-rw-r--  1 codebind codebind  8104 Oct 23 05:56  messag
+-rw-rw-r--  1 codebind codebind  3927 Oct 23 05:51  message
+-rw-rw-r--  1 codebind codebind    60 Oct 23 05:57  messsag
+-rw-rw-r--  1 codebind codebind   211 Oct 24 16:31  mkdir
+drwxrwxr-x  2 codebind codebind  4096 Oct 24 16:29  [01;34mmm[0m/
+-rw-------  1 codebind codebind 12288 Oct 24 16:09  .mm.swp
+-rw-rw-r--  1 codebind codebind     0 Oct 23 05:35  mo
+drwxrwxr-x  2 codebind codebind  4096 Oct 22 08:22  [01;34mmomo[0m/
+-rw-rw-r--  1 codebind codebind    55 Oct 23 05:08  more
+-rw-------  1 codebind codebind 12288 Sep 24 10:00  .mo.txt.swp
+drwx------  5 codebind codebind  4096 Sep 20 18:58  [01;34m.mozilla[0m/
+-rw-------  1 codebind codebind 12288 Oct 25 04:34  .m.swp
+-rw-------  1 codebind codebind 12288 Sep 24 10:04  .m.txt.swo
+-rw-------  1 codebind codebind 12288 Sep 24 09:35  .m.txt.swp
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mMusic[0m/
+-rw-rw-r--  1 codebind codebind   116 Sep 25 16:21  myfirst
+-rw-rw-r--  1 codebind codebind    52 Sep 30 22:34  myyfirst
+-rw-rw-r--  1 codebind codebind     0 Nov 27 19:19  out
+-rw-rw-r--  1 codebind codebind 51384 Oct 23 07:05  outfile.txt
+-rw-rw-r--  1 codebind codebind   779 Oct 23 06:25  output
+drwxr-xr-x  2 codebind codebind  4096 Nov 26 14:54  [01;34mPictures[0m/
+-rw-r--r--  1 codebind codebind   835 Oct 16 23:46  .profile
+drwxrwxr-x  3 codebind codebind  4096 Oct 25 04:28  [01;34mprojec1_birzeit_1191413[0m/
+-rw-rw-r--  1 codebind codebind 30720 Oct 25 04:59  [01;31mprojec1_birzeit_1191413.tar[0m
+drwxrwxr-x  3 codebind codebind  4096 Oct 16 22:21  [01;34mproject[0m/
+drwxrwxr-x  3 codebind codebind  4096 Oct 24 16:33  [01;34mproject1[0m/
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mPublic[0m/
+-rw-------  1 codebind codebind 12288 Sep 24 09:44  .re.swp
+-rw-rw-r--  1 codebind codebind   410 Sep 25 19:11  s
+-rw-------  1 codebind codebind 14257 Oct 16 21:22  save_history
+-rw-r--r--  1 codebind codebind   807 Oct 16 23:38  save_profile
+drwx------  2 codebind codebind  4096 Sep 24 10:22  [01;34m.ssh[0m/
+----r--r--  1 codebind codebind     0 Oct 10 16:18  .sudo_as_admin_successful
+-rw-------  1 codebind codebind 12288 Sep 25 14:30  .swn
+-rw-------  1 codebind codebind 12288 Sep 24 08:56  .swo
+-rw-------  1 codebind codebind 12288 Sep 24 08:29  .swp
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mTemplates[0m/
+-rw-rw-r--  1 codebind codebind   128 Sep 25 16:46  testmacros.txt
+-rw-rw-r--  1 codebind codebind 18225 Oct  4 18:26 'Untitled 1.odt'
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-clipboard.pid
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-display-svga-x11.pid
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-draganddrop.pid
+-rw-r-----  1 codebind codebind     5 Nov 27 19:15  .vboxclient-seamless.pid
+drwxr-xr-x  2 codebind codebind  4096 Sep 18 16:46  [01;34mVideos[0m/
+-rw-------  1 codebind codebind 12288 Sep 24 10:12  .v.txt.swp
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ vi myfirst
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"myfirst" 6 lines, 116 characters[1;1HMohammad khaled Mohammad
+
+Mohammad khaled Mohammad
+Mohammad khaled Mohammad
+Mohammad khaledMmmmmmmmm
+mohammd kh
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"myfirst" 6 lines, 116 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ de
+deallocvt               deb-systemd-helper      delv
+debconf                 deb-systemd-invoke      depmod
+debconf-apt-progress    debugfs                 dequote
+debconf-communicate     declare                 desktop-file-edit
+debconf-copydb          deja-dup                desktop-file-install
+debconf-escape          delgroup                desktop-file-validate
+debconf-set-selections  delpart                 devdump
+debconf-show            deluser                 devlink
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ de[Kelet myfirst
+delet: command not found
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ delet myfirst[1@.[1@/
+s is deleted
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ ./delet myfirst[K[K[K[K[K[K[Kdvbhidfh
+rm: cannot remove 'dvbhidfh': No such file or directory
+[dvbhidfh] is deleted
+]0;codebind@codebind: ~[01;32mcodebind@codebind[00m:[01;34m~[00m$ cd Desktpo[K[Kop
+]0;codebind@codebind: ~/Desktop[01;32mcodebind@codebind[00m:[01;34m~/Desktop[00m$ mkdir lab[K[K[K[K[K[K[K[K[Kcd lab10
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vide[K[K deleted
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"deleted" 20 lines, 268 characters[1;1Hif  [ $# -eq 1 ]
+then
+if [ -f $1 ]
+then
+rm $1[6;6Hecho   File  [$1] is deleted[7;7Hexit 0
+elif [ -d $1 ]
+then
+rm -r $1
+  echo  Directory [$1] is deleted
+   exit 0
+else
+echo no file or directory name [$1]
+exit 1
+fi
+else
+   echo [$1]   file or directory
+   exit 2
+fi
+[94m~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"deleted" 20 lines, 268 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ touch myfile ;mkdir mydir
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ cl[Khomd +x deleted
+
+Command 'chomd' not found, did you mean:
+
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chomd +x deletedtouch myfile ;mkdir mydir[15Pvi deleted[2Pcd lab10Desktop./delet dvbhidfh[1Pmyfirst[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pvi[C[C[C[C[C[C[C[Cll[Kchmod +x delet[6Pvi[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[Cll[Kvi myfirst[3@delet[C[C[C[C[C[C[C[C[2@./[C[C[C[C[C[C[C[C[C[C[C[C[Cdvbhidfh[6Pcd Desktop[2Plab10vi deletedtouch myfile ;mkdir mydir[9Pchomd +x deleted[1P
+
+Command 'chmd' not found, did you mean:
+
+  command 'chmod' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmd +x deleted[1@o[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch myfile ;mkdir mydir[15Pvi deleted[2Pcd lab10Desktop./delet dvbhidfh[1Pmyfirst[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pvi[C[C[C[C[C[C[C[Cll[Kchmod +x delet[6Pvi[C[C[C[C[C[C./checkcommant mvdatechmod +x checkcommant [7Pvi checkcommantchmod +x checkcommant [3P./checkcommant datechmod +x checkcommant [3P./checkcommant date[2Pmv[K[6Pvi delet[6@chmod +x[C[C[C[C[C[Cll[Kvi myfirstll[Kvi myfirst[3@delet[C[C[C[C[C[C[C[C[2@./[C[C[C[C[C[C[C[C[C[C[C[C[Cdvbhidfh[6Pcd Desktop[2Plab10vi deletedtouch myfile ;mkdir mydir[9Pchomd +x deleted[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1@o[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1@o
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./deleted
+[] file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./deleted myfirst
+no file or directory name [myfirst]
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./deleted myfirst[K[K[K[Kile
+File [myfile] is deleted
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./deleted myfile[K[K[K[Kdir
+Directory [mydir] is deleted
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./deleted mydir[K[K[K[K[Kwo[Krong
+no file or directory name [wrong]
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi copy2
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H[97m[41mE325: ATTENTION[m
+Found a swap file by the name ".copy2.swp"
+[10Cowned by: codebind   dated: Fri Nov 27 06:24:25 2020
+[9Cfile name: ~codebind/Desktop/lab10/copy2
+[10Cmodified: YES
+[9Cuser name: codebind   host name: codebind
+[8Cprocess ID: 17695
+While opening file "copy2"
+      CANNOT BE FOUND
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r copy2"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".copy2.swp"
+    to avoid this message.
+
+"copy2" [New File]
+[32mPress ENTER or type command to continue[?25h[m[1;1H[19L[?25l[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;1H[K[1;1H[?25h[?2004l[>4;m[?25li[?25h[?25lf[?25h[?25l [?25h[?25l$[?25h[?25l[?25h[?25l[[?25h[?25l [?25h[?25l#[?25h[?25l[?25h[?25l$[?25h[?25l#[?25h[?25l [?25h[?25l-[?25h[?25ln[?25h[?25le[?25h[?25l [?25h[?25l2[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lU[?25h[?25ls[?25h[?25la[?25h[?25lg[?25h[?25le[?25h[?25l [?25h[?25l:[?25h[?25lc[?25h[?25lp[?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l [?25h[?25lc[?25h[?25lp[?25h[?25l [?25h[?25ls[?25h[?25lr[?25h[?25lc[?25h[?25l [?25h[?25ld[?25h[?25ls[?25h[?25lt[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l-[?25h[?25lf[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[7;1H[K[7;1H[?25h[?25l[8;1H[K[8;1H[?25h[?25l[9;1H[K[9;1H[?25h[?2004h[>4;2m[8;1H[7;1H[?2004l[>4;m[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[8;23r[8;1H[L[1;24r[8;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lc[?25h[?25lp[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?25l [?25h[?25l$[?25h[?25l2[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[9;23r[9;1H[L[1;24r[9;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lF[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l [?25h[?25lc[?25h[?25lo[?25h[?25lp[?25h[?25li[?25h[?25le[?25h[?25ld[?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25l[?25h[?25l[?25h[?25lt[?25h[?25lo[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l@[?25h[?25l[?25h[?25l2[?25h[?25l][?25h[?2004h[>4;2m
+[?2004l[>4;m[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l0[?25h[?2004h[>4;2m
+[?2004l[>4;m[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25ll[?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l-[?25h[?25ld[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[12;1H[K[12;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[13;1H[K[13;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lc[?25h[?25lp[?25h[?25l [?25h[?25l-[?25h[?25lr[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?25l [?25h[?25l$[?25h[?25l2[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[14;1H[K[14;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lD[?25h[?25li[?25h[?25lr[?25h[?25le[?25h[?25lc[?25h[?25lt[?25h[?25lo[?25h[?25lr[?25h[?25ly[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l [?25h[?25lc[?25h[?25lo[?25h[?25lp[?25h[?25li[?25h[?25le[?25h[?25ld[?25h[?25l [?25h[?25lt[?25h[?25lo[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l2[?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[15;1H[K[15;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25l[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l0[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[16;1H[K[16;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?25l[24;1H[97m[41mE353: Nothing in register "[16;12H[?25h[?2004l[>4;m[?25l[m[17;1H[K[17;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lN[?25h[?25lo[?25h[?25l [?25h[?25ls[?25h[?25lu[?25h[?25lc[?25h[?25lh[?25h[?25l [?25h[?25lf[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25l [?25h[?25lo[?25h[?25lr[?25h[?25l [?25h[?25ld[?25h[?25li[?25h[?25lr[?25h[?25le[?25h[?25lc[?25h[?25lt[?25h[?25lo[?25h[?25lr[?25h[?25ly[?25h[?25l [?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[18;1H[K[18;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l2[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[19;1H[K[19;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lf[?25h[?25li[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[20;1H[K[20;1H[?25h[?25lf[?25h[?25li[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"copy2" [New File] 20 lines, 450 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x copy2
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./copy2
+Usage : cp src dst
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./copy2 [K[K[K[K[K[K[K[Kls -l
+total 32
+-rwxrwxr-x 1 codebind codebind  330 Nov 26 14:56 [0m[01;32mcop[0m
+-rwxrwxr-x 1 codebind codebind  243 Nov 26 14:06 [01;32mcopy[0m
+-rwxrwxr-x 1 codebind codebind  450 Nov 27 19:39 [01;32mcopy2[0m
+-rwxrwxr-x 1 codebind codebind  251 Nov 26 14:23 [01;32mcopyy[0m
+-rwxrwxr-x 1 codebind codebind  348 Nov 26 13:09 [01;32mdelete[0m
+-rwxrwxr-x 1 codebind codebind  268 Nov 27 19:27 [01;32mdeleted[0m
+-rwxrwxr-x 1 codebind codebind  275 Nov 26 13:28 [01;32mdeletee[0m
+drwxrwxr-x 2 codebind codebind 4096 Nov 26 13:45 [01;34mmydirr[0m
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ de[K[Kls -l./copy2 deleted dededede
+File [deleted] copied to [dededede]
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./copy2 deleted dededede[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+Usage : cp src dst
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./copy2 de dfgbdfgb
+No such file or directory name [de]
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./copy2 de dfgbdfgb[K[K[K[1P[1P[C[1@c[1@a[1@t[1@ 
+if [ $# -ne 2 ]
+then 
+        echo Usage : cp src dst 
+        exit 1
+else
+        if [ -f $1 ]
+        then
+                cp $1 $2
+                echo File [$1] copied to [$2]
+                exit 0
+        elif [ -d $1 ]
+        then 
+                cp -r $1 $2
+                echo Directory [$1] copied to [$2]
+                exit 0
+        else
+                echo No such file or directory name [$1]
+                exit 2
+        fi 
+fi
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi checkname
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"checkname" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[mi[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l$[?25h[?25l#[?25h[?25l [?25h[?25l-[?25h[?25ln[?25h[?25le[?25h[?25l [?25h[?25l1[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lU[?25h[?25ls[?25h[?25la[?25h[?25lg[?25h[?25le[?25h[?25l [?25h[?25l:[?25h[?25lc[?25h[?25lh[?25h[?25le[?25h[?25lc[?25h[?25lk[?25h[?25l [?25h[?25l[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l'[?25h[?25l[?25h[?25l"[?25h[?25l$[?25h[?25l1[?25h[?25l"[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;23r[6;1H[L[1;24r[6;1HD[24;1H[K[6;2H[?25h[?2004h[>4;2m[?25l[24;1H:[?2004h[?25hq![?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi checkname
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"checkname" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[mf[?25h[?25l[?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l$[?25h[?25l#[?25h[?25l [?25h[?25l-[?25h[?25ln[?25h[?25le[?25h[?25l [?25h[?25l1[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lU[?25h[?25ls[?25h[?25la[?25h[?25lg[?25h[?25le[?25h[?25l [?25h[?25l:[?25h[?25l [?25h[?25lc[?25h[?25lh[?25h[?25le[?25h[?25lc[?25h[?25lk[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l"[?25h[?25l$[?25h[?25l1[?25h[?25l"[?25h[?25l [?25h[?25l=[?25h[?25l [?25h[?25l"[?25h[?25la[?25h[?25lh[?25h[?25lm[?25h[?25la[?25h[?25ld[?25h[?25l"[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[7;1H[K[7;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[8;1H[K[8;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l:[?25h[?25lH[?25h[?25le[?25h[?25ll[?25h[?25ll[?25h[?25lo[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[9;1H[K[9;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l0[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[10;1H[K[10;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[11;1H[K[11;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?25l[?25h[?25l[?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l [?25h[?25l:[?25h[?25lG[?25h[?25lo[?25h[?25lo[?25h[?25ld[?25h[?25lb[?25h[?25ly[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[12;1H[K[12;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l0[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[13;1H[K[13;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lf[?25h[?25li[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[14;1H[K[14;1H[?25h[?25lf[?25h[?25li[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"checkname" [New File] 14 lines, 253 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi checkname[2Pcat copy2 ./copy2 de dfgbdfgb[Kleted dedededels -l[K./copy2chmod +x copy2[6Pvi[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[K[K[K[K[Kcheckname 
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x checkname [7Pvi checkname[1Pcheckname[1Pcheckname[1Pcheckname.checkname/checkname[C[C[C[C[C[C[C[C
+Usage : checkname name
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkname ahmad
+[ahmad]:Hello
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkname ahmad[K[K[K[K[Kmohammad
+[mohammad] :Goodbye
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkname mohammad[K[K[K[K[K[K[K[Ksuha
+[suha] :Goodbye
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkname suha[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K./checkname mohammad[C[K[K[K[K[K[K[K[K[K[1Pcheckname[1Pcheckname[Cchecknameachecknametcheckname checkname
+if [ $# -ne 1 ]
+then
+        echo Usage : checkname name
+        exit 1
+else
+        if [ "$1" = "ahmad" ]
+        then
+              echo [$1]:Hello
+              exit 0
+        else
+              echo [$1] :Goodbye
+              exit 0
+        fi 
+fi
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi checkusername
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"checkusername" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[mi[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l$[?25h[?25l#[?25h[?25l [?25h[?25l-[?25h[?25ln[?25h[?25le[?25h[?25l [?25h[?25l1[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lU[?25h[?25ls[?25h[?25la[?25h[?25lg[?25h[?25le[?25h[?25l [?25h[?25l:[?25h[?25l [?25h[?25lC[?25h[?25lH[?25h[?25lE[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25lc[?25h[?25lh[?25h[?25le[?25h[?25lc[?25h[?25lk[?25h[?25lu[?25h[?25ls[?25h[?25le[?25h[?25lr[?25h[?25l [?25h[?25ln[?25h[?25la[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25lo[?25h[?25lu[?25h[?25lt[?25h[?25lp[?25h[?25lu[?25h[?25lt[?25h[?25l=[?25h[?25l$[?25h[?25l([?25h[?25lc[?25h[?25la[?25h[?25lt[?25h[?25l [?25h[?25l/[?25h[?25le[?25h[?25lt[?25h[?25lc[?25h[?25l/[?25h[?25lp[?25h[?25la[?25h[?25ls[?25h[?25ls[?25h[?25lw[?25h[?25ld[?25h[?25l [?25h[?25l|[?25h[?25l [?25h[?25ld[?25h[?25lr[?25h[?25le[?25h[?25lp[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25lg[?25h[?25lr[?25h[?25le[?25h[?25lp[?25h[?25l [?25h[?25l"[?25h[?25l^[?25h[?25l$[?25h[?25l![?25h[?25l"[?25h[?25l[?25h[?25l:[?25h[?25l'[?25h[?25l[?25h[?25l"[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l1[?25h[?25l:[?25h[?25l"[?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[7;1H[K[7;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25li[?25h[?25lf[?25h[?25l [?25h[?25l[[?25h[?25l [?25h[?25l-[?25h[?25lz[?25h[?25l [?25h[?25l"[?25h[?25l$[?25h[?25lo[?25h[?25lu[?25h[?25lt[?25h[?25lp[?25h[?25lu[?25h[?25lt[?25h[?25l"[?25h[?25l [?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[8;1H[K[8;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lt[?25h[?25lh[?25h[?25le[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[9;1H[K[9;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l [?25h[?25l=[?25h[?25l [?25h[?25ln[?25h[?25lo[?25h[?25l [?25h[?25ls[?25h[?25lu[?25h[?25lc[?25h[?25lh[?25h[?25l [?25h[?25lu[?25h[?25ls[?25h[?25lr[?25h[?25le[?25h[?25l[?25h[?25l[?25h[?25le[?25h[?25lr[?25h[?25l [?25h[?25l[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[10;1H[K[10;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lr[?25h[?25l[?25h[?25le[?25h[?25l[?25h[?25le[?25h[?25lw[?25h[?25l[?25h[?25l[?25h[?25lw[?25h[?25l[?25h[?25lt[?25h[?25l [?25h[?25l2[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[11;1H[K[11;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25ll[?25h[?25ls[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[12;1H[K[12;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lf[?25h[?25lu[?25h[?25ll[?25h[?25ll[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l=[?25h[?25l$[?25h[?25l([?25h[?25lc[?25h[?25lu[?25h[?25lt[?25h[?25l [?25h[?25l-[?25h[?25ld[?25h[?25l:[?25h[?25l [?25h[?25l-[?25h[?25lf[?25h[?25l [?25h[?25l[?25h[?25l5[?25h[?25l [?25h[?25l$[?25h[?25lo[?25h[?25lu[?25h[?25lt[?25h[?25lp[?25h[?25lu[?25h[?25lt[?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[13;1H[K[13;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l[[?25h[?25l$[?25h[?25l1[?25h[?25l][?25h[?25l [?25h[?25l=[?25h[?25l [?25h[?25l$[?25h[?25lf[?25h[?25lu[?25h[?25ll[?25h[?25ll[?25h[?25ln[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[14;1H[K[14;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lo[?25h[?25lx[?25h[?25l[?25h[?25l[?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l0[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[15;1H[K[15;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25lf[?25h[?25li[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[16;1H[K[16;1H[?25h[?25lf[?25h[?25li[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"checkusername" [New File] 16 lines, 356 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi checkusername[3Pcat checkname[K./checkname mohammad[3Pahmad[Kchmod +x checkname [7Pvi checknamechmod +x checkname [K[K[K[K[K[3P./checknamechmod +x check[2Pvi checkname[2Pcat copy2 ./copy2 de dfgbdfgb[Kleted dedededels -l[K./copy2chmod +x copy2[6Pvi[C[C[C[C[C[C./deleted wrong[7Pvi copy2./deleted wrong[7Pvi copy2[6@chmod +x[C[C[C[C[C[C[7P./copy2[2Pls -l./copy2 deleted dededede[Kleted dededede[K dfgbdfgb[9Pcat copy2 vi checknamechmod +x check[3P./checkname ahmadmohammad[3Pahmad[Kchmod +x checkusername
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x checkusername[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcheckusername[1Pcheckusername[1Pcheckusername.checkusername/checkusername
+Usage : checkusername
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkusername mohammad
+[mohammad] = no such username
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkusername mohammad21[K[K[K[K[K[K[K[K[K[K5486
+[5486] = no such username
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkusername 5486[K[K[K[K[K root
+cut: 'root:x:0:0:root:/root:/bin/bash': No such file or directory
+[root] =
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkusername root[K[K[K[Kcodebind
+cut: 'codebind:x:1000:1000:codebind,,,:/home/codebind:/bin/bash': No such file or directory
+[codebind] =
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./checkusername codebind[K[K[K[K[K[K[K[K[K[1Pcheckusername[1Pcheckusername[Ccheckusernameacheckusernametcheckusername checkusername
+if [ $# -ne 1 ]
+then 
+       echo Usage : checkusername 
+       exit 1
+else
+       output=$(cat /etc/passwd | grep "^$1:")
+       if [ -z "$output" ]
+       then
+              echo [$1] = no such username 
+              exit 2 
+       else
+              fullname=$(cut -d: -f5 $output)
+              echo [$1] = $fullname
+              exit 0
+       fi
+fi
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi case
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"case" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[mc[?25h[?25la[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25l$[?25h[?25l1[?25h[?25l [?25h[?25li[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25ls[?25h[?25l*[?25h[?25l [?25h[?25l|[?25h[?25l [?25h[?25lS[?25h[?25l*[?25h[?25l [?25h[?25l|[?25h[?25l [?25h[?25lg[?25h[?25lo[?25h[?25lo[?25h[?25ld[?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lp[?25h[?25la[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25ln[?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l:[?25h[?25l:[?25h[?25l[?25h[?25l[?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[[?25h[?25lA[?25h[?25l-[?25h[?25lZ[?25h[?25l][?25h[?25l*[?25h[?25l[[?25h[?25l0[?25h[?25l-[?25h[?25l5[?25h[?25l][?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;23r[5;1H[L[1;24r[24;1H[K[5;1H[?25h[?25lO[?25h[?2004h[>4;2m[?25l[24;1H:[?2004h[?25hQ[?25l[24;2H[K[24;2H[?25hQ[?25l[24;2H[K[24;2H[?25hq![?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi case
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"case" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[mcase $1 in
+       s* | S* | good)[2;23H[K[3;1H               echo pattern1[3;29H[K[4;1H     [4;6H[K[4;6H[?25h[?25l[10C;;[5;1H[K[5;1H[?25h[?2004h[>4;2m[?2004l[>4;m[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l[[?25h[?25lA[?25h[?25l-[?25h[?25lZ[?25h[?25l][?25h[?25l*[?25h[?25l[[?25h[?25l0[?25h[?25l-[?25h[?25l5[?25h[?25l][?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lp[?25h[?25la[?25h[?25lr[?25h[?25lr[?25h[?25l[?25h[?25l[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25ln[?25h[?25l2[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[7;1H[K[7;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[8;1H[K[8;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[[?25h[?25la[?25h[?25l-[?25h[?25lz[?25h[?25l][?25h[?25l[[?25h[?25l0[?25h[?25l-[?25h[?25l9[?25h[?25l][?25h[?25l[[?25h[?25l0[?25h[?25l-[?25h[?25l9[?25h[?25l][?25h[?25l[[?25h[?25l0[?25h[?25l-[?25h[?25l9[?25h[?25l][?25h[?25l[[?25h[?25l0[?25h[?25l-[?25h[?25l][?25h[?25l[?25h[?25l9[?25h[?25l][?25h[?25l[[?25h[?25lA[?25h[?25l-[?25h[?25lZ[?25h[?25l][?25h[?25lA[?25h[?25l[?25h[?25l[[?25h[?25lA[?25h[?25l-[?25h[?25lZ[?25h[?25l][?25h[?25l[[?25h[?25lA[?25h[?25l-[?25h[?25lZ[?25h[?25l][?25h[?25l[[?25h[?25la[?25h[?25l-[?25h[?25lf[?25h[?25l][?25h[?2004h[>4;2m[?2004l[>4;m[?25l[9;1H[K[9;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lp[?25h[?25la[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25ln[?25h[?25l3[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[10;1H[K[10;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[11;1H[K[11;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l*[?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[12;1H[K[12;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25ln[?25h[?25lo[?25h[?25l [?25h[?25lp[?25h[?25la[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25ln[?25h[?25l [?25h[?25lf[?25h[?25lo[?25h[?25lu[?25h[?25ln[?25h[?25ld[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[13;1H[K[13;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[14;1H[K[14;1H[?25h[?25le[?25h[?25ls[?25h[?25la[?25h[?25lc[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"case" [New File] 14 lines, 322 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi casecat checkusername./checkusername codebind[4Proot5486mohammad[Kchmod +x checkusername[6Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@chmod +x[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[Kcase
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x case[6Pvi[C[C[C[C[C[1Pcase[1Pcase[1Pcase.case/case[C[C[C[C A
+./case: line 8: syntax error near unexpected token `newline'
+./case: line 8: `       [a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f]'
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case Achmod +x case[6Pvi[C[C[C[C[C
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"case" 14 lines, 322 characters[1;1Hcase $1 in[2;8Hs* | S* | good)[3;16Hecho pattern1[4;16H;;[5;8H[A-Z]*[0-5])[6;16Hecho pattern2[7;16H;;[8;8H[a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f][9;17Hecho pattern3[10;17H;;[11;8H*)[12;17Hecho no pattern found[13;17H;;
+esac
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[1;23r[m[23;1H
+[1;24r[1;1Hcase $1 in s* | S* | good)[23;1H[94m~                                                                               [m[24;1H[K[1;11H[?25h[?25l[24;1H:[?2004h[?25hQ[?25l[24;2H[K[24;2H[?25hq![?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi case
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"case" 14 lines, 322 characters[1;1Hcase $1 in[2;8Hs* | S* | good)[3;16Hecho pattern1[4;16H;;[5;8H[A-Z]*[0-5])[6;16Hecho pattern2[7;16H;;[8;8H[a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f][9;17Hecho pattern3[10;17H;;[11;8H*)[12;17Hecho no pattern found[13;17H;;
+esac
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h
+
+
+
+
+
+
+[m       [a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f[?2004l[>4;m[?25l)][?25h[?25l[?25h[?25l][?25h[?25l)][?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"case" 14 lines, 324 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi case
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"case" 14 lines, 324 characters[1;1Hcase $1 in[2;8Hs* | S* | good)[3;16Hecho pattern1[4;16H;;[5;8H[A-Z]*[0-5])[6;16Hecho pattern2[7;16H;;[8;8H[a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f])][9;17Hecho pattern3[10;17H;;[11;8H*)[12;17Hecho no pattern found[13;17H;;
+esac
+[94m~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h
+
+
+
+
+
+
+
+
+
+[10;1H[9;1H[8;1H[m       [a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f])[?25l[8;54H[K[8;53H[?25h[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"case" 14 lines, 323 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi case./case Achmod +x case
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x case[6Pvi[C[C[C[C[C./case A
+no pattern found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case A[Kgood
+pattern1
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case good[K[K[K[Ks
+pattern1
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case s[KS
+pattern1
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case S[K9
+no pattern found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case 9fdgnbfgn
+no pattern found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case 9fdgnbfgn[K[K[K[K[K[K[K[K[Kfsjdhish
+no pattern found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./case fsjdhish[K[K[K[K[K[K[K[KA0
+pattern2
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ cat case
+case $1 in
+       s* | S* | good)
+               echo pattern1
+               ;;
+       [A-Z]*[0-5])
+               echo pattern2
+               ;;
+       [a-z][0-9][0-9][0-9][0-9][A-Z][A-Z][A-Z][a-f])
+                echo pattern3
+                ;;
+       *)
+                echo no pattern found
+                ;;
+esac
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi mainscript
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"mainscript" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[>4;m[?25l[me[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25lp[?25h[?25ll[?25h[?25le[?25h[?25ls[?25h[?25l[?25h[?25la[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25ls[?25h[?25le[?25h[?25ll[?25h[?25le[?25h[?25lc[?25h[?25lt[?25h[?25l [?25h[?25ly[?25h[?25lo[?25h[?25lu[?25h[?25lr[?25h[?25l [?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25li[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25l:[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;1H[K[2;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l1[?25h[?25l-[?25h[?25l [?25h[?25lR[?25h[?25lu[?25h[?25ln[?25h[?25l [?25h[?25ls[?25h[?25lc[?25h[?25lr[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;1H[K[3;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l2[?25h[?25l-[?25h[?25l [?25h[?25lR[?25h[?25lu[?25h[?25ln[?25h[?25l [?25h[?25ls[?25h[?25lc[?25h[?25lr[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25l [?25h[?25l2[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[4;1H[K[4;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l3[?25h[?25l-[?25h[?25l [?25h[?25lR[?25h[?25lu[?25h[?25ln[?25h[?25l [?25h[?25ls[?25h[?25lc[?25h[?25lr[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25l [?25h[?25l3[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[5;1H[K[5;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l4[?25h[?25l-[?25h[?25l [?25h[?25lE[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[6;1H[K[6;1H[?25h[?25lr[?25h[?25le[?25h[?25la[?25h[?25ld[?25h[?25l [?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25li[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[7;1H[K[7;1H[?25h[?25lc[?25h[?25la[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25l$[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25li[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?25li[?25h[?25ln[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[8;1H[K[8;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l1[?25h[?25l)[?25h[?25l [?25h[?25l.[?25h[?25l/[?25h[?25ls[?25h[?25lc[?25h[?25lr[?25h[?25le[?25h[?25l[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[9;1H[K[9;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[10;1H[K[10;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l2[?25h[?25l)[?25h[?25l [?25h[?25l.[?25h[?25l/[?25h[?25l [?25h[?25l[?25h[?25ls[?25h[?25lc[?25h[?25la[?25h[?25l[?25h[?25lr[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25l2[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[11;1H[K[11;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[12;1H[K[12;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l3[?25h[?25l)[?25h[?25l [?25h[?25l.[?25h[?25l/[?25h[?25ls[?25h[?25lc[?25h[?25la[?25h[?25l[?25h[?25lr[?25h[?25li[?25h[?25lp[?25h[?25lt[?25h[?25l3[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[13;1H[K[13;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[14;1H[K[14;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l4[?25h[?25l)[?25h[?25l [?25h[?25le[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l [?25h[?25l1[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[15;1H[K[15;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[16;1H[K[16;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l*[?25h[?25l)[?25h[?25l [?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25li[?25h[?25ln[?25h[?25lv[?25h[?25la[?25h[?25ll[?25h[?25li[?25h[?25ld[?25h[?25l [?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25li[?25h[?25ls[?25h[?25le[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[17;1H[K[17;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l;[?25h[?25l;[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[18;1H[K[18;1H[?25h[?25le[?25h[?25ls[?25h[?25la[?25h[?25lc[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"mainscript" [New File] 18 lines, 347 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi mainscript[5Pcat case./case A0fsjdhish9fdgnbfgn[KSsgoodA[Kchmod +x case[6Pvi[C[C[C[C[C[6@chmod +x[C[C[C[C[C[K[K[K[Kscript1 script2 script3
+chmod: cannot access 'script1': No such file or directory
+chmod: cannot access 'script2': No such file or directory
+chmod: cannot access 'script3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script1 script2 script3[19Pvi mainscript[5Pcat case./case A0fsjdhish9fdgnbfgn[KSsgoodA[Kchmod +x case[6Pvi[C[C[C[C[C[6@chmod +x[C[C[C[C[C[K[K[K[K[K mainscript
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x mainscript[1P mainscript[1P mainscript[1Pmainscript[1P mainscript[1P mainscript[1P mainscript[1P mainscript[1P mainscript[C. mainscript/ mainscript[C[1Pmainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+1
+./mainscript: line 8: ./script1: No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./mainscriptchmod +x mainscriptscript1 script2 script3[19Pvi mainscript[5Pcat casevi mainscriptchmod +x script1 script2 script3
+chmod: cannot access 'script1': No such file or directory
+chmod: cannot access 'script2': No such file or directory
+chmod: cannot access 'script3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script1 script2 script3[20P./mainscriptchmod +x mainscript
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x mainscriptscript1 script2 script3[20P./mainscriptchmod +x mainscript[7P./mainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+2
+./mainscript: line 10: ./script2: No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./mainscriptchmod +x mainscriptscript1 script2 script3
+chmod: cannot access 'script1': No such file or directory
+chmod: cannot access 'script2': No such file or directory
+chmod: cannot access 'script3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ cat mainscript
+echo please select your choise :
+echo 1- Run script 1
+echo 2- Run script 2
+echo 3- Run script 3
+echo 4- Exit 
+read choise 
+case $choise in
+       1) ./script1
+                ;;
+       2) ./script2
+                ;;
+       3) ./script3
+                ;;
+       4) exit 1
+                ;;
+       *) echo invalid choise 
+                ;;
+esac
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ cat mainscripthmod +x script1 script2 script3 3[1@ [1@ 
+chmod: cannot access 'script': No such file or directory
+chmod: cannot access '1': No such file or directory
+chmod: cannot access 'script': No such file or directory
+chmod: cannot access '2': No such file or directory
+chmod: cannot access 'script': No such file or directory
+chmod: cannot access '3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script 1 script 2 script 3[1P3[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+chmod: cannot access 'script1': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script1  1 script 2 script 3[21Pat mainscripthmod +x script1 script2 script3[18Pat mainscript[C[C[1P mainscript[1P mainscript[1P mainscriptc mainscripth mainscript[C mainscript[1Pmainscript[1P mainscript[1P mainscripts mainscriptg mainscript[1P mainscripth mainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+1
+mainscript: 8: ./script1: not found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ sh mainscriptchmod +x script1  1 script 2 script 3[21Pat mainscripthmod +x script 1 script 2 script 3
+chmod: cannot access 'script': No such file or directory
+chmod: cannot access '1': No such file or directory
+chmod: cannot access 'script': No such file or directory
+chmod: cannot access '2': No such file or directory
+chmod: cannot access 'script': No such file or directory
+chmod: cannot access '3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script 1 script 2 script 3[1P3[1P[1P
+chmod: cannot access 'script1': No such file or directory
+chmod: cannot access 'script2': No such file or directory
+chmod: cannot access 'script3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ [K]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ [K]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ [K]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ [K]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script1 script2 script3[Kchmod +x script1 script2 script3[Kchmod +x script1 script2 script3[Kchmod +x script1 script2 script3[Kchmod +x script1 script2 script3 1 script 2 script 3[22Psh mainscriptchmod +x script1  1 script 2 script 3[21Pat mainscripthmod +x script1 script2 script3[20P./mainscriptchmod +x mainscriptscript1 script2 script3[20P./mainscriptchmod +x mainscriptscript1 script2 script3[19Pvi mainscript[5Pcat casevi mainscript
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;23r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[23;1H"mainscript" 18 lines, 347 characters[1;1Hecho please select your choise :
+echo 1- Run script 1
+echo 2- Run script 2
+echo 3- Run script 3
+echo 4- Exit
+read choise
+case $choise in[8;8H1) ./script1[9;17H;;[10;8H2) ./script2[11;17H;;[12;8H3) ./script3[13;17H;;[14;8H4) exit 1[15;17H;;[16;8H*) echo invalid choise[17;17H;;
+esac
+[94m~                                                                              [20;1H~                                                                              [21;1H~                                                                              [22;1H~                                                                              [1;1H[?25h
+
+
+
+
+
+
+[m       1)[?25l./script1[8;19H[K[8;10H[?25h[?25l/script1[8;18H[K[8;10H[?25h[?25lscript1[8;17H[K[8;10H[?25h[9;10H[10;10H[?25l./script2[10;19H[K[10;10H[?25h[?25l/script2[10;18H[K[10;10H[?25h[?25lscript2[10;17H[K[10;10H[?25h[11;10H[12;10H[?25l./script3[12;19H[K[12;10H[?25h[?25l/script3[12;18H[K[12;10H[?25h[?25lscript3[12;17H[K[12;10H[?25h[?25l[23;1H[K[23;1H:[?2004h[?25hwq[?25l[?2004l"mainscript" 18 lines, 338 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ vi mainscriptchmod +x script1 script2 script3 1 script 2 script 3[22Psh mainscriptchmod +x script1 [4Psh mainscriptchmod +x script1  1 script 2 script 3[21Pat mainscripthmod +x script1 script2 script3[20P./mainscriptchmod +x mainscript[7P./mainscriptchmod +x mainscript
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x mainscript[6Pvi[C[C[C[C[C[C[C[C[C[C[Cchmod +x script1 script2 script3 1 script 2 script 3[22Psh mainscriptchmod +x script1  1 script 2 script 3[21Pat mainscripthmod +x script1 script2 script3[20P./mainscriptchmod +x mainscript[7P./mainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+1
+./mainscript: line 8: script1: command not found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ ./mainscriptchmod +x mainscript[6Pvi[C[C[C[C[C[C[C[C[C[C[Cchmod +x script1 script2 script3
+chmod: cannot access 'script1': No such file or directory
+chmod: cannot access 'script2': No such file or directory
+chmod: cannot access 'script3': No such file or directory
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ chmod +x script1 script2 script3[20P./mainscriptchmod +x mainscript[7P./mainscript[1Pmainscript[1Pmainscriptsmainscripthmainscript mainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+1
+mainscript: 8: script1: not found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ sh mainscript2
+sh: 0: Can't open mainscript2
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ sh mainscript2[K
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+2
+mainscript: 10: script2: not found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ sh mainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+3
+mainscript: 12: script3: not found
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ sh mainscript
+please select your choise :
+1- Run script 1
+2- Run script 2
+3- Run script 3
+4- Exit
+4
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ cat mainscript 
+echo please select your choise :
+echo 1- Run script 1
+echo 2- Run script 2
+echo 3- Run script 3
+echo 4- Exit 
+read choise 
+case $choise in
+       1)script1
+                ;;
+       2)script2
+                ;;
+       3)script3
+                ;;
+       4) exit 1
+                ;;
+       *) echo invalid choise 
+                ;;
+esac
+]0;codebind@codebind: ~/Desktop/lab10[01;32mcodebind@codebind[00m:[01;34m~/Desktop/lab10[00m$ exit
+exit
+
+Script done on 2020-11-27 20:57:46+02:00 [COMMAND_EXIT_CODE="0"]

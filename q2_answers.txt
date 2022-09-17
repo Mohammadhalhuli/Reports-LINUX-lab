@@ -1,0 +1,91 @@
+Task 1:
+Command: grep -i Mohammad prj_passwd | cut -d: -f1
+
+-i is used since it has mentioned that it should print mohammad for all cases, so by using -i, it makes mohammad as case insensitive
+grep: used to extract certain rows (lines) from a given input. We will concentrate on the
+options -i
+f indicates fields
+cut :used to extract certain columns from a given input. We will use the options -d
+
+Explanation:Display the login names (e.g., u1183456) of all users whose first name is Mohammad (all cases).
+
+Task 2:
+Command: grep comp322 prj_passwd | sort -k2 | cut -d: -f5 | cut -d_ -f1
+grep: used to extract certain rows (lines) from a given input. We will concentrate on the
+options
+f indicates fields
+cut :used to extract certain columns from a given input. We will use the options -d
+sort: used for sorting a given input. We will present the options 
+
+Explanation:Display the first names of all users with comp322 as part of their home directory sorted by the
+numerical value of their user id numbers.
+
+Task 3:
+Command:grep -i Mohammad_ prj_passwd | sed 's/Mohammad/Mhmoud/' > Mahmoud_passed
+grep: used to extract certain rows (lines) from a given input. We will concentrate on the
+options
+sed: used for stream editing (changing parts of an input to a specified output)
+
+Explanation:Select all the users with first name Mohammad (all cases) and change their first names to Mahmoud
+and save their entries (lines) to a file called Mahmoud_passwd.
+
+Task 4:
+Command:tail -5 prj_passwd | head -3 | cut -d: -f5 | sed 's/_/ /'
+
+ tail: used to display lines from the beginning or end of a given input 
+cut :used to extract certain columns from a given input. We will use the options -d
+
+Explanation:List the full names (i.e., first name and last name separated by a space) of the three users before
+the last two users in the file.
+
+
+Task 5:
+Command:sort -u prj_passwd > clearp
+
+sort: used for sorting a given input. We will present -u, 
+
+Explanation:Using sort command, remove all duplicate lines from the file prj2_passwd and save the result to
+a file called cleanprj2_passwd.
+
+
+Task 6:
+Command: grep [1][1][^6] prj_passwd | sort -k2 -r | cut -d: -f5 | cut -d_ -f2 | tr "a-z" "A-Z"
+
+grep: used to extract certain rows (lines) from a given input. We will concentrate on the
+options
+f indicates fields
+cut :used to extract certain columns from a given input. We will use the options -d
+sort: used for sorting a given input. We will present the options 
+tr: translates (changes) a given input to a specified output
+
+Explanation:List the last names (all in capital letter) sorted in descending order of all users with login names that do NOT start with u116.
+
+Task 7:
+Command:grep 'u116' prj_passwd | wc -l
+
+grep: used to extract certain rows (lines) from a given input. We will concentrate on the
+options
+wc: used to count lines, words, or characters in a given input.
+
+Explanation:List the number of users that have a login name that starts with u116.
+
+Task 8:
+Command:sed 's/ksh/bash/' prj_passwd > oldkshuser
+sed: used for stream editing (changing parts of an input to a specified output)
+
+Explanation:Change the shell of all users with ksh as their shell to bash and save their entries (lines) to a file called oldkshusers.
+
+Task 9:
+Command:grep [1][1][6] prj_passwd | sort -k2 -r | cut -d: -f5 | cut -d_ -f2 | tail -4
+
+rep: used to extract certain rows (lines) from a given input. We will concentrate on the
+options
+f indicates fields
+cut :used to extract certain columns from a given input. We will use the options -d
+sort: used for sorting a given input. We will present the options 
+ tail: used to display lines from the beginning or end of a given input 
+
+Explanation:List the last names of all users with login names that start with u116 and end with a digit from 1 to 4.
+
+
+//Mohammad hlhwly-1191413

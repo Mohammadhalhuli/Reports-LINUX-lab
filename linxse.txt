@@ -1,0 +1,8 @@
+Download VirtualBox (Old Builds): VirtualBox 6.0;
+Download Ubuntu Desktop;
+------------------------------------------------
+---------------
+script tesk1.log
+script lab1.log
+exit
+script-a lab1.log
